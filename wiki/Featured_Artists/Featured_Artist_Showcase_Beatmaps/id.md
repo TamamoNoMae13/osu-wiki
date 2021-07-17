@@ -317,7 +317,7 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
   - (![][osu!]) [Amidst - Fate](https://osu.ppy.sh/beatmapsets/1359944#osu/2814151) diurus oleh ![][flag_US] [Aeril](https://osu.ppy.sh/users/4334976)
   - (![][osu!]) [Amidst - Treat (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1345615#osu/2786730) diurus oleh ![][flag_RU] [Daycore](https://osu.ppy.sh/users/5596337)
   - (![][osu!]) [Amidst & OHEY - Need U (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1319384#osu/2733104) diurus oleh ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231)
-- **[Xanthochroid](https://osu.ppy.sh/home/news/2021-03-27-new-featured-artist-amidst)** (2021-03-27)
+- **[Xanthochroid](https://osu.ppy.sh/home/news/2021-03-31-new-featured-artist-xanthochroid)** (2021-03-31)
   - (![][osu!]) [Xanthochroid - The Sound of Hunger Rises](https://osu.ppy.sh/beatmapsets/1335143#osu/2766094) diurus oleh ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)
 
 ### April
@@ -348,6 +348,18 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
   - (![][osu!mania]) [Aiobahn - Sugiyuku Hi to Kimi e (feat. nayuta)](https://osu.ppy.sh/beatmapsets/1126358) diurus oleh ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717)
 - **[yukitani](https://osu.ppy.sh/home/news/2021-05-22-new-featured-artist-yukitani)** (2021-05-22)
   - (![][osu!taiko]) [yukitani - Amusing Reflection Rag.](https://osu.ppy.sh/beatmapsets/1436446) diurus oleh ![][flag_AR] [Reficul](https://osu.ppy.sh/users/1506011)
+- **[Sewerslvt](https://osu.ppy.sh/home/news/2021-05-29-new-featured-artist-sewerslvt)** (2021-05-29)
+  - (![][osu!taiko]) [Sewerslvt - Newlove](https://osu.ppy.sh/beatmapsets/1442626) diurus oleh ![][flag_FI] [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
+
+### Juni
+
+- **[La priere](https://osu.ppy.sh/home/news/2021-06-16-new-featured-artist-la-priere)** (2021-06-16)
+  - (![][osu!]) [La prière - Senjou no Utahime](https://osu.ppy.sh/beatmapsets/1398580) diurus oleh ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323)
+  - (![][osu!]) [La prière - Kyouzou no Canon](https://osu.ppy.sh/beatmapsets/1475603) diurus oleh ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015)
+- **[katagiri](https://osu.ppy.sh/home/news/2020-06-23-new-featured-artist-katagiri)** (2021-06-23)
+  - (![][osu!catch]) [katagiri - Urushi](https://osu.ppy.sh/beatmapsets/1482723) diurus oleh ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
+- **[Andromedik](https://osu.ppy.sh/home/news/2021-06-26-new-featured-artist-andromedik)** (2018-06-26)
+  - (![][osu!]) [Andromedik x Itro x Polygon - Fly](https://osu.ppy.sh/beatmapsets/1470255) diurus oleh ![][flag_FR] [BOUYAAA](https://osu.ppy.sh/users/405449)
 
 ## Sejarah
 

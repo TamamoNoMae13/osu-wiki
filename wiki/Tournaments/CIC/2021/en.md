@@ -8,19 +8,19 @@ tags:
 
 ![CIC 2021 banner](img/banner.jpg)
 
-The **Catch the Beat Indonesia Cup 2021** (***CIC 2021***) is a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) and ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751). The tournament is open to all osu!catch players from Indonesia with over 3,000 osu!catch playcount regardless of rank. It is the ninth iteration of the Catch the Beat Indonesia Cup.
+The **Catch the Beat Indonesia Cup 2021** (***CIC 2021***) is a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) and ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751). The tournament is open to all players from Indonesia with a playcount of 3,000 or above in osu!catch regardless of rank. It is the ninth iteration of the Catch the Beat Indonesia Cup.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2021-06-01/2021-06-10 |
-| Screening phase | 2021-06-10/2021-06-20 |
-| Group stage | 2021-06-21/2021-06-27 |
-| Round of 16 | 2021-06-28/2021-07-04 |
-| Quarterfinals | 2021-07-05/2021-07-11 |
-| Semifinals | 2021-07-12/2021-07-18 |
-| Finals | 2021-07-19/2021-07-25 |
+| Screening phase | 2021-06-10/2021-06-27 |
+| Group stage | 2021-06-28/2021-07-04 |
+| Round of 16 | 2021-07-05/2021-07-11 |
+| Quarterfinals | 2021-07-12/2021-07-18 |
+| Semifinals | 2021-07-19/2021-07-25 |
+| Finals | 2021-07-26/2021-08-01 |
 
 ## Prizes
 
@@ -40,7 +40,7 @@ CIC 2021 is run by various Indonesian osu! community members.
 | Mappool selector | ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
 | Streamer | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) |
 | Commentator | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869),  ![][flag_ID] [Ascaveth](https://osu.ppy.sh/users/3245206), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988) |
-| Referee | ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Asqed](https://osu.ppy.sh/users/6525565), ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) |
+| Referee | ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Koimeji](https://osu.ppy.sh/users/4137039), ![][flag_ID] [Asqed](https://osu.ppy.sh/users/6525565), ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) |
 | Graphic designer | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692), ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817) |
 | Spreadsheet manager | ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
@@ -50,7 +50,164 @@ CIC 2021 is run by various Indonesian osu! community members.
 - **[Main spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDtfjCSGk1QtJRtCHHKaUD4uC3RwMC-aKJ8g3xDcQjomjmtKk_p8ARkd-TjJz5PXleqq8ukPHNPiYV/pubhtml "Google Sheets")**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1324864)
 - [Discord server](https://discord.gg/YwAYbPa "Discord")
+- [Challonge brackets](https://challonge.com/CIC2021 "Challonge")
 - [Livestream channel](https://www.twitch.tv/osuIndonesia/ "Twitch")
+
+## Participants
+
+Listed below are players who qualified into the Group stage (along with their respective seeding and group placement) out of 35 registered players in total.
+
+| Group | Seed A | Seed B | Seed C | Seed D |
+| :-- | :-- | :-- | :-- | :-- |
+| A | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) | ![][flag_ID] [Latina-](https://osu.ppy.sh/users/15015592) | ![][flag_ID] [Zvenx](https://osu.ppy.sh/users/14613788) | ![][flag_ID] [Konami-kun](https://osu.ppy.sh/users/15931741) |
+| B | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | ![][flag_ID] [Nekuro](https://osu.ppy.sh/users/3222638) | ![][flag_ID] [XxepandevanxX](https://osu.ppy.sh/users/13194580) | ![][flag_ID] [Kenneth Alfredo](https://osu.ppy.sh/users/829469) |
+| C | ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148) | ![][flag_ID] [Pyrozen](https://osu.ppy.sh/users/3031177) | ![][flag_ID] [Riria Rakira](https://osu.ppy.sh/users/6310025) | ![][flag_ID] [Kinora](https://osu.ppy.sh/users/20571283) |
+| D | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) | ![][flag_ID] [MrGulla](https://osu.ppy.sh/users/4540721) | ![][flag_ID] [Mixuri](https://osu.ppy.sh/users/9153772) |
+| E | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) | ![][flag_ID] [Xtream1500](https://osu.ppy.sh/users/20740438) |
+| F | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | ![][flag_ID] [by-ad](https://osu.ppy.sh/users/7439939) | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) | ![][flag_ID] [Holicia](https://osu.ppy.sh/users/3212755) |
+| G | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692) | ![][flag_ID] [ilhamuharam](https://osu.ppy.sh/users/7657968) | ![][flag_ID] [ARTPHONEY](https://osu.ppy.sh/users/2128050) |
+| H | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | ![][flag_ID] [Zylin](https://osu.ppy.sh/users/6692990) | ![][flag_ID] [Neori\_gaming](https://osu.ppy.sh/users/10772518) |
+
+## Mappools
+
+### Quarterfinals
+
+**[Download the mappack here! (128 MB)](https://drive.google.com/u/0/uc?id=1vM4kzGpTcNzv3jB-Zbv3Qiv3Dkf47h9g&export=download "Google Drive")**
+
+- NoMod
+  - [Minase Inori - Crystallize (Yumeno Himiko) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1315359#fruits/2725824)
+  - [xi - Bad Elixir (Nelly) \[Alchemistry\]](https://osu.ppy.sh/beatmapsets/1297551#fruits/2691794)
+  - [nomico - Bad Apple!! (ZHSteven) \[fruit\]](https://osu.ppy.sh/beatmapsets/24829#fruits/84285)
+  - [hololive IDOL PROJECT - Shiny Smily Story (Hollow Wings) \[Swan Song\]](https://osu.ppy.sh/beatmapsets/1296110#fruits/2689177)
+  - [xi - Last Resort (Kroytz) \[Real's GRAVITY\]](https://osu.ppy.sh/beatmapsets/800102#fruits/1679794) 
+- Hidden
+  - [Yorushika - Amy (autofanboy) \[Overcast Skies\]](https://osu.ppy.sh/beatmapsets/1191707#fruits/2483298)
+  - [siqlo feat. Norico - Growth Call (Jemzuu) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1276854#fruits/2652869)
+  - [Zektbach - The Sealer \~A Milia to Milia no Tami\~ (\[Keqing\]) \[Extra\]](https://osu.ppy.sh/beatmapsets/1414241#fruits/2915013)
+- HardRock
+  - [UNDEAD CORPORATION - Karakurenawi (Sinnoh) \[Overdose\]](https://osu.ppy.sh/beatmapsets/584147#fruits/1288820)
+  - [M2U - H.O.W.Ling (autofanboy) \[P.R.E.Dation\]](https://osu.ppy.sh/beatmapsets/1135047#fruits/2370553)
+  - [Nekomata Master - Izanami's wail (Saturnalize) \[AncuL's Another\]](https://osu.ppy.sh/beatmapsets/959449#fruits/3051097)
+- DoubleTime
+  - [la la larks - loop (Spectator) \[rain\]](https://osu.ppy.sh/beatmapsets/1310870#fruits/2717254)
+  - [Kana Nishino - Darling (Ascendance) \[Rain\]](https://osu.ppy.sh/beatmapsets/605215#fruits/1278689)
+  - [loos - Koi Yomi Zakura (Full size) (papapa213) \[koko's Insane\]](https://osu.ppy.sh/beatmapsets/602230#fruits/1428541)
+- Tiebreaker
+  - **[Horie Yui - The World's End (Bastian) \[Bastian & Greaper's Finale\]](https://osu.ppy.sh/beatmapsets/1134081#fruits/2368389)**
+
+### Round of 16
+
+**[Download the mappack here! (108 MB)](https://drive.google.com/u/0/uc?id=1qdwIbMol5EjZc2f1c8eE-_3MPzkOjioz&export=download "Google Drive")**
+
+- NoMod
+  - [Chitose Sara - Merry Merry Go Round (SHOT MUSIC Asterisk Remix) (-Izayoi) \[Carousel\]](https://osu.ppy.sh/beatmapsets/975120#fruits/2041038)
+  - [Inugami Korone & Nekomata Okayu - Hyadain no Joujou Yuujou (Cut Ver.) (My Angel RangE) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1413067#fruits/2912709)
+  - [Tatsh - Xepher (Nazalion) \[Rain+\]](https://osu.ppy.sh/beatmapsets/134486#fruits/337282)
+  - [Kage - FIRST (happy30) \[hatteke30's Extra\]](https://osu.ppy.sh/beatmapsets/194107#fruits/461048)
+  - [Eagle - S!ck (fanzhen0019) \[123\]](https://osu.ppy.sh/beatmapsets/788035#fruits/1653964) 
+- Hidden
+  - [YOASOBI - Yasashii Suisei (Crowley) \[The Mutual Connection of Two Exceptional Falling Stars\]](https://osu.ppy.sh/beatmapsets/1411580#fruits/2910097)
+  - [Hyuji feat. LIQU@. - Mermaid girl (Tropical Remix) (Ascendance) \[Brunoob's MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1244353#fruits/2586681)
+  - [Machita Chima - KING (Ayucchi) \[Expert\]](https://osu.ppy.sh/beatmapsets/1306528#fruits/2708875)
+- HardRock
+  - [Pastel\*Palettes - Shuwarin\*Drea~min (AutoLs) \[Rain\]](https://osu.ppy.sh/beatmapsets/1255717#fruits/2611006)
+  - [Ayase Rie - Yuima-ru\*World (Bastian) \[Rain\]](https://osu.ppy.sh/beatmapsets/1400516#fruits/2889374)
+  - [Ricky Martin - Livin' La Vida Loca (Spanish Version) (Krisom) \[Alocado\]](https://osu.ppy.sh/beatmapsets/1337085#fruits/2769841)
+- DoubleTime
+  - [ShinRa-Bansho - Itazura Sensation (Spectator) \[Hex's Platter\]](https://osu.ppy.sh/beatmapsets/1324962#fruits/2786508)
+  - [m108 - \* Crow Solace \* (Rocma) \[\[III\]\]](https://osu.ppy.sh/beatmapsets/829329#fruits/1751539)
+  - [Kagamine Rin & Len - Jutenija (Arusha Shuna) \[Gale\]](https://osu.ppy.sh/beatmapsets/29557#fruits/97995)
+- Tiebreaker
+  - **[AKI AKANE - Hanabira (Irus Brutalcore Breaks Remix) (Deif) \[Flower Petals\]](https://osu.ppy.sh/beatmapsets/526175#fruits/1116562)**
+
+### Group stage
+
+**[Download the mappack here! (87 MB)](https://drive.google.com/file/d/1cwjsNciDalNJmdqz6t1FQLbDY2sM2-vo/view "Google Drive")**
+
+- NoMod
+  - [CHiCO with HoneyWorks - Pride Kakumei (rew0825) \[Rain\]](https://osu.ppy.sh/beatmapsets/1394916#fruits/2879325)
+  - [Kicco - Akari no Arika (-Joakh) \[Lumi's Rain\]](https://osu.ppy.sh/beatmapsets/1404258#fruits/2924231)
+  - [Ayaponzu\* - Catch You Catch Me (Yumeno Himiko) \[Magic\]](https://osu.ppy.sh/beatmapsets/1478834#fruits/3033888)
+  - [Camellia feat. Nanahira - POLKAMANIA (Mir) \[ANOTHER\]](https://osu.ppy.sh/beatmapsets/1409478#fruits/2906707)
+- Hidden
+  - [Yamazaki Moe - Kataomoi no Melody o short ver. (AJamez) \[Light Rain\]](https://osu.ppy.sh/beatmapsets/769584#fruits/1618186)
+  - [xi - Titania (Jemzuu) \[Rain\]](https://osu.ppy.sh/beatmapsets/1278046#fruits/2669851)
+  - [Junk - Yellow Smile(bms edit) (rui) \[wring's Another\]](https://osu.ppy.sh/beatmapsets/226133#fruits/554864)
+- HardRock
+  - [chelmico - Easy Breezy feat. Zenpaku \[ dj-Jo Trap Remix \] TV Size (Ascendance) \[Chatie's Salad\]](https://osu.ppy.sh/beatmapsets/1284565#fruits/2943796)
+  - [Nekomata Master - Scars of FAUNA (Madoka2574) \[Platter\]](https://osu.ppy.sh/beatmapsets/1302763#fruits/2701842)
+  - [Nakiri Ayame - Deep Indigo (Bokamin) \[Hard\]](https://osu.ppy.sh/beatmapsets/1189193#fruits/2522847)
+- DoubleTime
+  - [Duck Duck Pony - Shinsetsu (wonjae) \[wonJemZero's Salad\]](https://osu.ppy.sh/beatmapsets/951270#fruits/2009915)
+  - [Three Days Grace - Animal I Have Become (Secre) \[Platter\]](https://osu.ppy.sh/beatmapsets/1371694#fruits/2842835)
+  - [IOSYS - Miracle-Hinacle (vincerio) \[Miracle-Lolicle\]](https://osu.ppy.sh/beatmapsets/20210#fruits/71842)
+- Tiebreaker
+  - **[Official HIGE DANdism - Pretender (Crowley) \[My Final Farewell\]](https://osu.ppy.sh/beatmapsets/1272888#fruits/2645056)**
+
+## Match results
+
+### Round of 16
+
+Friday, 9 July 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Sololiquy](https://osu.ppy.sh/users/4350087)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | [#1](https://osu.ppy.sh/community/matches/87058272) |
+| Upper | **[Galaxi](https://osu.ppy.sh/users/2552435)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) | [#1](https://osu.ppy.sh/community/matches/87055481) |
+| Upper | **[Pyrozen](https://osu.ppy.sh/users/3031177)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [XxepandevanxX](https://osu.ppy.sh/users/13194580) | [#1](https://osu.ppy.sh/community/matches/87053060) |
+
+Saturday, 10 July 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148) | [#1](https://osu.ppy.sh/community/matches/87110808) |
+| Upper | **[Suikami](https://osu.ppy.sh/users/1929336)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | [#1](https://osu.ppy.sh/community/matches/87114367) |
+| Upper | **[by-ad](https://osu.ppy.sh/users/7439939)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [Latina-](https://osu.ppy.sh/users/15015592) | [#1](https://osu.ppy.sh/community/matches/87116623) |
+| Upper | [mina-](https://osu.ppy.sh/users/4670692) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[BitDust](https://osu.ppy.sh/users/9573836)** | [#1](https://osu.ppy.sh/community/matches/87120194) |
+| Upper | **[Nekuro](https://osu.ppy.sh/users/3222638)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Holicia](https://osu.ppy.sh/users/3212755) | [#1](https://osu.ppy.sh/community/matches/87122424) |
+
+Sunday, 11 July 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Chroneko](https://osu.ppy.sh/users/5472877)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692) | [#1](https://osu.ppy.sh/community/matches/87172954) |
+| Lower | **[CamXDanna](https://osu.ppy.sh/users/3243148)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | [#1](https://osu.ppy.sh/community/matches/87177296) |
+| Lower | **[XxepandevanxX](https://osu.ppy.sh/users/13194580)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Holicia](https://osu.ppy.sh/users/3212755) | [#1](https://osu.ppy.sh/community/matches/87169209) |
+| Lower | **[Dapuluous](https://osu.ppy.sh/users/8140944)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Latina-](https://osu.ppy.sh/users/15015592) | [#1](https://osu.ppy.sh/community/matches/87174852) |
+
+### Group Stage
+
+Friday, 2 July 2021:
+
+| Group |  |  |  |  | Match link |
+| :-: | :-: | :-: | :-: | :-: | :-- |
+| **A** | ![][flag_ID] **[Chroneko](https://osu.ppy.sh/users/5472877) (13 pts)** | ![][flag_ID] **[Latina-](https://osu.ppy.sh/users/15015592) (9 pts¹)** | ![][flag_ID] [Zvenx](https://osu.ppy.sh/users/14613788) (1 pt) | ![][flag_ID] [Konami-kun](https://osu.ppy.sh/users/15931741) (9 pts²) | [#1](https://osu.ppy.sh/community/matches/86649900) |
+
+Saturday, 3 July 2021:
+
+| Group |  |  |  |  | Match link |
+| :-: | :-: | :-: | :-: | :-: | :-- |
+| **C** | ![][flag_ID] **[CamXDanna](https://osu.ppy.sh/users/3243148) (10 pts)** | ![][flag_ID] **[Pyrozen](https://osu.ppy.sh/users/3031177) (14 pts)** | ![][flag_ID] [Riria Rakira](https://osu.ppy.sh/users/6310025) (8 pts) | ![][flag_ID] [Kinora](https://osu.ppy.sh/users/20571283) (0 pts) | [#1](https://osu.ppy.sh/community/matches/86711638) |
+| **D** | ![][flag_ID] **[Galaxi](https://osu.ppy.sh/users/2552435) (9 pts)** | ![][flag_ID] **[Sololiquy](https://osu.ppy.sh/users/4350087) (14 pts)** | ![][flag_ID] [MrGulla](https://osu.ppy.sh/users/4540721) (6 pts) | ![][flag_ID] [Mixuri](https://osu.ppy.sh/users/86713789) (4 pts) | [#1](https://osu.ppy.sh/community/matches/86713789) |
+
+Sunday, 4 July 2021:
+
+| Group |  |  |  |  | Match link |
+| :-: | :-: | :-: | :-: | :-: | :-- |
+| **E** | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) (9 pts) | ![][flag_ID] **[Suikami](https://osu.ppy.sh/users/1929336) (12 pts)** | ![][flag_ID] **[BitDust](https://osu.ppy.sh/users/9573836) (11 pts)** | ![][flag_ID] [Xtream1500](https://osu.ppy.sh/users/20740438) (0 pts) | [#1](https://osu.ppy.sh/community/matches/86716701) |
+| **F** | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) (8 pts) | ![][flag_ID] **[by-ad](https://osu.ppy.sh/users/7439939) (10 pts¹)** | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) (4 pts) | ![][flag_ID] **[Holicia](https://osu.ppy.sh/users/3212755) (10 pts²)** | [#1](https://osu.ppy.sh/community/matches/86766389) |
+| **G** | ![][flag_ID] **[Funtastic](https://osu.ppy.sh/users/3555626) (11 pts)** | ![][flag_ID] **[mina-](https://osu.ppy.sh/users/4670692) (13 pts)** | ![][flag_ID] [ilhamuharam](https://osu.ppy.sh/users/7657968) (3 pts) | ![][flag_ID] [ARTPHONEY](https://osu.ppy.sh/users/2128050) (5 pts) | [#1](https://osu.ppy.sh/community/matches/86767997) |
+| **H** | ![][flag_ID] **[dika312](https://osu.ppy.sh/users/741613) (16 pts)** | ![][flag_ID] **[Dapuluous](https://osu.ppy.sh/users/8140944) (9 pts¹)** | ![][flag_ID] [Zylin](https://osu.ppy.sh/users/6692990) (0 pts) | ![][flag_ID] [Neori\_gaming](https://osu.ppy.sh/users/10772518) (9 pts²) | [#1](https://osu.ppy.sh/community/matches/86770044) |
+
+Monday, 5 July 2021:
+
+| Group |  |  |  |  | Match link |
+| :-: | :-: | :-: | :-: | :-: | :-- |
+| **B** | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) (10 pts²) | ![][flag_ID] **[Nekuro](https://osu.ppy.sh/users/3222638) (15 pts)** | ![][flag_ID] **[XxepandevanxX](https://osu.ppy.sh/users/13194580) (10 pts¹)** | ![][flag_ID] [Kenneth Alfredo](https://osu.ppy.sh/users/829469) (0 pts) | [#1](https://osu.ppy.sh/community/matches/86758000) |
+
+¹ *Winner of the Tiebreaker map*
+
+² *Loser of the Tiebreaker map*
 
 ## Ruleset
 
@@ -85,7 +242,7 @@ CIC 2021 is run by various Indonesian osu! community members.
 
 ### Group stage rules
 
-1. In the Group stage, all players will be divided into eight groups at random based on the result of a livestreamed [random.org](http://www.random.org/lists/ "random.org") draw.
+1. In the Group stage, all qualified players will be situated into four different seeds (Seed A, Seed B, Seed C, and Seed D) based on their osu!catch pp. The players from each seed will then be drawn into eight groups at random based on the result of a livestreamed [random.org](http://www.random.org/lists/ "random.org") draw.
 2. All players in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all players will each in turn pick out two maps from the mappool to be played with the following turnouts after each map:
    - 1st place: **+2 points**
    - 2nd place: **+1 point**
@@ -93,8 +250,8 @@ CIC 2021 is run by various Indonesian osu! community members.
    - 4th place: **0 point**
 3. If there is a tie at the end of the map, the points will instead be distributed as follows:
    - **+2/+2/+1/0** in the case where the 1st place and the 2nd place players are tied.
-   - **+2/+1/+1/+1** in the case where the 2st place and the 3nd place players are tied.
-   - **+2/+2/+2/0** in the case where the 1st place, the 2st place, and the 3nd place players are tied.
+   - **+2/+1/+1/+1** in the case where the 2nd place and the 3rd place players are tied.
+   - **+2/+2/+2/0** in the case where the 1st place, the 2nd place, and the 3rd place players are tied.
    - **+2/+2/+2/+2** in the case where all four players are tied.
 4. Players are **not allowed** to ban maps in the Group stage.
 5. There is no Lower Bracket in the Group stage.
@@ -122,7 +279,7 @@ CIC 2021 is run by various Indonesian osu! community members.
 
 ### Match regulations
 
-1. Each player must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
+1. Each player must use the `!roll` command once in `#multiplayer` in order to determine the banning and picking order.
    - The winner of the `!roll` gets to decide which player gets to pick and ban first.
    - This rule does not apply in the Group stage lobbies.
 2. Each player may ban up to two beatmaps from the mappool following a modified "comeback mechanic" system that is adapted from the [osu!catch World Cup 2019](/wiki/Tournaments/CWC/2019). The system works as follows:
