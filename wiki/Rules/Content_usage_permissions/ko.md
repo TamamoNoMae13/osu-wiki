@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 5de39c08cf37e2889ecbc77213994fb7137417e2
+---
+
 # 콘텐츠 사용 권한
 
 osu!는 창작물을 자유롭게 만들고 공유할 수 있는 것에 중점을 두고 있습니다. 새로운 창작물에 다른 창작자의 저작물을 사용하려면 적절한 허가를 얻었는지 확인하고, 모든 저작물이 정당하게 사용되었는지 확인하는 것이 중요합니다.
@@ -16,7 +21,10 @@ osu!는 창작물을 자유롭게 만들고 공유할 수 있는 것에 중점�
 
 ## 오디오
 
-*알림: 다른 사이트에 게임 플레이를 게시하거나 스트리밍하는 경우 협상 또는 이해가 필요한 다양한 라이선스 요구사항이 있으므로 게임 플레이를 시청자에게 방송할 때 주의하시기 바랍니다.*
+::: alert-notice
+**알림**
+다른 사이트에 게임 플레이를 게시하거나 스트리밍하는 경우 협상 또는 이해가 필요한 다양한 라이선스 요구사항이 있으므로 게임 플레이를 시청자에게 방송할 때 주의하시기 바랍니다.
+:::
 
 osu!는 [공식 아티스트](/wiki/People/Featured_Artists) 프로그램을 통해 매퍼에게 라이선스 곡 라이브러리를 제공합니다. [목록](https://osu.ppy.sh/beatmaps/artists)에 있는 각 곡은 osu! 내에서 무료로 사용할 수 있으며 삭제될 위험이 없습니다.
 
@@ -301,6 +309,7 @@ osu!의 공식 아티스트 카탈로그 이외의 곡을 사용할 때는 창�
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/140) | [ovEnola](https://osu.ppy.sh/beatmaps/artists/140) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/106) | [P4koo](https://osu.ppy.sh/beatmaps/artists/106) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/55) | [Panda Eyes](https://osu.ppy.sh/beatmaps/artists/55) | ![][true] |
+|  | PanPanPanic | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/366) | [passchooo](https://osu.ppy.sh/beatmaps/artists/366) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/287) | [Pegboard Nerds](https://osu.ppy.sh/beatmaps/artists/287) | ![][true] [^monstercat-gold] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/129) | [Phantom Sage](https://osu.ppy.sh/beatmaps/artists/129) | ![][true] |
@@ -316,7 +325,6 @@ osu!의 공식 아티스트 카탈로그 이외의 곡을 사용할 때는 창�
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/91) | [Receptor](https://osu.ppy.sh/beatmaps/artists/91) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/184) | [Redside](https://osu.ppy.sh/beatmaps/artists/184) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/199) | [rejection](https://osu.ppy.sh/beatmaps/artists/199) | ![][true] |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/163) | [Reku Mochizuki](https://osu.ppy.sh/beatmaps/artists/163) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/194) | [Release Hallucination](https://osu.ppy.sh/beatmaps/artists/194) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/300) | [Rezonate](https://osu.ppy.sh/beatmaps/artists/300) | ![][true] [^monstercat-gold] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/54) | [Ricky Montgomery](https://osu.ppy.sh/beatmaps/artists/54) | ![][true] |
@@ -392,6 +400,7 @@ osu!의 공식 아티스트 카탈로그 이외의 곡을 사용할 때는 창�
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/149) | [URBANGARDE](https://osu.ppy.sh/beatmaps/artists/149) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/248) | [USAO](https://osu.ppy.sh/beatmaps/artists/248) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/232) | [Vansire](https://osu.ppy.sh/beatmaps/artists/232) | ![][true] |
+|  | veexie | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/158) | [Vektor](https://osu.ppy.sh/beatmaps/artists/158) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/71) | [Venetian Snares](https://osu.ppy.sh/beatmaps/artists/71) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/22) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) | ![][true] |
@@ -428,6 +437,7 @@ osu!의 공식 아티스트 카탈로그 이외의 곡을 사용할 때는 창�
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | 공식 아티스트 목록에 없는 트랙을 사용하거나 업로드하지 마세요. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | 공식 아티스트 목록에 없는 트랙을 사용하거나 업로드하지 마세요. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | [Morimori Atsushi](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] | 공식 아티스트 목록에 없는 트랙을 사용하거나 업로드하지 마세요. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/163) | [Reku Mochizuki](https://osu.ppy.sh/beatmaps/artists/163) | ![][partial] | 공식 아티스트 목록에 없는 트랙을 사용하거나 업로드하지 마세요. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) | ![][partial] | 공식 아티스트 목록에 없는 트랙을 사용하거나 업로드하지 마세요. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/132) | [Yuyoyuppe / DJ'TEKINA//SOMETHING](https://osu.ppy.sh/beatmaps/artists/132) | ![][partial] | *동방프로젝트*를 주제로 한 음악 및 테마곡은 업로드하거나 사용을 금지합니다. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/76) | [Zekk](https://osu.ppy.sh/beatmaps/artists/76) | ![][partial] | 공식 아티스트 목록에 없는 트랙을 사용하거나 업로드하지 마세요. |
@@ -445,7 +455,7 @@ osu!의 공식 아티스트 카탈로그 이외의 곡을 사용할 때는 창�
 | Hatsuki Yura | ![][false] |
 | Igorrr | ![][false] |
 | kamome sano | ![][false] |
-| Kozato | ![][false] |
+| kozato | ![][false] |
 | NOMA | ![][false] |
 
 ## 시각물

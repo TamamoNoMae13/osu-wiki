@@ -15,7 +15,7 @@ Aprendo l'osu! tournament client, vedrai questa schermata di configurazione:
 ![osu! tournament client setup screen](img/setup-screen.png)
 
 - Assicurati che la `Current IPC source` corrisponda al percorso dell'istanza di osu!tourney che si intende utilizzare.
-- Accedi a osu!(lazer) cliccando su `Change sign-in`.
+- Accedi a osu!(lazer) cliccando su `Change Login`.
 - Imposta il set di regole corretto utilizzando il menu a discesa.
 - Modifica l'altezza in modo che corrisponda a `Height` impostata nel file `tournament.cfg` di osu!tourney.
 
@@ -31,6 +31,12 @@ All'interno di una configurazione di torneo è possibile fornire gli assets nece
   - Flags
   - Mods
   - Videos
+
+Per gestire i dettagli del torneo, utilizza gli strumenti all'interno del client del torneo:
+
+- `Team Editor`: Modifica squadre e giocatori.
+- `Rounds Editor`: Gestisci round e mappool.
+- `Bracket Editor`: Crea nuove partite e gestisci squadre, round e orari per ogni partita.
 
 ## Personalizzazione
 
@@ -59,18 +65,21 @@ Nota: il client decodifica i file video utilizzando la decodifica software, pert
 I file devono rispettare le seguenti specifiche:
 
 - Rapporto d'aspetto 16:9, ad esempio 1280x720 o 1920x1080
-- Estensione del file `mp4`, `m4v` o `avi
+- Estensione del file `mp4`, `m4v` o `avi`
 - Codec Video: H.264, Codec Audio: nessuno
 
-I file video devono essere collocati in `<il tuo torneo>/Video` e sono necessari nomi specifici per il corretto funzionamento.
+I file video devono essere collocati in `<il tuo torneo>/Videos` e sono necessari nomi specifici per il corretto funzionamento.
 
 | Scena | File |
 | :-- | :-- |
-| Schedule | `schedule` |
-| TeamIntro | `teamintro` |
-| Seeding | `seeding` |
+| Calendario | `schedule` |
+| Introduzione delle squadre | `teamintro` |
+| Classificazione | `seeding` |
 | MapPool | `mappool` |
 | Gameplay | `gameplay` |
-| Win | `teamwin-red`, `teamwin-blue` |
-| Drawings | `main` |
-| Showcase | `showcase` |
+| Vittoria | `teamwin-red`, `teamwin-blue` |
+| Sorteggi | `drawings` |
+| Presentazione | `showcase` |
+| Tabellone del torneo | `ladder` |
+
+Il file video chiamato `main` verrà usato come video di sfondo predefinito finché non verrà sostituito da uno dei file video elencati sopra.

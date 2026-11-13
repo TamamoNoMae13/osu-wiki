@@ -16,7 +16,9 @@ no_native_review: true
 
 # Beatmapping et éditeur
 
-*Page principale : [Centre d'aide](/wiki/Help_centre)*
+::: alert-note
+**Page principale** : [Centre d'aide](/wiki/Help_centre)
+:::
 
 Cette section est dédiée aux problèmes liés à l'éditeur de beatmap et au beatmapping en général.
 
@@ -54,7 +56,7 @@ Veuillez ne **pas** déposer de rapport en utilisant [la commande `!report' dans
 
 ## Comment puis-je supprimer ma beatmap ? {id=supprimer-beatmap}
 
-**[L'équipe de support](/wiki/People/The_Team/Account_support_team) ne prend pas en charge les demandes de suppression manuelle des beatmaps téléchargés.**
+**[L'équipe de support](/wiki/People/Account_support_team) ne prend pas en charge les demandes de suppression manuelle des beatmaps téléchargés.**
 
 Vous pouvez supprimer votre beatmap vous-même en attendant qu'il soit déplacer automatiquement dans le Cimetière des beatmaps, ce qu'il fera au bout d'un mois (28 jours) sans mise à jour.
 

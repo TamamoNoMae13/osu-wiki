@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 3589d6c6271fa8cf9164bb3a0e26575287869758
+---
+
 # Catégories des beatmaps
 
 Les [beatmaps](/wiki/Beatmap) soumises en ligne sont réparties en catégories en fonction de leurs activités récentes, de leurs [nominations](/wiki/Beatmap_ranking_procedure#qualification) et de leur popularité.
@@ -28,7 +33,9 @@ La catégorie **classée** correspond aux beatmaps qui sont considérées comme 
 
 ### Loved {id=loved}
 
-*Pour l'histoire de la catégorie Loved, voir : [Histoire de Loved](/wiki/History_of_osu!/History_of_Loved)*
+::: alert-note
+**Remarque** : Pour l'histoire de la catégorie Loved, voir [Histoire de Loved](/wiki/History_of_osu!/History_of_Loved)
+:::
 
 La catégorie **loved** correspond aux beatmaps qui ne peuvent pas répondre aux [critères de classement](/wiki/Ranking_criteria), mais elles sont *aimées* par la communauté et sont donc régulièrement ajoutées en fonction des votes de la communauté dans le [Project Loved](/wiki/Community/Project_Loved). Elles ont des classements, mais aucun [point de performance](/wiki/Performance_points) ne sera attribué et tous les scores seront supprimés si elles ne sont plus Loved (cela ne se produit généralement qu'à la demande du créateur). Les beatmaps Loved utilisent l'icône de cœur (![](/wiki/shared/status/loved.png)) dans l'écran de sélection des beatmaps.
 

@@ -13,10 +13,11 @@ tags:
   - хард-рок
 ---
 
-# Hard Rock (мод)
+# Hard Rock
 
 ![Значок мода HR](/wiki/shared/mods/HR.png "Значок мода Hard Rock (HR)")
 
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Hard Rock (lazer)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*
 
 ## Краткая информация
@@ -59,7 +60,10 @@ tags:
 
 ### osu!mania
 
-*Примечание: при активации Hard Rock в osu!mania ваш рекорд не засчитается.*
+::: alert-notice
+**Внимание**
+при активации Hard Rock в osu!mania ваш рекорд не засчитается.
+:::
 
 В [osu!mania](/wiki/Game_mode/osu!mania) потеря здоровья увеличивается на 40%, а окна попаданий становятся меньше примерно на 29%. Скорость появления нот не изменяется, хотя и показывается увеличенной.
 

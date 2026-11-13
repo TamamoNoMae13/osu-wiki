@@ -4,7 +4,9 @@ no_native_review: true
 
 # Erreurs courantes de modding
 
-*Voir également : [Devenir un Beatmap Nominator § Attentes en matière de modding](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)*
+::: alert-note
+**Voir également** : [Devenir un Beatmap Nominator § Attentes en matière de modding](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)
+:::
 
 Ce guide présente des exemples d'erreurs courantes que les [moddeurs](/wiki/Modding/Modder) débutants commettent souvent lorsqu'ils [moddent](/wiki/Modding) une [beatmap](/wiki/Beatmap).
 
@@ -169,7 +171,7 @@ Apprends d'abord à faire du mapping et ensuite je pourrai modder ça correcteme
 ce mapping serait parfait dans une poubelle
 ```
 
-**S'abstenir de faire des remarques grossières ou sarcastiques lors du modding.** C'est ce genre de comportement qui vous vaudra d'être [réduit au silence](/wiki/Silence), et ce n'est pas quelque chose que les autres finiront par apprécier. Assurez-vous de toujours suivre le [Code de conduite](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#créer-un-mod-post) lorsque vous moddez pour un meilleur environnement de modding pour tout le monde.
+**S'abstenir de faire des remarques grossières ou sarcastiques lors du modding.** C'est ce genre de comportement qui vous vaudra d'être [réduit au silence](/wiki/Silence), et ce n'est pas quelque chose que les autres finiront par apprécier. Assurez-vous de toujours suivre le [Code de conduite](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) lorsque vous moddez pour un meilleur environnement de modding pour tout le monde.
 
 ---
 

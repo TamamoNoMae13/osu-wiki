@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 3589d6c6271fa8cf9164bb3a0e26575287869758
+---
+
 # หมวดหมู่บีทแมพ
 
 [บีทแมพ](/wiki/Beatmap) ที่ส่งทางออนไลน์จะแบ่งออกเป็นหมวดหมู่ตามกิจกรรมล่าสุด [การเสนอชื่อ](/wiki/Beatmap_ranking_procedure#qualification) สถานะ และความนิยม
@@ -28,7 +33,9 @@
 
 ### Loved {id=loved}
 
-*สำหรับประวัติของหมวด Loved โปรดดู: [ประวัติของ Loved](/wiki/History_of_osu!/History_of_Loved)*
+::: alert-note
+**หมายเหตุ:** สำหรับประวัติของหมวด Loved โปรดดู [ประวัติของ Loved](/wiki/History_of_osu!/History_of_Loved)
+:::
 
 บีทแมพที่ชื่นชอบอาจไม่ตรงตาม [เกณฑ์การจัดอันดับ](/wiki/Ranking_criteria) แต่ได้รับการ *รัก* จากชุมชนและจะมีการเพิ่มอย่างสม่ำเสมอตามการโหวตของชุมชนใน [Project Loved](/wiki/Community/Project_Loved) พวกเขามีลีดเดอร์บอร์ด แต่จะไม่มีการมอบ [คะแนนประสิทธิภาพ](/wiki/Performance_points) และคะแนนทั้งหมดจะถูกลบหากออกจาก Loved (ซึ่งมักจะเกิดขึ้นตามคำขอของผู้สร้างเท่านั้น) บีทแมพที่ชอบใช้ไอคอนรูปหัวใจ (![](/wiki/shared/status/loved.png)) ในหน้าจอการเลือกเพลง
 

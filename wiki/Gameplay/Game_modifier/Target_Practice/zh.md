@@ -16,6 +16,7 @@ tags:
 
 ![TP 模组图标](/wiki/shared/mods/TP.png "Target Practice (TP) 模组图标")
 
+*对于本文章的 [lazer](/wiki/Client/Release_stream/Lazer) 版本，参见：[Target Practice（lazer 模组）](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer))*\
 *对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*\
 *注意：只能在`测试版 (Cutting Edge)`中使用此模组。*
 
@@ -23,12 +24,12 @@ tags:
 
 - 缩写：TP
 - 类别：特殊
-- 得分系数：1.00x
+- 得分倍率：1.00x
 - 兼容的游戏模式：![][osu!]
 
 ## 说明
 
-*注意：启用此模组游玩的成绩不计入排名。*
+*注意：启用此模组游玩的成绩不计表现分。*
 
 **Target Practice** 是一个[osu! 模式](/wiki/Game_mode/osu!)独有的实验性[游戏模组](/wiki/Gameplay/Game_modifier)，此模组移除谱面中所有的[打击物件](/wiki/Gameplay/Hit_object)，取而代之的是简化的“标靶”。此模组多用于娱乐，不过也有助于练习节奏稳定性和提高准确率。
 

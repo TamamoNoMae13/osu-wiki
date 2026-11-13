@@ -1,6 +1,8 @@
 # skin.ini
 
-*See also: [skin.ini/Blank](/wiki/Skinning/skin.ini/Blank)*
+::: alert-note
+**See also:** [skin.ini/Blank](/wiki/Skinning/skin.ini/Blank)
+:::
 
 The `skin.ini` is an initialization file that is found in almost every skin folder.
 This file will define how osu! will display certain skin elements.
@@ -89,7 +91,7 @@ If your `skin.ini` does not specify a `Version`, it will default to this version
 **Allow per-type skinning of arrows**
 
 - Adds `arrow-generic.png`, `arrow-warning.png` and `arrow-pause.png`.
-- Removes `play-warningarrow.png`.
+- Deprecates `play-warningarrow.png` in favor of the above.
 
 ### 2.7
 
@@ -160,18 +162,19 @@ osu! organises the commands with a heading command. Which may look like this `[G
 - `Name:`
   - Question: What is the name of this skin?
   - Value: text *(skin name)*
-  - Default: *(empty)*
+  - Default: `Unknown`
   - Notes:
-    - At this time, this command is not used.
-    - The osu!client will refer to the folder's name instead when listing.
+    - After exporting the skin, the filename is `<Name>.osk`.
+      - In [osu!(lazer)](/wiki/Client/Release_stream/Lazer), the filename is `<Name> (<Author>).osk`.
+    - The skin selector uses folder names, not the names given by this option.
+      - In [osu!(lazer)](/wiki/Client/Release_stream/Lazer), the skin selector options are in the format `<Name> (<Author>)`, or `<Name> [<.osk filename>] (<Author>)` if the name in `skin.ini` differs from the name of the `.osk` file.
 - `Author:`
   - Question: Who is the author of this skin?
   - Value: text *(skin creator)*
   - Default: *(empty)*
   - Notes:
-    - At this time, this command is not used.
-    - Use your username.
-      - Using your forum username is preferred.
+    - In [osu!(lazer)](/wiki/Client/Release_stream/Lazer), after exporting the skin, the filename is `<Name> (<Author>).osk`.
+    - In [osu!(lazer)](/wiki/Client/Release_stream/Lazer), the skin selector options are in the format `<Name> (<Author>)`, or `<Name> [<.osk filename>] (<Author>)` if the name in `skin.ini` differs from the name of the `.osk` file.
 - `Version:`
   - Question: How should the skin behave?
   - Value: A [version number](/wiki/Skinning/skin.ini#versions) or `latest`
@@ -257,7 +260,10 @@ osu! organises the commands with a heading command. Which may look like this `[G
 
 ## \[Colours\]
 
-*Note: this header **must** be spelled as **`[Colours]`**, not `[Colors]`!*
+::: alert-notice
+**Notice**
+this header **must** be spelled as **`[Colours]`**, not `[Colors]`!
+:::
 
 - `Combo1:`
   - Question: What colour is used for the last combo?

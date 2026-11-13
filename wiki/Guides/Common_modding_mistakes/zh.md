@@ -1,6 +1,8 @@
 # 常见的摸图错误
 
-*参见：[成为 BN § 摸图期望](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)*
+::: alert-note
+**参见：** [成为 BN § 摸图期望](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)
+:::
 
 这篇指引将会展示一些刚学着去[摸](/wiki/Modding)一张[谱面](/wiki/Beatmap)的[摸图员](/wiki/Modding/Modder)常犯的错误。
 
@@ -165,7 +167,7 @@
 人太菜，白给都不要，倒贴都扶不起
 ```
 
-**在摸图时，不要发表粗鲁、讽刺或攻击他人的言论。** 这样的行为甚至能导致你被禁言，而且并不会讨人喜欢。在摸图时一定要遵守[行为准则](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#摸图和留言)，给大家创造一个良好的摸图环境。
+**在摸图时，不要发表粗鲁、讽刺或攻击他人的言论。** 这样的行为甚至能导致你被禁言，而且并不会讨人喜欢。在摸图时一定要遵守[行为准则](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)，给大家创造一个良好的摸图环境。
 
 ---
 

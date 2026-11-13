@@ -7,7 +7,7 @@ tags:
   - 提示
 ---
 
-<!-- For translators: to translate this page, select the corresponding language in stable and open `Localisation/XX.txt` in your osu! installation folder. Translation keys starting with MenuTip_ and EditorTip_ contain the respective translated tips. The lazer tips aren't localised yet, but it's ok to translate them here while noting that they don't have translations in-game. -->
+<!-- For translators: to translate this page, select the corresponding language in stable and open `Localisation/XX.txt` in your osu! installation folder. Translation keys starting with MenuTip_ and EditorTip_ contain the respective translated tips. The lazer tips are translated on Crowdin: https://crowdin.com/editor/osu-web/656/en-zhcn -->
 
 # 菜单提示
 
@@ -17,7 +17,7 @@ tags:
 
 这些提示出现在[主菜单](/wiki/Client/Interface#主菜单)的正下方。
 
-- 添加新[谱面](/wiki/Beatmap)的方法： 把 [`.osz` 文件](/wiki/Client/File_formats/osz_(file_format))拖入 osu! 的窗口；或是直接双击这个文件来打开；或是在浏览器中下载完成后，选择打开。
+- 添加新[谱面](/wiki/Beatmap)的方法：把 [`.osz` 文件](/wiki/Client/File_formats/osz_(file_format))拖入 osu! 的窗口；或是直接双击这个文件来打开；或是在浏览器中下载完成后，选择打开。
 - 当你在有大量谱面的[选歌界面](/wiki/Client/Interface#选歌界面)中选歌时，可以按住左键拖拽屏幕右侧的滚动条，或者按住右键快速定位谱面。
 - 在任何地方，都可以按下 `F8`/`F9` 加入 osu! [聊天](/wiki/Client/Interface/Chat_console)！
 - 右击谱面，或者点击选歌列表下的 `Beatmap Options` 按钮，会显示谱面管理菜单。
@@ -40,7 +40,7 @@ tags:
 - 任何时候，你都可以按下 `F8`，打开游戏内的聊天窗口。你可以输入 `!help` 或者 `/help`，来查阅可使用的[命令列表](/wiki/Client/Interface/Chat_console#命令列表)。
 - 记住要经常停下来休息一下。你的双手是要为你服务一生的，而不仅仅是 osu!（的[转盘](/wiki/Gameplay/Hit_object/Spinner)）。
 - 别无视[未上架 (Unranked)](/wiki/Beatmap/Category) 的谱面。如果你找到了你喜欢的这一类谱面，可以给谱面制作者提些[建设性的意见](/wiki/Modding)。这样，这张谱面将更可能[上架](/wiki/Beatmap_ranking_procedure)！
-- 在[多人模式](/wiki/Client/Interface/Multiplayer)中，你可以和其他人一起游戏！
+- 在[多人模式](/wiki/Gameplay/Multiplayer)中，你可以和其他人一起游戏！
 - 想知道某个玩家来自哪里吗？按下 `F9`，然后把光标悬停在该玩家的用户框上即可！
 - 在歌曲界面按下 `F5`，可以刷新并重新载入磁盘上的全部歌曲。
 - 按下`Shift` + `F12` 可以截屏，并自动上传到因特网上。
@@ -89,7 +89,7 @@ tags:
 
 ## osu!(lazer)
 
-<!-- Source: https://github.com/ppy/osu/blob/master/osu.Game/Screens/Menu/MenuTip.cs -->
+<!-- Source: https://github.com/ppy/osu/blob/master/osu.Game/Localisation/MenuTipStrings.cs -->
 
 这些提示出现在 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 的主菜单下方。
 
@@ -116,11 +116,14 @@ tags:
 - 将任何图片拖入皮肤编辑器来快速导入它！
 - 你能创建模组预设，来更轻松地挂上你最喜欢的多个模组组合！
 - 许多模组有可以大幅度改变效果的自定义设置。点击模组选择界面的`自定义模组`按钮来浏览设置！
-- 按下 `Ctrl` + `Shift` + `R` 随机切换皮肤！
+- 按下 `Ctrl` + `Shift` + `R` 随机切换皮肤！你也可以使用 `Ctrl` + `Shift` + `E` 和 `Ctrl` + `Shift` + `T` 循环切换皮肤。
 - 按下 `Ctrl` + `Shift` + `F` 显示 FPS 计数器。但请不要过多注意它！
 - 在播放回放时，按下 `Ctrl` + `H` 显示回放设置！
 - 右键点击排行榜上分数的模组，可以轻松复制它！
 - 在歌曲选择界面按下 `Ctrl` + `Enter`，能自动游玩这张谱面！
+- "Lazer" 并不是一个英文单词。激光正确的英文拼写是 "laser"。
+- 尝试在谱面选择页的谱面附近点击鼠标右键，来快速滚动到谱面仓库中的某个绝对位置！
+- 在谱面列表按住 Shift 并点击谱面，即可快速下载并在歌曲选择界面查看它！
 
 ## 参见
 

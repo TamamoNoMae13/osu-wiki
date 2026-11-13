@@ -33,7 +33,9 @@ Un fil de discussion du forum a été déplacé automatiquement entre différent
 
 ### Star priority
 
-*Article principale : [Star priority](/wiki/Modding/Star_priority)*
+::: alert-note
+**Page principale** : [Star priority](/wiki/Modding/Star_priority)
+:::
 
 Dans chaque sous-forum, les fils des beatmaps étaient classés selon leur star priority, ce qui avait plusieurs objectifs :
 
@@ -82,7 +84,9 @@ Bien que cela ne soit pas obligatoire, les mappeurs étaient censés répondre �
 
 ### Kudosu
 
-*Article principale : [Kudosu](/wiki/Modding/Kudosu)*
+::: alert-note
+**Page principale** : [Kudosu](/wiki/Modding/Kudosu)
+:::
 
 Si un mod post était jugé utile, le mappeur ou un membre de la QAT/BAT/BN pouvait lui attribuer un kudosu. Selon une règle non écrite, seul le premier mod post d'un utilisateur pouvait être récompensé par un kudosu. Quel que soit le nombre de suggestions contenues dans un message ou son utilité pour le mappeur, le nombre de kudosu reçus était constant :
 
@@ -101,7 +105,7 @@ Dans le système de modding basé sur le forum, de nombreuses actions étaient m
 
 Les modifications nécessaires pour résoudre les problèmes les plus courants ont été initiées le [26 avril 2013](https://osu.ppy.sh/community/forums/topics/129625), lorsque [peppy](/wiki/People/peppy) a présenté l'idée du [nouveau système de modding](/wiki/Beatmap_discussion) (connu ensuite sous le nom de *Modding v2*). Le [21 août 2014](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat), une nouvelle catégorie, [qualifiée](/wiki/Beatmap/Category#qualified), a été ajoutée. La catégorie servirait de tampon entre les beatmaps en attente et les beatmaps classés et permettrait des déranks plus fluides. De plus, une nouvelle équipe, la [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*), a été créée pour vérifier les beatmaps qualifiés et contrôler le processus de classement.
 
-Ensuite, le système de discussion des beatmap et le [code de conduite pour le modding et le mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#créer-un-mod-post) ont été développés et mis à disposition pour restructurer le modding et en faire une expérience plus agréable pour toutes les personnes impliquées :
+Ensuite, le système de discussion des beatmap et le [code de conduite pour le modding et le mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) ont été développés et mis à disposition pour restructurer le modding et en faire une expérience plus agréable pour toutes les personnes impliquées :
 
 - [11 avril 2016](https://osu.ppy.sh/community/forums/topics/442285) : Les discussions sur les beatmaps ont été activées pour deux beatmaps et mises à disposition pour les tests publics.
 - [1er février 2017](https://osu.ppy.sh/community/forums/topics/552250) : Après plusieurs mois supplémentaires de développement sur la base des commentaires recueillis, la version suivante du système de discussion a été activée pour un autre ensemble plus important de beatmaps.

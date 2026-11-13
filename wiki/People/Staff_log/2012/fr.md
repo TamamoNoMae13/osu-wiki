@@ -1,6 +1,9 @@
 # Registre du personnel : 2012
 
-*Remarque : L'histoire de quelques utilisateurs peut être incomplète pendant cette année.*
+::: alert-notice
+**Note**
+L'histoire de quelques utilisateurs peut être incomplète pendant cette année.
+:::
 
 ## Janvier
 
@@ -68,6 +71,7 @@
 - Ajout de [Galkan](https://osu.ppy.sh/users/169570) : Global Mod Team (20/05/2012)
 - Ajout de [TicClick](https://osu.ppy.sh/users/672931) : Global Mod Team (20/05/2012)
 - Transfert de [Odaril](https://osu.ppy.sh/users/113005) : Beatmap Appreciation Team > osu! Alumni (25/05/2012)
+- Transfert de [Andrea](https://osu.ppy.sh/users/33599) : osu! Alumni > Beatmap Appreciation Team (25/05/2012)
 
 ## Juin
 

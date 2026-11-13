@@ -5,11 +5,13 @@ tags:
   - osu!supporter tag
   - tag supporter
   - tag osu!supporter
+outdated_since: 53463c9d5a611e5d8b38f68b00f48b7983225576
+outdated_translation: true
 ---
 
 # osu!supporter
 
-![image promotionnelle d'osu!supporter](img/supporter-eyecatch-FR.jpg?1)
+[![image promotionnelle d'osu!supporter](img/supporter-eyecatch-FR.jpg?1)](https://osu.ppy.sh/home/support)
 
 **osu!supporter** (ou le ***tag osu!supporter***) est un titre temporaire donné aux joueurs qui soutiennent osu! en faisant un don volontaire et monétaire pour l'aider à prospérer. Les supporters reçoivent une poignée d'avantages cosmétiques et techniques, dont la plupart ne sont actifs que lorsque le titre est présent. Les caractéristiques supplémentaires d'osu!supporter ne donnent aucun avantage en termes de gameplay, de performance ou de score, et n'en donneront jamais.
 
@@ -20,11 +22,11 @@ Le tag osu!supporter peut être obtenu à partir de la [page du magasin osu!supp
 ### Insigne de cœur
 
 ::: Infobox
-![](img/userpage.png?1 "Profil avec osu!supporter")
+![](img/userpage.png?20241103 "Profil avec osu!supporter")
 :::
 
 ::: Infobox
-![](img/usercard-FR.png?1 "Carte d'utilisateur avec osu!supporter")
+![](img/usercard-FR.png?20241022 "Carte d'utilisateur avec osu!supporter")
 :::
 
 Les supporters reçoivent un badge avec des cœurs, généralement situé à côté de leur nom d'utilisateur sur le site web. Le nombre de cœurs dépend de la durée d'osu!supporter que l'utilisateur a acquis ou reçu au total :
@@ -60,9 +62,21 @@ Les supporters peuvent personnaliser leur profil en choisissant une image de cou
 
 Une fois que osu!supporter aura expiré, la couverture sera conservée, mais ne pourra pas être modifiée.
 
+### Couleur de profil
+
+À l'instar des couvertures de profil, les supporters peuvent modifier la couleur de leur profil :
+
+- Appuyez sur l'icône du crayon dans le coin inférieur droit de la couverture du profil.
+- L'ajustement de la couleur du profil modifie la couleur de presque tous les éléments, y compris la bannière, les boutons, les liens et le texte.
+
+Une fois qu'osu!supporter a expiré, les personnalisations de couleurs sont conservées, mais ne peuvent être ramenées qu'à leur valeur par défaut.
+
 ### Un changement de nom d'utilisateur gratuit
 
-*Remarque : des changements mineurs de nom peuvent être demandés gratuitement à l'équipe de support aux comptes - voir [Centre d'aide/Compte § Puis-je changer le nom d'utilisateur de mon compte ?](/wiki/Help_centre/Account#changement-nom-d'utilisateur).*
+::: alert-notice
+**Note**
+des changements mineurs de nom peuvent être demandés gratuitement à l'équipe de support aux comptes - voir [Centre d'aide/Compte § Puis-je changer le nom d'utilisateur de mon compte ?](/wiki/Help_centre/Account#changement-nom-d'utilisateur).
+:::
 
 L'obtention de osu!supporter s'accompagne de la possibilité de changer de nom d'utilisateur gratuitement pour la première fois, sous [conditions habituelles](/wiki/Help_centre/Account#changement-nom-d'utilisateur).
 
@@ -71,7 +85,7 @@ L'obtention de osu!supporter s'accompagne de la possibilité de changer de nom d
 osu!direct est le moteur de recherche et de téléchargement des beatmaps disponible pour les supporters. Il est accessible depuis le menu principal en cliquant sur l'étiquette verticale `osu!direct` sur le côté droit de l'écran. En plus d'une liste de beatmaps intégrée, osu!direct fournit d'autres moyens d'obtenir de nouvelles beatmaps sans quitter le jeu :
 
 - Les liens beatmap dans le tchat, qui pointent vers les beatmaps sur le site d'osu!, déclenchent désormais l'invite de téléchargement dans le jeu.
-- Téléchargement automatique de la beatmap lorsque vous jouez dans un lobby [multijoueur](/wiki/Client/Interface/Multiplayer) ou lorsque vous êtes [spectateur](/wiki/Gameplay/Spectating) d'un autre joueur, en tant que [paramètre d'exclusion](/wiki/Client/Options#notifications-et-vie-privée).
+- Téléchargement automatique de la beatmap lorsque vous jouez dans un lobby [multijoueur](/wiki/Gameplay/Multiplayer) ou lorsque vous êtes [spectateur](/wiki/Gameplay/Spectating) d'un autre joueur, en tant que [paramètre d'exclusion](/wiki/Client/Options#notifications-et-vie-privée).
 - Lien automatique des beatmaps joués dans l'onglet de discussion `#spectator` pour les spectateurs, en tant que [paramètre d'exclusion](/wiki/Client/Options#notifications-et-vie-privée)
 
 ### Classements étendus

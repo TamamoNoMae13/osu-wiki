@@ -345,7 +345,7 @@
 
 备注：
 
-- 如果自定义此元素，则会覆盖 `hitcircle.png` 用于滑条头部。
+- 如果自定义此元素，则会覆盖 `hitcircle.png` 用于滑条尾部。
 - 此元素是滑条尾部的打击圈。
 - 此元素在滑条完成前渐显，完成后放大。
   - 如果启用 [Hidden](/wiki/Gameplay/Game_modifier/Hidden) 模组，此元素会在完成滑条前渐显，完成后只会渐隐。
@@ -365,7 +365,7 @@
   - 如果启用 [Hidden](/wiki/Gameplay/Game_modifier/Hidden) 模组，此元素会在完成滑条前渐显，完成后只会渐隐。
 - 此元素可以覆盖在串数上方，也可以置于其下。默认情况下总会置于其上。
   - 若要将此元素置于串数下方，将 `HitCircleOverlayAboveNumber` 设为 `0`。
-- 此元素会覆盖 `hitcircle.png` 用于滑条头部。
+- 此元素会覆盖 `hitcircleoverlay.png` 用于滑条尾部。
 - 需要 `sliderendcircle.png` 来使此元素有效。
 - 此元素应该是圆圈。
 - 此元素过去可使用动画。关于完整细节，请见[自定义皮肤历史](/wiki/Skinning/History)。
@@ -756,6 +756,28 @@
 
 - 必须自定义 `hit300.png`。
 - 此元素用于 `hit300`、`hit300g` 和 `hit300k`。
+
+## 滑条失误提示 （仅Lazer）
+
+在 [Lazer](/wiki/Client/Release_stream/Lazer) 版本的游戏中，新增了漏掉滑条部分时的提示。可以使用下面的传统皮肤元素自定义这些提示。osu!stable 不使用它们<!-- TODO link somewhere -->。
+
+::: Infobox
+
+|  |  |
+| :-- | :-- |
+| 版本 | 所有 |
+| 可以使用动画？ | ![是][true] |
+| 可以在谱面中自定义？ | ![是][true] |
+| 混合模式 | 普通模式 |
+| 定位点 | 中心 |
+| 推荐标准大小 | 16x16 |
+
+:::
+
+|  | 文件名 | 描述 |
+| :-: | :-- | :-- |
+| ![](img/sliderendmiss.png "默认的 sliderendmiss@2x.png") | `sliderendmiss.png` | 当漏掉[滑条尾部](/wiki/Gameplay/Hit_object/Slider/Slidertail)时显示。 |
+| ![](img/slidertickmiss.png "默认的 slidertickmiss@2x.png") | `slidertickmiss.png` | 当漏掉[滑条点](/wiki/Gameplay/Hit_object/Slider/Slider_tick)时显示。 |
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png

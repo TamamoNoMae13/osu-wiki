@@ -1,17 +1,16 @@
----
-outdated_since: a0e4364edc5b689e3699ec76cbaa28f81a4597c9
-outdated_translation: true
----
-
 # osu! wiki 维护
 
-*参见：[osu! wiki 贡献指南](/wiki/osu!_wiki/Contribution_guide)*
+::: alert-note
+**参见：** [osu! wiki 贡献指南](/wiki/osu!_wiki/Contribution_guide)
+:::
 
-这篇文章描述了 osu! wiki 的技术和管理方面。它还囊括了保持 wiki 更新所需的维护程序——也许你可以[在其中一个程序做出贡献](#例行程序)。所有与 wiki 相关的讨论，应使用 [osu! Discord 服务器](/wiki/Community/osu!_Discord_server)的 `#osu-wiki` 频道。
+这篇文章描述了 osu! wiki 的技术和管理方面。它还囊括了保持 wiki 更新所需的维护程序——也许你可以[在其中一个程序做出贡献](#例行程序)。所有与 wiki 相关的讨论，应使用 [osu! Discord 服务器](/wiki/Community/Discord_servers#official)的 `#osu-wiki` 频道。
 
 ## 管理员
 
-*主文章：[osu! wiki 维护者列表](/wiki/People/osu!_wiki_maintainers)*
+::: alert-note
+**主文章：** [osu! wiki 维护者列表](/wiki/People/osu!_wiki_maintainers)
+:::
 
 管理员有对 [`ppy/osu-wiki` 仓库](https://github.com/ppy/osu-wiki/)的[协作访问权限](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account)。所有文章和新闻帖都存储在仓库之中。他们可以分类和标记问题、管理打开的拉取请求 (PR)、决定 osu! wiki 的现在和未来。
 
@@ -69,10 +68,10 @@ CI 检查通常会阻止含有错误的拉取请求 (PR) 被合并。然而，�
 | # | 检查 | 工具 | 解释 | 忽略方法 |
 | :-: | :-- | :-- | :-- | :-- |
 | 1 | 文件大小 | [`meta/check-file-sizes.sh`](https://github.com/ppy/osu-wiki/blob/master/meta/check-file-sizes.sh) | 检查图片文件是否小于[新闻文章和 wiki 文章的文件大小限制](/wiki/Article_styling_criteria/Formatting#文件大小) (1 MB)。如果超过 0.5 MB，则会警告。 | 无。 |
-| 2 | Markdown | [`meta/remark.sh`](https://github.com/ppy/osu-wiki/blob/master/meta/remark.sh) 附加的[标签](https://github.com/remarkjs/remark) | 检查 wiki 文章和新闻帖中的 Markdown 语法是否正确和一致。 | 在违规行之上添加 `<!-- lint ignore 规则名 -->`，`规则名` 是需要忽略的规则。 |
+| 2 | Markdown | 通过 [`meta/remark.sh`](https://github.com/ppy/osu-wiki/blob/master/meta/remark.sh) 执行 [remark](https://github.com/remarkjs/remark) | 检查 wiki 文章和新闻帖中的 Markdown 语法是否正确与一致。 | 在拉取请求描述任意地方添加 `SKIP_REMARK`。要永久忽略指定错误，可在违规行上方添加 `<!-- lint ignore 规则名 -->`，`规则名` 是需要忽略的规则。 |
 | 3 | YAML | [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) 的 `check-yaml` 指令 | 检查 [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) 和文件[前言部分](/wiki/Article_styling_criteria/Formatting#前言)的 YAML 语法是否正确。 | 无。 |
 | 4 | 失效的 wiki 链接 | [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) 的 `check-links` 指令 | 检查内部 [wiki 链接](/wiki/Article_styling_criteria/Formatting#wiki-链接)是否指向实际存在的文章、新闻帖（对于新闻帖内链）或这些文章的一部分内容。 | 在拉取请求描述的任意地方添加 `SKIP_WIKILINK_CHECK`。 |
-| 5 | 过时翻译 | [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) 的 `check-outdated-articles` 指令 | 检查只更新英文文章时，是否将对应的其他语言的翻译文章[标记为过时](/wiki/Article_styling_criteria/Formatting#过时翻译文章)。 | 在拉取请求描述的任意地方添加 `SKIP_OUTDATED_CHECK`。 |
+| 5 | 过时翻译 | ["Post-merge outdate processing（合并后过时处理）"](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/post-merge-outdate.yml) GitHub action | 在 PR 合并后，自动将未经编辑的翻译[标记为过时](/wiki/Article_styling_criteria/Formatting#过时翻译文章)。 | 参见[过时翻译](#过时翻译)。 |
 
 ##### Markdown [`no-heading-punctuation`](https://github.com/remarkjs/remark-lint/tree/main/packages/remark-lint-no-heading-punctuation) lint 标记规则
 
@@ -102,7 +101,9 @@ osu! 的创始者。
 
 ##### Wiki 链接检查
 
-*参见：[文章风格规范/排版 § Wiki 链接](/wiki/Article_styling_criteria/Formatting#wiki-链接)*
+::: alert-note
+**参见：** [文章风格规范/排版 § Wiki 链接](/wiki/Article_styling_criteria/Formatting#wiki-链接)
+:::
 
 鼓励贡献者在更新文章时，修复坏掉的链接。也就是说，在某些情况下，可能需要做比简单地提出拉取请求 (PR) 更多的工作：
 
@@ -110,11 +111,25 @@ osu! 的创始者。
 - 修复翻译中不存在的章节链接
 - 移动相关联的文件（为了修复已经坏掉，且不是因为文件移动损坏的链接）
 
-##### 过时翻译检查
+##### 过时翻译
 
-*参见：[文章风格规范/排版 § 过时翻译](/wiki/Article_styling_criteria/Formatting#过时翻译文章)和[文章风格规范/写作 § 内容校验](/wiki/Article_styling_criteria/Writing#内容校验)*
+::: alert-note
+**参见：** [文章风格规范/排版 § 过时翻译](/wiki/Article_styling_criteria/Formatting#过时翻译文章)和[文章风格规范/写作 § 内容一致性](/wiki/Article_styling_criteria/Writing#内容一致性)
+:::
 
-如果只是做出较小的改动，或者调整语法这类不会影响原本的意思的操作，可以跳过过时翻译检查（不需要将其他翻译文章标记为过时）。
+如果只是做出较小的改动，或者调整语法这类不会影响原本意思的更改，则无需将翻译标记为过时。在这些情况下，可以跳过将翻译标记为过时的自动操作。
+
+要这么做，需要在拉取请求的描述下方指定**不**应该被标记过时的文件或文章，一行指定一条规则。支持的格式如下：
+
+| 指令 | 含义 |
+| :-- | :-- |
+| `DO_NOT_OUTDATE: wiki/Path/To/Article/es.md` | 跳过这一篇翻译。 |
+| `DO_NOT_OUTDATE: wiki/Article` | 跳过 `Article` 的所有翻译。 |
+| `DO_NOT_OUTDATE: wiki/*/es.md` | 跳过所有西班牙语翻译。 |
+| `DO_NOT_OUTDATE: wiki/{Article,Other_article}/{es,jp}.md` | 跳过 `Article` 与 `Other article` 的西班牙语与日语翻译。 |
+| `DO_NOT_OUTDATE: wiki/Article + wiki/Other_article/es.md` | 将多条规则合并为一行。 |
+
+为了方便起见，可以省略掉 `wiki/` 前缀。
 
 ### 开发
 
@@ -133,19 +148,19 @@ osu! wiki 已经集成到 osu! 网站中，也就是说所有的技术功能类�
 
 *注意：[osu-wiki status](https://osu.wiki/status/zh) 网站列出了所有需要维护的文章，并按类别分开排列。*
 
-wiki 依靠 osu! 社区的投入。你可以尽自己的职责，来帮助维护者或者其他贡献者。想要知道如何做到这一点，请阅读[贡献指南](/wiki/osu!_wiki/Contribution_guide)。如果你有任何困难，请在 [osu! Discord server](/wiki/Community/osu!_Discord_server) 的 `#osu-wiki` 频道寻求帮助。
+wiki 依靠 osu! 社区的投入。你可以尽自己的职责，来帮助维护者或者其他贡献者。想要知道如何做到这一点，请阅读[贡献指南](/wiki/osu!_wiki/Contribution_guide)。如果你有任何困难，请在 [osu! Discord server](/wiki/Community/Discord_servers#official) 的 `#osu-wiki` 频道寻求帮助。
 
 ### 翻译
 
 *有关翻译及完成度的列表，请参阅：[osu-wiki status](https://osu.wiki/status/zh)*
 
-世界各地的玩家都会阅读 osu! wiki。为了给你所处的当地社区做出贡献，吸引新的优秀玩家、谱师、摸图员和开发者加入游戏，你可以来翻译英文文章至你使用的语言，或是更新过时的现有翻译文章。查看 osu! wiki 支持的[语言列表](/wiki/Article_styling_criteria/Formatting#本地化语言)，并且在翻译时，确保你翻译的内容[与原文相同](/wiki/Article_styling_criteria/Writing#内容校验)。如果你能熟练使用语言交流，在写作方面很有经验，那么可以选择一些与[规则](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules)或是[谱面上架标准 (RC)](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_criteria) 相关的文章。如果你才刚刚加入翻译工作，可以尝试翻译一篇短小的文章，并接受熟练使用此语言的审核员的帮助和指导。
+世界各地的玩家都会阅读 osu! wiki。为了给你所处的当地社区做出贡献，吸引新的优秀玩家、谱师、摸图员和开发者加入游戏，你可以来翻译英文文章至你使用的语言，或是更新过时的现有翻译文章。查看 osu! wiki 支持的[语言列表](/wiki/Article_styling_criteria/Formatting#本地化语言)，并且在翻译时，确保你翻译的内容与原文[包含相同信息](/wiki/Article_styling_criteria/Writing#内容一致性)。如果你能熟练使用语言交流，在写作方面很有经验，那么可以选择一些与[规则](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules)或是[谱面上架标准 (RC)](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_criteria) 相关的文章。如果你才刚刚加入翻译工作，可以尝试翻译一篇短小的文章，并接受熟练使用此语言的审核员的帮助和指导。
 
 如果翻译请求从创建以来已经经过了一周，即使没有熟练使用语言交流的玩家来审核，也可以合并。
 
 ### 扩写
 
-*有关可能的工作范围，请参阅：[需要扩写的文章列表（英语）](https://github.com/search?q=stub%3A+true+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
+*有关可能的工作范围，请参阅：[需要扩写的文章列表（英语）](https://github.com/search?q=stub%3A+true+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)*
 
 有些 osu! wiki 文章可能并不完整且缺乏关键信息。这些文章会标记为 *stubs*，这代表了这些文章虽然足够重要，可以写成一篇独立的文章，但是只可能在未来完成。如果你熟悉这篇文章所描述的内容，就贡献并分享出你的知识吧。
 
@@ -159,6 +174,6 @@ osu! 有一个不断变化的环境：社区涌现出许多新的谱面；玩家
 
 ### 更新
 
-*有关可能的工作范围，请参阅：[未跟进的待做列表（英语）](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
+*有关可能的工作范围，请参阅：[未跟进的待做列表（英语）](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)*
 
 现有的文章也需要维护。如果你在文章中发现一些既有错误，或是缺少一些细节，或是你只是想根据实际情况来重写或者扩展文章，那么就站出来，让 osu! wiki 变得更好。如果你计划的更改很大或很重要，请把它提到 `#osu-wiki` 频道讨论，或者[创建跟踪问题](https://github.com/ppy/osu-wiki/issues/new) (issue)。

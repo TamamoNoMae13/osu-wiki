@@ -1,6 +1,9 @@
 # Registre du personnel : 2013
 
-*Remarque: L'histoire de quelques utilisateurs peut être incomplète pendant cette année.*
+::: alert-notice
+**Note**
+L'histoire de quelques utilisateurs peut être incomplète pendant cette année.
+:::
 
 ## Janvier
 
@@ -225,7 +228,7 @@
 - Transfert de [Mr Color](https://osu.ppy.sh/users/116078) : Chat Moderators > Global Moderation Team (16/11/2013)
 - Ajout de [ZHSteven](https://osu.ppy.sh/users/142413) : Beatmap Appreciation Team (17/11/2013)
 - Ajout de [PROGUY](https://osu.ppy.sh/users/528181) : Beatmap Appreciation Team (17/11/2013)
-- Ajout de [Roxas](https://osu.ppy.sh/users/1041833)  : Beatmap Appreciation Team (17/11/2013)
+- Ajout de [Roxas](https://osu.ppy.sh/users/1041833) : Beatmap Appreciation Team (17/11/2013)
 - Transfert de [lolcubes](https://osu.ppy.sh/users/578401) : osu! Alumni > Beatmap Appreciation Team (18/11/2013)
 - Transfert de [Dangaard](https://osu.ppy.sh/users/19488) : osu! Alumni > Beatmap Appreciation Team (24/11/2013)
 - Transfert de [blissfulyoshi](https://osu.ppy.sh/users/20865) : osu! Alumni > Beatmap Appreciation Team (24/11/2013)

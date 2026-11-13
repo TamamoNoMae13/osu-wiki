@@ -315,7 +315,7 @@ Sunday, January 30, 2022
 | --: | :-: | :-: | :-- | :-- |
 | **South Korea** ::{ flag=KR }:: | **6** | 0 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/97170691) |
 | **China** ::{ flag=CN }:: | **6** | 5 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/97177094) |
-| **Philippines** ::{ flag=PH }:: | **6** | 0 | ::{ flag=TH }:: Thailand | [#1]( https://osu.ppy.sh/community/matches/97182046) |
+| **Philippines** ::{ flag=PH }:: | **6** | 0 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/97182046) |
 | **Malaysia** ::{ flag=MY }:: | **6** | 0 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/97187449) |
 
 ### Round of 16
@@ -420,7 +420,16 @@ The final standings for the Qualifier stage can be found in the following [sprea
 5. Each team must have 2 players for each map. They can be exchanged freely after a map is concluded.
 6. An optional 5-minute break will be offered between the first and second play-through of the mappool.
 7. All teams will play their qualifiers in separate rooms. It is suggested that teams do not broadcast or share their results publicly to avoid seed manipulation.
-8. Only the top 16 seeded teams will advance to the Round of 16.
+8. The seeding method used for Qualifiers will be weighted rank sum, where each team's map rank will be multiplied by a predetermined weight and then added together to compose that team's final score, which is then sorted from lowest to highest, lowest being seed #1.
+   - The exact formula that will be used for each map is `Map score = RANK(Team score) * Map weight`, where `RANK` is the function that ranks the current `Team score` against all team scores for the current map, and `Map weight` is the weight for the current map, as defined by the table below.
+   - The final team score to be sorted is defined as `Final score = SUM(Map score)`, i.e. the sum of each map's `Map score`.
+9. The top 16 seeded teams will advance to the Round of 16.
+
+The weights for the Qualifiers are as follows:
+
+|  | Stage 1 | Stage 2 | Stage 3 | Stage 4 | Stage 5 | Stage 6 | Stage 7 | Stage 8 |
+| --: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| **Weight** | 0.1450 | 0.1250 | 0.1250 | 0.1250 | 0.1000 | 0.1675 | 0.1000 | 0.1125 |
 
 ### Stage instructions
 

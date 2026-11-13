@@ -6,7 +6,7 @@ tags:
 
 # osu!supporter
 
-![osu!supporter promotional image](img/supporter-eyecatch.jpg)
+[![osu!supporter promotional image](img/supporter-eyecatch.jpg)](https://osu.ppy.sh/home/support)
 
 **osu!supporter** (or the ***osu!supporter tag***) is a temporary title given to players who support osu! by making a voluntary, monetary donation to help it thrive. Supporters receive a handful of cosmetic and technical benefits, most of which are active only when the title is present. The extra features from osu!supporter do not give any advantage in gameplay, performance, or score, and never will.
 
@@ -17,11 +17,11 @@ The osu!supporter tag may be obtained from the [osu!supporter store page](https:
 ### Heart badge
 
 ::: Infobox
-![](img/userpage.png?1 "Profile with osu!supporter")
+![](img/userpage.png?20241103 "Profile with osu!supporter")
 :::
 
 ::: Infobox
-![](img/usercard.png?2 "User card with osu!supporter")
+![](img/usercard.png?20241022 "User card with osu!supporter")
 :::
 
 Supporters get a badge with hearts on it, usually found next to their username on the website. The amount of hearts depends on the duration of osu!supporter the user has acquired or received in total<!-- source: https://github.com/ppy/osu-web/blob/ac227d6abbd48630ebbf428c4e3372f388004ee5/app/Models/User.php#L1733-L1750 -->:
@@ -57,9 +57,21 @@ Supporters can further customise their profile by setting a cover image:
 
 Once osu!supporter expires, the cover will remain, but cannot be changed.
 
+### Profile colour
+
+Akin to profile covers, supporters can alter the colour of their profile:
+
+- Press the pencil icon in the lower right corner of the profile cover.
+- Adjusting the profile colour alters the colour of almost everything, including the banner, buttons, links, and text.
+
+Once osu!supporter expires, the colour customisations will remain, but may only be changed back to default.
+
 ### One free username change
 
-*Note: Minor name changes may be requested from the account support team for free — see [Help centre/Account § Can I change my account's username?](/wiki/Help_centre/Account#name-changes).*
+::: alert-notice
+**Notice**
+Minor name changes may be requested from the account support team for free — see [Help centre/Account § Can I change my account's username?](/wiki/Help_centre/Account#name-changes).
+:::
 
 Getting osu!supporter comes with the ability to change usernames for free for the first time, under [usual conditions](/wiki/Help_centre/Account#name-changes).
 
@@ -68,7 +80,7 @@ Getting osu!supporter comes with the ability to change usernames for free for th
 osu!direct is the in-game beatmap search and download engine available to supporters. It may be accessed from the main menu by clicking the vertical `osu!direct` label on the right side of the screen. In addition to a built-in beatmap listing, osu!direct provides other ways to obtain new beatmaps without leaving the game:
 
 - Beatmap links in chat, which point to beatmaps on the osu! website, now trigger the download prompt in-game
-- Automatic beatmap downloads while playing in a [multiplayer](/wiki/Client/Interface/Multiplayer) lobby or [spectating](/wiki/Gameplay/Spectating) another player, as an [opt-out setting](/wiki/Client/Options#integration)
+- Automatic beatmap downloads while playing in a [multiplayer](/wiki/Gameplay/Multiplayer) lobby or [spectating](/wiki/Gameplay/Spectating) another player, as an [opt-out setting](/wiki/Client/Options#integration)
 - Automatic linking of currently played beatmaps in the `#spectator` chat tab for spectators, as an [opt-out setting](/wiki/Client/Options#alerts-and-privacy)
 
 ### Extended leaderboards
@@ -86,8 +98,12 @@ osu! offers more relaxed limits on various online features to supporters:
 | Value | Regular limit | osu!supporter limit |
 | :-- | :-: | :-: |
 | [Pending beatmaps](/wiki/Beatmap/Category#wip-and-pending) | `4 + min(ranked beatmaps, 4)`, up to **8**[^pending-beatmaps-ref] | `8 + min(ranked beatmaps, 12)`, up to **20**[^pending-beatmaps-ref] |
+| Team size | 8 | `8 + 4 * supporters in the team` up to **256** |
 | Online beatmap favourites | 100 | 1000 |
 | Friend count | 500 | 1000 |
+| Pinned scores on profile | 10 | 50 |
+| Simultaneously open playlists | 1 | 5 |
+| Playlist duration | 14 days (2 weeks) | 93 days (~3 months) |
 
 Additionally, bearers of osu!supporter are granted more lenient beatmap download limits.
 
@@ -103,6 +119,8 @@ After obtaining osu!supporter, some visual and aural elements of the osu! interf
 | `seeya.wav` | The "see ya next time" sample that plays when the game shuts down |
 
 For details, see [Skinning/Interface § Main menu](/wiki/Skinning/Interface#main-menu) and [Skinning/Sounds § Main menu](/wiki/Skinning/Sounds#main-menu).
+
+In osu!(lazer) supporters can also choose to display the background or video of the currently playing beatmap in the main menu via the `Background source` option in settings.
 
 ### Extended search
 

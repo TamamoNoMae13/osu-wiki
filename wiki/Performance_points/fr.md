@@ -1,3 +1,8 @@
+---
+outdated_since: 6764d34c29c0eac7037a091e314d7376d1829d9d
+outdated_translation: true
+---
+
 # Points de performance
 
 Les **points de performance** (abrégé en **pp**) sont une mesure de classement qui vise à être plus contextuellement pertinente pour la progression d'un joueur sur osu!.
@@ -32,7 +37,10 @@ La difficulté de la beatmap qu'un joueur est en train de jouer détermine la va
 
 Les scores sont ensuite "pondérés" les uns par rapport aux autres afin de s'assurer que les meilleurs scores d'un utilisateur soient les scores comptant le plus dans son classement général de points de performance. Connu sous le nom de [*weightage system*](#weightage-system), son objectif est d'empêcher l'obtention rapide et répétée de pp sur des beatmaps faciles en réduisant le nombre de pp réellement obtenus en fonction des autres meilleurs scores du joueur.
 
-*Remarque : une petite quantité de pp bonus est attribuée en fonction du nombre de beatmaps classées sur lesquelles vous avez établi un score.*
+::: alert-notice
+**Note**
+une petite quantité de pp bonus est attribuée en fonction du nombre de beatmaps classées sur lesquelles vous avez établi un score.
+:::
 
 ### Weightage system
 
@@ -60,7 +68,9 @@ En conséquence, des mods comme [Double Time](/wiki/Gameplay/Game_modifier/Doubl
 
 ### Précision
 
-*Voir également : [Précision](/wiki/Gameplay/Accuracy)*
+::: alert-note
+**Voir également** : [Précision](/wiki/Gameplay/Accuracy)
+:::
 
 La *précision* est une mesure en pourcentage de la capacité d'un joueur à frapper les [objets](/wiki/Gameplay/Hit_object) à temps ; en ce qui concerne l'algorithme des pp, il s'agit également d'une valeur fondamentale utilisée pour évaluer la performance individuelle d'un joueur sur une beatmap.
 
@@ -99,15 +109,15 @@ Considérez les conseils suivants :
 
 Vous pouvez en savoir plus sur le weightage system [plus haut](#weightage-system).
 
-### Quel est le nombre de bonus pp maximum obtenus après avoir réalisé beaucoup de scores sur des beatmaps classées ?
+### Quel est le nombre de bonus pp maximum obtenus après avoir réalisé des scores sur des beatmaps classées ?
 
-**Jusqu'à 416,6667 pp de bonus sont accordés pour l'établissement d'un grand nombre de scores. Ce nombre est atteint lorsque vous avez environ 25397 scores.**
+**Jusqu'à 416,6667 pp de bonus sont accordés pour l'établissement des scores. Ce nombre est atteint avec environ 3640 scores, mais 416 d'entre eux peuvent être atteints en ayant seulement 1285 scores.**
 
-Vous pouvez calculer le montant exact de ce bonus en utilisant la formule suivante, `N` étant le nombre de beatmaps classées sur lesquelles vous avez réalisé un score :
+Vous pouvez calculer le montant exact de ce bonus en utilisant la [formule suivante](https://www.desmos.com/calculator/y5vy4vmxng), ou `N` étant le nombre de beatmaps classées sur lesquelles vous avez réalisé un score :
 
-`416.6667 * (1 - 0.9994 ^ N)`
+`416.6667 * (1 - 0.995 ^ N)`
 
-Le nombre médian de scores requis pour atteindre la moitié de ce bonus est d'environ 1155 scores. Comme vous pouvez le constater, le nombre de points requis augmente fortement vers l'extrémité supérieure du spectre.
+Le nombre médian de scores requis pour atteindre la moitié de ce bonus est d'environ 209 scores. Comme vous pouvez le constater, le nombre de points requis augmente fortement vers l'extrémité supérieure du spectre.
 
 #### La pondération est-elle la raison pour laquelle je n'obtiens plus de pp en jouant des beatmaps faciles ?
 

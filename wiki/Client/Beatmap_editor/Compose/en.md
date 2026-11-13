@@ -14,13 +14,17 @@ The editor shares the same tools between osu!, osu!taiko, and osu!catch, while o
 
 ## Features
 
-*For a general overview of the mapping process, see: [Beatmapping](/wiki/Beatmapping)*
+::: alert-note
+**Note:** For a general overview of the mapping process, see [Beatmapping](/wiki/Beatmapping)
+:::
 
 ### Hit object timeline
 
 ![](img/objects-timeline.jpg "Timeline for hit objects with respect to the beat snap divisor and timestamp")
 
 The timeline can be zoomed in and out with the `+`/`-` buttons to the left, or alternatively scrolling with the `Alt` key held. The two white lines in the middle indicate the current timestamp. Additionally, hit objects on the timeline can be selected and moved around with the left mouse button, or removed by right-clicking.
+
+Click and drag a slidertail on the timeline right to create [repeat sliders](/wiki/Gameplay/Hit_object/Slider/Repeat_slider).
 
 ### Beat snap divisor
 
@@ -113,13 +117,17 @@ On the bottom right, the playback rate can be set to 25%, 50%, 75%, or 100%.
 
 ## Features (osu!mania)
 
-*For osu!mania mapping tutorials on the forum, see: [[Tutorial] osu!mania mapping, Basics](https://osu.ppy.sh/community/forums/topics/118868), [[Tutorial] osu!mania mapping, Keysounding](https://osu.ppy.sh/community/forums/topics/139139)*
+::: alert-note
+**Note:** For osu!mania mapping tutorials on the forum, see [[Tutorial] osu!mania mapping, Basics](https://osu.ppy.sh/community/forums/topics/118868), [[Tutorial] osu!mania mapping, Keysounding](https://osu.ppy.sh/community/forums/topics/139139)
+:::
 
 The osu!mania-specific editor has some differences compared to the other game modes, which are covered in this section.
 
 ### Beat snap divisor
 
-*Main article: [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor)*
+::: alert-note
+**Main page:** [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor)
+:::
 
 ![](img/beat-snap-divisor-mania.jpg "Beat snap divisor in osu!mania")
 
@@ -150,7 +158,9 @@ In osu!mania, the beat snap divisor area also shows the name and volume level of
 
 #### Colours
 
-*See also: [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor)*
+::: alert-note
+**See also:** [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor)
+:::
 
 | Line colour | Description |
 | :-- | :-- |
@@ -187,16 +197,18 @@ The left side of the sample import window lists all audio samples from the beatm
 | :-- | :-- |
 | `Play` | Play selected sample. |
 | `Import` | Add more samples to the beatmap folder from other locations. |
-| `Sample` | Add selected sample as a [storyboard audio event](/wiki/Storyboard/Scripting/Audio) at the current timestamp. |
+| `Delete` | Delete the audio file. |
 | `Apply` | Apply selected sample to the selected note. |
-| `Sample` | Add selected sample as a storyboard event at the current timestamp. |
+| `Sample` | Add selected sample as a [storyboard audio event](/wiki/Storyboard/Scripting/Audio) at the current timestamp. |
 | `Sample list` | Display [sound events in the storyboard](#sample-events-list). |
 | `Reset` | Remove custom sample from the selected note. |
 | `Cancel` | Close the window. |
 
 #### Sample events list
 
-*See also: [Storyboard audio samples](/wiki/Storyboard/Scripting/Audio)*
+::: alert-note
+**See also:** [Storyboard audio samples](/wiki/Storyboard/Scripting/Audio)
+:::
 
 ![](img/sample-event-list.jpg "Sample events list window")
 

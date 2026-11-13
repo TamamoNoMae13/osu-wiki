@@ -1,4 +1,4 @@
-# Historia de osu! 2008
+# Historia de osu! de 2008
 
 ![](img/2008.jpg)
 
@@ -32,7 +32,7 @@ El modo [Taiko](/wiki/Game_mode/osu!taiko) vio la luz por primera vez en este me
 
 ## Junio
 
-Se llegó a un hito importante en la historia de osu! con la adición del modo de juego [Multi (multijugador)](/wiki/Client/Interface/Multiplayer). Las opciones de skinning se ampliaron aún más con respecto a los gráficos y los sonidos. Por último, el chat multicanal fue posible por primera vez.
+Se llegó a un hito importante en la historia de osu! con la adición del modo de juego [Multi (multijugador)](/wiki/Gameplay/Multiplayer). Las opciones de skinning se ampliaron aún más con respecto a los gráficos y los sonidos. Por último, el chat multicanal fue posible por primera vez.
 
 ## Julio
 

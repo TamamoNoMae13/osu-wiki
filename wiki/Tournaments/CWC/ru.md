@@ -15,3 +15,5 @@
 - [osu!catch World Cup 2022](2022)
 - [osu!catch World Cup 2023](2023)
 - [osu!catch World Cup 2024](2024)
+- [osu!catch World Cup 2025](2025)
+- [osu!catch World Cup 2026](2026)

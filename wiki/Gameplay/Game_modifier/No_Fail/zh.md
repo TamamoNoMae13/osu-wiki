@@ -13,13 +13,14 @@ tags:
 
 ![NF 模组图标](/wiki/shared/mods/NF.png "No Fail (NF) 模组图标")
 
+*对于本文章的 [lazer](/wiki/Client/Release_stream/Lazer) 版本，参见：[No Fail（lazer 模组）](/wiki/Gameplay/Game_modifier/No_Fail_(lazer))*\
 *对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*
 
 ## 关于
 
 - 缩写：NF
 - 类别：降低难度
-- 得分系数：0.50x
+- 得分倍率：0.50x
 - 默认快捷键：`W`
 - 描述：`不管怎么样，你都失败不了。`
 - 兼容的游戏模式：![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]

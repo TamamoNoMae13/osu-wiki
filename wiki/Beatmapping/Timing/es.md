@@ -2,7 +2,7 @@
 
 La **temporización** es el proceso de determinar la estructura musical de una canción determinando las posiciones de cada [sección de tiempo](/wiki/Client/Beatmap_editor/Timing) junto con sus valores de [BPM](/wiki/Music_theory/Tempo) y [signatura de compás](/wiki/Music_theory/Time_signature).
 
-El [editor de beatmaps](/wiki/Client/Beatmap_editor) proporciona [configuraciones de tiempo](/wiki/Client/Beatmap_editor/Timing) con una [vista de una línea de tiempo similar a una regla](/wiki/Client/Beatmap_editor/Timelines#timing) para la ubicación temporal de [objetos](/wiki/Gameplay/Hit_object). Cuando se colocan los objetos, se [anclan](/wiki/Beatmapping/Snapping) a las marcas de la línea de tiempo, es decir, subdivisiones de un [compás](/wiki/Music_theory/Measure), lo que permite que los objetos se alineen fácilmente con las notas de la canción.
+El [editor de beatmaps](/wiki/Client/Beatmap_editor) proporciona [configuraciones de tiempo](/wiki/Client/Beatmap_editor/Timing) con una [vista de una línea de tiempo similar a una regla](/wiki/Client/Beatmap_editor/Timelines#temporización) para la ubicación temporal de [objetos](/wiki/Gameplay/Hit_object). Cuando se colocan los objetos, se [anclan](/wiki/Beatmapping/Snapping) a las marcas de la línea de tiempo, es decir, subdivisiones de un [compás](/wiki/Music_theory/Measure), lo que permite que los objetos se alineen fácilmente con las notas de la canción.
 
 Además, la temporización de un beatmap controla las siguientes características:
 
@@ -15,7 +15,9 @@ La temporización refleja parcialmente *propiedades de un archivo de audio espec
 
 ## Estructura de la canción
 
-*Artículo principal: [Teoría musical](/wiki/Music_theory)*
+::: alert-note
+**Página principal:** [Teoría musical](/wiki/Music_theory)
+:::
 
 Casi todas las canciones se pueden dividir en secciones de diferente tempo, y el objetivo de la temporización es dividir un beatmap para que coincida con esas secciones. Comprender algunos conceptos de teoría musical puede ayudar al analizar este proceso:
 
@@ -27,8 +29,13 @@ Casi todas las canciones se pueden dividir en secciones de diferente tempo, y el
 
 ## Proceso de temporización
 
-*Artículo principal: [Cómo temporizar canciones](/wiki/Guides/How_to_time_songs)*\
-*Véase también: [Beatmap editor/Timing](/wiki/Client/Beatmap_editor/Timing)*
+::: alert-note
+**Página principal:** [Cómo temporizar canciones](/wiki/Guides/How_to_time_songs)
+:::
+
+::: alert-note
+**Véase también:** [Beatmap editor/Timing](/wiki/Client/Beatmap_editor/Timing)
+:::
 
 ### BPM único
 

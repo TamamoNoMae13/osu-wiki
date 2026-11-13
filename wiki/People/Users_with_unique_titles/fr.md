@@ -1,6 +1,7 @@
 ---
 outdated_translation: true
-outdated_since: f025dffcc9f2f7857bdb1819c90c9cb7376c7b22
+outdated_since: 47eb8012cee643acc8130a6992aad6e4b54c0cac
+no_native_review: true
 ---
 
 # Utilisateurs avec des titres uniques
@@ -134,9 +135,10 @@ Les vainqueurs des précédentes World Cups osu!mania avec le titre d'utilisateu
 
 ## Gagnants du concours officiel de mapping
 
-La plupart des concours officiels de mapping offrent le titre de **Elite Mapper** comme premier prix.
+La plupart des concours officiels de mapping offrent le titre de **Elite Mapper** par le biais des [points de concours](/wiki/Contests/Contest_points). Les concours plus anciens récompensaient le titre en tant que premier prix.
 
 - ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596)
+- ::{ flag=PH }:: [acnozei](https://osu.ppy.sh/users/10141268)
 - ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309)
 - ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883)
 - ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114)
@@ -175,6 +177,8 @@ La plupart des concours officiels de mapping offrent le titre de **Elite Mapper*
 - ::{ flag=KR }:: [Taeyang](https://osu.ppy.sh/users/2732340)
 - ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811)
 - ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509)
+- ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904)
+- ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
 - ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669)
 - ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834)
 - ::{ flag=RU }:: [xbopost](https://osu.ppy.sh/users/6842421)
@@ -183,7 +187,9 @@ La plupart des concours officiels de mapping offrent le titre de **Elite Mapper*
 
 ## Nominateurs d'élite
 
-*Page principale : [Nominateurs d'élite](/wiki/People/Elite_Nominators)*
+::: alert-note
+**Page principale** : [Nominateurs d'élite](/wiki/People/Elite_Nominators)
+:::
 
 Depuis 2020, les membres des [Beatmap Nominators](/wiki/People/Beatmap_Nominators) et de la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) avec un affichage exceptionnel vers le soutien du système de classement dans une année donnée sont récompensés par le titre **Elite Nominator**. Ce titre est attribué au début de chaque année pour les contributions faites au cours de la dernière année, et dure environ un an ou jusqu'à ce que l'utilisateur quitte l'équipe.
 
@@ -271,7 +277,9 @@ Ces storyboarders ont été récompensés par le titre de **Elite Storyboarder**
 
 ## Liées au gameplay
 
-*Voir également : [Complétionnistes](/wiki/People/Completionists)*
+::: alert-note
+**Voir également** : [Complétionnistes](/wiki/People/Completionists)
+:::
 
 Ces joueurs ont obtenu leur titre respectif en réalisant des prouesses de gameplay ou en relevant un défi spécifique.
 
@@ -297,7 +305,8 @@ Ces utilisateurs ont reçu leur titre respectif pour avoir contribué de manièr
 | ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | osu!painter |
 | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | osu! Paragon |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Organisateur de la World Cup |
-| ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!painter< |
+| ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
+| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | osu!catch Paragon |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | osu!taiko Paragon |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
 | ::{ flag=DE }:: [LastExceed](https://osu.ppy.sh/users/6232245) | Master of the Fade |

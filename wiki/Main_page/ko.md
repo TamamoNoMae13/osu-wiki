@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 77563f2f23ddf07bc9fc1abbba04b76943364682
 layout: main_page
 ---
 
@@ -37,7 +39,7 @@ layout: main_page
 
 [게임 모드](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[비트맵](/wiki/Beatmap) • [난이도](/wiki/Beatmap/Difficulty) • [히트 오브젝트](/wiki/Gameplay/Hit_object) • [모드](/wiki/Gameplay/Game_modifier) • [점수](/wiki/Gameplay/Score) • [리플레이](/wiki/Gameplay/Replay) • [메달](/wiki/Medals) • [멀티 플레이](/wiki/Client/Interface/Multiplayer)
+[비트맵](/wiki/Beatmap) • [난이도](/wiki/Beatmap/Difficulty) • [히트 오브젝트](/wiki/Gameplay/Hit_object) • [모드](/wiki/Gameplay/Game_modifier) • [점수](/wiki/Gameplay/Score) • [리플레이](/wiki/Gameplay/Replay) • [메달](/wiki/Medals) • [멀티 플레이](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -100,7 +102,7 @@ osu!와 커뮤니티가 음악 라이센싱과 미디어 사용 가이드라인�
 
 [토너먼트](/wiki/Tournaments) • [비트맵 스포트라이트](/wiki/Beatmap_Spotlights) • [콘테스트](/wiki/Contests) • [커뮤니티 멘토십 프로그램](/wiki/Community/Community_Mentorship_Program)
 
-[프로젝트](/wiki/Community/Projects) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [osu! 커뮤니티 미팅](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[프로젝트](/wiki/Community/Projects) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [osu! 커뮤니티 미팅](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
 
 조직: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -113,7 +115,7 @@ osu!와 커뮤니티가 음악 라이센싱과 미디어 사용 가이드라인�
 
 [osu! 팀](/wiki/People/osu!_team) • [개발자](/wiki/People/Developers) • [공식 아티스트](/wiki/People/Featured_Artists) • [글로벌 모더레이션 팀](/wiki/People/Global_Moderation_Team) • [기술 지원팀](/wiki/People/Technical_Support_Team) • [노미네이션 어세스먼트 팀](/wiki/People/Nomination_Assessment_Team) • [비트맵 노미네이터](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved 팀](/wiki/People/Project_Loved_Team) • [비트맵 스포트라이트 큐레이터](/wiki/People/Beatmap_Spotlight_Curators)
 
-[커뮤니티 기여자](/wiki/People/Community_Contributors) • [엘리트 노미네이터](/wiki/People/Elite_Nominators) • [유저 그룹](/wiki/People/User_group) • [특별한 칭호를 가진 유저](/wiki/People/Users_with_unique_titles) • [센츄리온](/wiki/People/Centurions) • [컴플리셔니스트](/wiki/People/Completionists) • [토너먼트 위원회](/wiki/People/Tournament_Committee) • [퍼포먼스 포인트 위원회](/wiki/People/Performance_Points_Committee) • [osu! 위키 관리자](/wiki/People/osu!_wiki_maintainers)
+[커뮤니티 기여자](/wiki/People/Community_Contributors) • [엘리트 노미네이터](/wiki/People/Elite_Nominators) • [유저 그룹들](/wiki/People/User_groups) • [특별한 칭호를 가진 유저](/wiki/People/Users_with_unique_titles) • [센츄리온](/wiki/People/Centurions) • [컴플리셔니스트](/wiki/People/Completionists) • [토너먼트 위원회](/wiki/People/Tournament_Committee) • [퍼포먼스 포인트 위원회](/wiki/People/Performance_Points_Committee) • [osu! 위키 관리자](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -122,7 +124,7 @@ osu!와 커뮤니티가 음악 라이센싱과 미디어 사용 가이드라인�
 
 다른 응용 프로그램과 미디어를 통해 osu!와 상호작용하거나, 성장할 수 있도록 지원해 주세요.
 
-[API](/wiki/osu!api) • [봇 계정](/wiki/Bot_account) • [브랜드 아이덴티티 가이드라인](/wiki/Brand_identity_guidelines) • [osu! 디스코드 서버](/wiki/Community/osu!_Discord_server)
+[API](/wiki/osu!api) • [봇 계정](/wiki/Bot_account) • [브랜드 아이덴티티 가이드라인](/wiki/Brand_identity_guidelines) • [osu! 디스코드 서버](/wiki/Community/Discord_servers#official)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -1,10 +1,14 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: fff05b2e9de482aa8c120458641e0492c88568b2
 ---
 
 # Skinning de l'interface
 
-*Voir également : [Interface](/wiki/Client/Interface)*
+::: alert-note
+**Voir également** : [Interface](/wiki/Client/Interface)
+:::
 
 Les éléments de skinning de l'interface sont utilisés dans plusieurs modes de jeu ou parties de l'interface utilisateur du client.
 
@@ -192,7 +196,9 @@ Notes :
 
 ## Icônes des mods
 
-*Page principale : [Modificateurs de jeu](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Page principale** : [Modificateurs de jeu](/wiki/Gameplay/Game_modifier)
+:::
 
 ---
 
@@ -615,7 +621,9 @@ Notes :
 
 ## Assistant de décalage
 
-*Page principale : [Assistant de décalage](/wiki/Guides/How_to_use_the_Offset_Wizard)*
+::: alert-note
+**Page principale** : [Assistant de décalage](/wiki/Guides/How_to_use_the_Offset_Wizard)
+:::
 
 ---
 
@@ -843,7 +851,9 @@ Notes :
 
 ### Hit bursts
 
-*Page principale : [Skinning/FAQ § Hiérarchie des résultats de l'écran de classement](/wiki/Skinning/FAQ#hiérarchie-des-résultats-de-l'écran-de-classement)*
+::: alert-note
+**Page principale** : [Skinning/FAQ § Hiérarchie des résultats de l'écran de classement](/wiki/Skinning/FAQ#hiérarchie-des-résultats-de-l'écran-de-classement)
+:::
 
 ---
 
@@ -1123,7 +1133,7 @@ Notes :
 Notes :
 
 - Cet élément n'a aucune restriction de taille.
-- Lorsqu'il est utilisé dans [osu!mania](/wiki/Game_mode/osu!mania), cet élément est tourné de 90 degrés dans le sens inverse des aiguilles d'une montre et est placé à en bas à droite de la scène.
+- Lorsqu'il est utilisé dans [osu!mania](/wiki/Game_mode/osu!mania), cet élément est tourné de 90 degrés dans le sens inverse des aiguilles d'une montre, mis à l'échelle à 0,7x, et placé à en bas à droite de la scène.
 
 ---
 
@@ -1145,8 +1155,7 @@ Notes :
 - Le positionnement varie :
   - Si un marqueur est utilisé, il est positionné à (12,12).
   - Sinon, positionné à (5,16).
-- Cet élément n'a aucune restriction de taille.
-- Lorsqu'il est utilisé dans [osu!mania](/wiki/Game_mode/osu!mania), cet élément est tourné de 90 degrés dans le sens inverse des aiguilles d'une montre et est placé à en bas à droite de la scène.
+- Lorsqu'il est utilisé dans [osu!mania](/wiki/Game_mode/osu!mania), cet élément est tourné de 90 degrés dans le sens inverse des aiguilles d'une montre, mis à l'échelle à une taille de 0,7x, et placé en bas à droite de la scène.
 
 ---
 

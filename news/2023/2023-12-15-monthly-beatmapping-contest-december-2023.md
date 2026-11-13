@@ -2,11 +2,12 @@
 layout: post
 title: "Monthly Beatmapping Contest: December 2023"
 date: 2023-12-15 06:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Everyone knows that the best place to spend a holiday break is in the editor. The Monthly Beatmapping Contest is here to provide yet another reason for you to do that!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 If you're unfamiliar with the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*)... your reading comprehension could use some work. This contest runs monthly, and this month is all about **osu!taiko** and **osu!catch**.
 

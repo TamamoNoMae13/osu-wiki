@@ -31,7 +31,10 @@ The [Co-op mod](/wiki/Gameplay/Game_modifier/Co-op) became an unranked mod on 6 
 
 ## May
 
-*Notice: The [forum post](https://osu.ppy.sh/community/forums/topics/334994) that announced news of the new ranking system was released on 4 June 2015, although the old system was actually fully deprecated on 1 May 2015, and full implementation of the new system was still yet to be available to the public by the end of 2015.*
+::: alert-notice
+**Notice**
+The [forum post](https://osu.ppy.sh/community/forums/topics/334994) that announced news of the new ranking system was released on 4 June 2015, although the old system was actually fully deprecated on 1 May 2015, and full implementation of the new system was still yet to be available to the public by the end of 2015.
+:::
 
 The old Beatmap Nominator (BN) ranking was fully deprecated on 1 May 2015, and replaced with a new, real-time ranking. This new ranking retained the original goal of the previous one, although it focused on challenge and collaboration as opposed to individual performance over a set timeframe. Public reception towards this new change was overall mostly positive, although many users did remark that the new system was confusing.[^realtime-bn-ranking][^osu-weekly-14]
 
@@ -47,13 +50,16 @@ The osu!keyboard (also known as the "osu! 'nono' keyboard") was added to the osu
 
 Implementation of the username change system in the osu!store was set live on 16 June 2015, although full functionality of the system was not available until 18 June 2015. The changes made it so that players had to pay $4 USD for their first name change, after which the price would double with each succeeding purchase with a cap at $100 USD; however, if a user bought an [osu!supporter tag](https://osu.ppy.sh/home/support), then their first change would be free. [^ppy-blog-june-04][^ppy-blog-june-16][^ppy-blog-june-17][^ppy-blog-june-18]
 
-The ability to see what a replay would look like without [mods](/wiki/Gameplay/Game_modifier) was added on 23 June 2015 as per a [feature request](https://osu.ppy.sh/community/forums/topics/97560), although the change only made the mods [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), [Half Time](/wiki/Gameplay/Game_modifier/Half_Time), and [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) togglable.[^ppy-blog-june-23]
+The ability to see what a replay would look like without [mods](/wiki/Gameplay/Game_modifier) was added on 23 June 2015 as per a [feature request](https://osu.ppy.sh/community/forums/topics/97560), although the change only made the mods [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), [Half Time](/wiki/Gameplay/Game_modifier/Half_Time), and [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) toggleable.[^ppy-blog-june-23]
 
 ## July
 
 On 15 July 2015, it was announced that a new public [Slack](https://slack.com/) team was created for the purpose of better communicating with public contributors. [peppy](https://osu.ppy.sh/users/2) initially made the announcement on his blog and had explained that anyone who was willing to help test cutting-edge features, contribute graphical/sound resources, or get help working with osu! services could come and join the team and talk to the people from different [osu! teams](/wiki/People/osu!_team) directly.[^ppy-blog-july-15]
 
-*Note: There was still a private Slack team that the osu! team used for internal communications, which was not accessible or viewable to outside users; these two teams were independent of each other.*
+::: alert-notice
+**Notice**
+There was still a private Slack team that the osu! team used for internal communications, which was not accessible or viewable to outside users; these two teams were independent of each other.
+:::
 
 Notwithstanding, the new team was completely public and available for anyone to join, which caused many unwanted users to flood the channels. This forced peppy into "locking down" the new team the very next day. Despite this, peppy continued to make use of the team throughout the rest of the year, and often invited users to come and join when they were testing new features or implementations.[^ppy-blog-july-16][^ppy-blog-july-20]
 
@@ -65,7 +71,7 @@ The Chat Moderators were officially merged into the Global Moderation Team (GMT)
 
 The old FPS counter was replaced with a new "refresh and latency display" on 2 September 2015. This new display would still display the current FPS (frames per second), but the new change caused it to hide from view if it exceeded 500 FPS. In addition, a new counter was added below the FPS counter that would display exactly how much latency was being introduced during frame rendering (measured in milliseconds). "Stuttered" or "dropped" frames would be shown as coloured rectangles to the left of the counter to better visualise exactly how much frame render latency a user was experiencing.[^ppy-blog-sep-mwr][^osu-weekly-29]
 
-On 26 September 2015, [cYsmix](http://cysmix.com/) became one of the first official osu! artists. This partnership entailed the creation of three tracks made specifically for osu!, along with the creation of a mapping contest using those tracks. The aforementioned four tracks were as follows:
+On 26 September 2015, [cYsmix](http://cysmix.com/) became one of the first official osu! artists. This partnership entailed the creation of three tracks made specifically for osu!, along with the creation of a mapping contest using those tracks. The aforementioned three tracks were as follows:
 
 - ["Manic"](https://soundcloud.com/olemlanglie/cysmix-manic-osu)
 - ["House with Legs"](https://soundcloud.com/olemlanglie/cysmix-house-with-legs-osu)
@@ -139,7 +145,7 @@ A few days later (19 November 2015), peppy updated users on the situation in [an
 [^osu-weekly-8]: [News post by Tasha (2015-05-01) "osu!weekly #8"](https://osu.ppy.sh/home/news/2015-05-01-osuweekly-8)
 [^realtime-bn-ranking]: [Forum thread by p3n (2015-06-04) "Realtime Beatmap Nominator Ranking"](https://osu.ppy.sh/community/forums/topics/334994)
 [^osu-weekly-14]: [News post by Tasha (2015-06-13) "osu!weekly #14"](https://osu.ppy.sh/home/news/2015-06-13-osuweekly-14)
-[^osu-weekly-9]: [News post by Tahsa (2015-05-08) "osu!weekly #9"](https://osu.ppy.sh/home/news/2015-05-08-osuweekly-9)
+[^osu-weekly-9]: [News post by Tasha (2015-05-08) "osu!weekly #9"](https://osu.ppy.sh/home/news/2015-05-08-osuweekly-9)
 [^osu-news-welcome]: [YouTube video by osu!news (2015-05-08) "Welcome to the osu!news"](https://www.youtube.com/watch?v=iAhKcQK5Iw8)
 [^osu-weekly-12]: [News post by Tasha (2015-05-30) "osu!weekly 12"](https://osu.ppy.sh/home/news/2015-05-30-osuweekly-12)
 [^ppy-tweet-osu-keyboards]: [Tweet by @ppy (2015-05-28)](https://twitter.com/ppy/status/603797988742336512)

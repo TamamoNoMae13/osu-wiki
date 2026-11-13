@@ -22,21 +22,27 @@ De nombreux joueurs ont occupé la première place dans chaque mode de jeu selon
 
 ## ![][osu!] osu!
 
-*Page principale : [osu!](osu!)*
+::: alert-note
+**Page principale** : [L'histoire des classements du mode osu!](osu!)
+:::
 
-En date du 19 juillet 2021, sur l'[osu! performance rankings](https://osu.ppy.sh/rankings/osu/performance) le joueur #1 est ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
+En date du 11 juillet 2026, sur [l'osu! performance rankings](https://osu.ppy.sh/rankings/osu/performance) le joueur #1 est ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
 
 ## ![][osu!taiko] osu!taiko
 
-En date du 9 octobre 2023, sur l'[osu!taiko performance rankings](https://osu.ppy.sh/rankings/taiko/performance) le joueur #1 est ::{ flag=JP }:: [Majimanjiwwwww](https://osu.ppy.sh/users/12337864/taiko).
+En date du 23 juillet 2026, sur [l'osu!taiko performance rankings](https://osu.ppy.sh/rankings/taiko/performance) le joueur #1 est ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko).
 
 ## ![][osu!catch] osu!catch
 
-En date du 7 juin 2021, sur l'[osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance), le joueur #1 est ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549/fruits).
+::: alert-note
+**Page principale** : [L'histoire des classements du mode osu!catch](osu!catch)
+:::
+
+En date du 15 septembre 2026, sur [l'osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance), le joueur #1 est ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283).
 
 ## ![][osu!mania] osu!mania
 
-En date du 13 avril 2023, sur l'[osu!mania performance rankings](https://osu.ppy.sh/rankings/mania/performance) le joueur #1 est ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406/mania).
+En date du 4 avril 2026, sur [l'osu!mania performance rankings](https://osu.ppy.sh/rankings/mania/performance) le joueur #1 est ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

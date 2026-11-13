@@ -6,6 +6,8 @@ tags:
   - RX
   - mod
   - game modifier
+outdated_translation: true
+outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # Relax (mod)
@@ -36,7 +38,7 @@ Mod **Relax** adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) yang b
 
 Pada [osu!](/wiki/Game_mode/osu!), dengan menggunakan mod Relax, pemain hanya perlu untuk memidik [hit object](/wiki/Gameplay/Hit_object); semua urusan tapping hit object akan secara otomatis dilakukan oleh osu!. Mod ini membuat pemain mustahil untuk gagal pada suatu map di seluruh mode-mode game.
 
-Mod Relax juga mematikan antarmuka permainan, menyembunyikan tampilan [skor](/wiki/Gameplay/Score), [kombo](/wiki/Beatmapping/Combo), dan miss, antarmuka permainan bisa dihidupkan kembali dengan menekan `Shift` + `Tab`. Selain itu, nilai putaran per menit (SPM) juga akan digandakan dua kali lipat, mengizinkan pemain untuk memutar lebih cepat dan meraih skor yang lebih tinggi daripada play yang biasa.
+Mod Relax juga mematikan antarmuka permainan, menyembunyikan tampilan [skor](/wiki/Gameplay/Score), [kombo](/wiki/Gameplay/Combo_(score_multiplier)), dan miss, antarmuka permainan bisa dihidupkan kembali dengan menekan `Shift` + `Tab`. Selain itu, nilai putaran per menit (SPM) juga akan digandakan dua kali lipat, mengizinkan pemain untuk memutar lebih cepat dan meraih skor yang lebih tinggi daripada play yang biasa.
 
 ### osu!taiko
 

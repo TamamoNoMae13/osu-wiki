@@ -20,13 +20,17 @@ tags:
 # 测定时间轴标签页
 
 *想要了解测定时间轴设定指南，参见：[如何测定歌曲时间轴](/wiki/Guides/How_to_time_songs)*
-*参见：[作图/测定时间轴](/wiki/Beatmapping/Timing)*
+::: alert-note
+**参见：** [作图/测定时间轴](/wiki/Beatmapping/Timing)
+:::
 
 **测定时间轴 (Timing)** ，或称为计时，是[谱面编辑器](/wiki/Client/Beatmap_editor)的一个标签页，可供更改设定[谱面](/wiki/Beatmap)时间轴的各项参数。它对于正确地表现歌曲非常重要。这个界面包含与测定相关的工具和专用于处理多个[计时点](#计时点)的[窗口](#时间轴设定窗口)，他们都可以用来表示音乐结构、辅助设计谱面。
 
 ## 计时点
 
-*参见：[偏移值 (Offset)](/wiki/Offset)*
+::: alert-note
+**参见：** [偏移值 (Offset)](/wiki/Offset)
+:::
 
 在[作图](/wiki/Beatmapping)中，一根时间点，通俗地说是*控制线*，它的功能是将常见设置（比如[时间轴](/wiki/Beatmapping/Timing)、[滑条速度 (SV)](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) 因数、[音效](/wiki/Beatmapping/Hitsound)和音效音量）应用在谱面特定部分。在 osu! 中，有两种计时点：
 
@@ -66,7 +70,7 @@ tags:
 | 名称 | 含义 |
 | :-- | :-- |
 | `BPM` | 当前时间轴上的[曲速](/wiki/Music_theory/Tempo)，单位是每分钟节拍数 (BPM)。 |
-| `偏移值 (Offset)` | 当前时间轴上的[偏移值 (Offset)](/wiki/Offset#mapping)，单位是毫秒 |
+| `偏移值 (Offset)` | 当前时间轴上的[偏移值 (Offset)](/wiki/Offset#作图)，单位是毫秒 |
 | `更改 offset/BPM 时，自动把已经放好的物件对齐时间轴刻度` | 当时间轴设定变动时，把物件对齐在[时间轴](/wiki/Client/Beatmap_editor/Timelines)刻度上。 |
 | `滑条速度 (SV)` | 整张谱面的基础[滑条速度 (SV)](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) |
 | `滑条点倍率（每拍滑条点个数）` | 在乐理上的一[拍](/wiki/Music_theory/Beat)内，会出现有多少个[滑条点](/wiki/Gameplay/Hit_object/Slider/Slider_tick) |

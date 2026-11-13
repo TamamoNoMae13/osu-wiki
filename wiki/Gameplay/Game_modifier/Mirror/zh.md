@@ -12,13 +12,14 @@ tags:
 
 ![MR 模组图标](/wiki/shared/mods/MR.png "Mirror (MR) 模组图标")
 
+*对于本文章的 [lazer](/wiki/Client/Release_stream/Lazer) 版本，参见：[Mirror（lazer 模组）](/wiki/Gameplay/Game_modifier/Mirror_(lazer))*\
 *对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*
 
 ## 关于
 
 - 缩写：MR
 - 类别：特殊
-- 得分系数：1.00x
+- 得分倍率：1.00x
 - 兼容的游戏模式：![][osu!mania]
 
 ## 说明

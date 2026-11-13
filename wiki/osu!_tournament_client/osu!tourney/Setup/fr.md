@@ -1,13 +1,16 @@
 ---
 no_native_review: true
-outdated_translation: true
-outdated_since: 55fda39369cf00e6d43a924bde7d11361265808c
 ---
 
 # Configuration d'osu!tourney
 
-*Voir également : [client de tournoi d'osu!](/wiki/osu!_tournament_client)*\
-*Note : Un [tag osu!supporter](/wiki/osu!supporter) actif est actuellement requis pour utiliser le client d'osu!tourney.*
+::: alert-note
+**Voir également** : [client de tournoi d'osu!](/wiki/osu!_tournament_client)
+:::
+
+::: alert-notice
+**Note** : Un [tag osu!supporter](/wiki/osu!supporter) actif est actuellement requis pour utiliser le client d'osu!tourney.
+:::
 
 Il est recommandé d'utiliser une **installation saine d'osu!**. En effet, la base de données `Songs` peut être corrompue. Vous pouvez avoir plusieurs installations d'osu!, gardez-les simplement dans des dossiers séparés.
 
@@ -28,7 +31,7 @@ acronym = OWC
 
 Ne modifiez pas le fichier `tournament.cfg` lorsque osu! est en cours d'exécution. Fermez osu! et modifiez ou ajoutez les lignes ci-dessus comme vous le souhaitez avec les options suivantes :
 
-- `TeamSize` : Le nombre de joueurs par équipe. Le client ouvrira 1 à 8 fenêtres par équipe en fonction de cette valeur. La valeur maximale est de 8 en raison des limites de connexion de [Bancho](/wiki/Bancho_(server)), mais elle peut être temporairement augmentée pour l'utilisateur spectateur en contactant [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+- `TeamSize` : Le nombre de joueurs par équipe.
 - `ClientNameSize` : La taille du nom des joueurs.
 - `privateserver` : Ne touchez pas à cela.
 - `acronym` : Une abréviation pour le tournoi. Cela affecte le nom requis pour les salles de tournoi, consultez le [guide d'utilisation multijoueur](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage) pour plus d'informations.

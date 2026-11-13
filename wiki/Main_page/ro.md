@@ -39,7 +39,7 @@ Totul despre a face clic pe cercuri, a lovi tobe, a prinde fructe și a cânta l
 
 [Moduri de joc](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Dificultate](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Gameplay/Hit_object) • [Mod-uri](/wiki/Gameplay/Game_modifier) • [Scor](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medalii](/wiki/Medals) • [Multi](/wiki/Client/Interface/Multiplayer)
+[Beatmap](/wiki/Beatmap) • [Dificultate](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Gameplay/Hit_object) • [Mod-uri](/wiki/Gameplay/Game_modifier) • [Scor](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medalii](/wiki/Medals) • [Multi](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -124,7 +124,7 @@ osu! nu ar fi fost posibil fără ajutorul multor utilizatori care au ajutat cu 
 
 Interacționează cu osu! prin alte aplicații și medii sau ajută-l să se extindă.
 
-[API](/wiki/osu!api) • [Cont bot](/wiki/Bot_account) • [Ghid identitate brand](/wiki/Brand_identity_guidelines) • [Server Discord osu!](/wiki/Community/osu!_Discord_server)
+[API](/wiki/osu!api) • [Cont bot](/wiki/Bot_account) • [Ghid identitate brand](/wiki/Brand_identity_guidelines) • [Server Discord osu!](/wiki/Community/Discord_servers#official)
 
 </div>
 <div class="wiki-main-page-panel">

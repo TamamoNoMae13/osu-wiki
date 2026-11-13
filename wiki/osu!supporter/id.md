@@ -19,11 +19,11 @@ Tag osu!supporter dapat diperoleh melalui [laman toko osu!supporter](https://osu
 ### Lencana hati
 
 ::: Infobox
-![](img/userpage.png?1 "Laman profil milik pengguna dengan osu!supporter")
+![](img/userpage.png?20241103 "Laman profil milik pengguna dengan osu!supporter")
 :::
 
 ::: Infobox
-![](img/usercard.png?2 "Kartu pengguna milik pengguna dengan osu!supporter")
+![](img/usercard-ID.png?20241022 "Kartu pengguna milik pengguna dengan osu!supporter")
 :::
 
 Para supporter akan mendapatkan lencana khusus berbentuk hati di samping nama pengguna mereka, di mana jumlah hati yang muncul akan sebanding dengan lamanya mereka telah menjadi osu!supporter sebagai berikut<!-- source: https://github.com/ppy/osu-web/blob/ac227d6abbd48630ebbf428c4e3372f388004ee5/app/Models/User.php#L1733-L1750 -->:
@@ -70,7 +70,7 @@ Para supporter yang belum pernah mengganti nama penggunanya akan dapat mengganti
 osu!direct merupakan fitur pencarian dan penguduhan beatmap kilat yang khusus tersedia bagi para supporter. Fitur ini dapat diakses melalui tombol `osu!direct` yang tertera pada sisi kanan layar menu utama. Di samping akses langsung menuju daftar beatmap, osu!direct juga menyediakan berbagai cara lainnya untuk dapat memperoleh beatmap tanpa harus meninggalkan permainan, yang di antaranya adalah sebagai berikut:
 
 - Tautan beatmap pada *chat*, yang akan menampilkan dialog unduhan dalam permainan
-- Pengunduhan beatmap otomatis dalam lobi [multiplayer](/wiki/Client/Interface/Multiplayer) atau mode [spectate](/wiki/Gameplay/Spectating), yang dapat [dinonaktifkan kapan pun](/wiki/Client/Options#integration)
+- Pengunduhan beatmap otomatis dalam lobi [multiplayer](/wiki/Gameplay/Multiplayer) atau mode [spectate](/wiki/Gameplay/Spectating), yang dapat [dinonaktifkan kapan pun](/wiki/Client/Options#integration)
 - Penautan beatmap yang sedang dimainkan secara otomatis pada kanal `#spectator`, yang dapat [dinonaktifkan kapan pun](/wiki/Client/Options#alerts-and-privacy)
 
 ### Papan peringkat tambahan

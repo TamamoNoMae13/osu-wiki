@@ -47,7 +47,7 @@ The osu!mania 7K World Cup 2023 was run by the osu! team and various community m
 | Mappool selector | ::{ flag=PL }:: **[\_underjoy](https://osu.ppy.sh/users/2235750)**, ::{ flag=US }:: [Blocko](https://osu.ppy.sh/users/4075092), ::{ flag=US }:: [Jinjin](https://osu.ppy.sh/users/3360737), ::{ flag=PH }:: [MapleSyrup\-](https://osu.ppy.sh/users/1192936), ::{ flag=KR }:: [Remuring](https://osu.ppy.sh/users/6522146) |
 | Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
 | Mappool playtester | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713), ::{ flag=US }:: [\-coro\-](https://osu.ppy.sh/users/15513891), ::{ flag=US }:: [\-NoName\-](https://osu.ppy.sh/users/10400730), ::{ flag=KR }:: [Kim\_GodSSI](https://osu.ppy.sh/users/2218047), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=BR }:: [roko100789](https://osu.ppy.sh/users/3224958), ::{ flag=AU }:: [ruka](https://osu.ppy.sh/users/6117525), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
-| Mapper | ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=MY }:: [Critical\_Star](https://osu.ppy.sh/users/3793196), ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065), ::{ flag=KR }:: [Kim\_GodSSI](https://osu.ppy.sh/users/2218047), ::{ flag=DE }:: [Leeju](https://osu.ppy.sh/users/18219603), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=SG }:: [Level 51](https://osu.ppy.sh/users/3617847), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=KR }:: [paradoxus\_](https://osu.ppy.sh/users/11185275), ::{ flag=PH }:: [paulkappa](https://osu.ppy.sh/users/7115625), ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341), ::{ flag=HK }:: [pwhk](https://osu.ppy.sh/users/4887865), ::{ flag=AU }:: [ruka](https://osu.ppy.sh/users/6117525), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=KR }:: [Wonki](https://osu.ppy.sh/users/7898495) |
+| Mapper | ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713), ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=MY }:: [Critical\_Star](https://osu.ppy.sh/users/3793196), ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065), ::{ flag=KR }:: [Kim\_GodSSI](https://osu.ppy.sh/users/2218047), ::{ flag=DE }:: [Leeju](https://osu.ppy.sh/users/18219603), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=SG }:: [Level 51](https://osu.ppy.sh/users/3617847), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=KR }:: [paradoxus\_](https://osu.ppy.sh/users/11185275), ::{ flag=PH }:: [paulkappa](https://osu.ppy.sh/users/7115625), ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341), ::{ flag=HK }:: [pwhk](https://osu.ppy.sh/users/4887865), ::{ flag=AU }:: [ruka](https://osu.ppy.sh/users/6117525), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=KR }:: [Wonki](https://osu.ppy.sh/users/7898495) |
 | Commentator | ::{ flag=MY }:: [Cryolien](https://osu.ppy.sh/users/1626983), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=ID }:: [Mipha\-](https://osu.ppy.sh/users/5767941), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811), ::{ flag=US }:: [\-mint\-](https://osu.ppy.sh/users/8976576), ::{ flag=US }:: [\-Sparky\-](https://osu.ppy.sh/users/3187959) |
 | Statistician | ::{ flag=BR }:: **[LeoFLT](https://osu.ppy.sh/users/3668779)**, ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
 
@@ -434,7 +434,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
    - Captains are allowed to exclude themselves from the team list.
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
    - Captains are allowed, at any time, to transfer their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
-   - **Teams that do not not send their team list by January 6, 23:59 UTC will be disqualified from the competition.**
+   - **Teams that do not send their team list by January 6, 23:59 UTC will be disqualified from the competition.**
 3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu!mania 7K global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
@@ -453,8 +453,10 @@ The final standings for the Qualifier stage can be found at the following [sprea
 6. An optional 3-minute break will be offered between the first and second playthrough of the mappool.
 7. All teams will play their qualifiers in separate rooms. It is *suggested* that teams do not broadcast or share their results publicly to avoid seed manipulation.
    - Teams may be grouped into a singular room if there are not enough referees available at match time.
-8. Only the top 16 seeded teams will advance to the Round of 16.
-9. The Qualifiers stage results will be published both on this page as well as a spreadsheet which will feature detailed information about every score submitted.
+8. The seeding method used for Qualifiers will be average rank, where each team's map rank will be averaged (added together, and subsequently divided by the amount of maps in the mappool) to construct that team's final score, which is then sorted from lowest to highest, lowest being the best placement.
+   - The exact formula that will be used for each map is `Map score = RANK(Team score)`, where `RANK` is the function that ranks the current `Team score` against all team scores for the current map.
+   - The final team score to be sorted is defined as `Final score = SUM(Map score) / Mappool size`, i.e. the sum of each map's `Map score` divided by 8.
+9. The top 16 seeded teams will advance to the Round of 16.
 
 ### Stage instructions
 
@@ -505,7 +507,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
 ### Scheduling instructions
 
 1. Each stage will be held on **a single weekend**.
-2. Matches in Qualifiers will be held during specific time slots proposed by the tournament managers. Each team may to choose a time slot in which they want to play.
+2. Matches in Qualifiers will be held during specific time slots proposed by the tournament managers. Each team may choose a time slot in which they want to play.
    - **A team that doesn't pick a time slot by January 11, 23:59 UTC will be considered disqualified.**
 3. All bracket stages will be held between Saturday 00:00 and Sunday 19:00 UTC.
 4. Match scheduling will be handled by the tournament managers. Schedules will be released on the Sunday before the first matches of the stage. The tournament managers will try to create the schedule to respect the participants' time zones.

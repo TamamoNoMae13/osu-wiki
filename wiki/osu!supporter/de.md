@@ -1,13 +1,16 @@
 ---
+no_native_review: true
 tags:
   - supporter tag
   - osu!supporter tag
   - Unterstützung
+outdated_translation: true
+outdated_since: 26b4a6dcf86a0df96bed2c328f27ddec739ebd74
 ---
 
 # osu!supporter
 
-![osu!supporter Werbebild](img/supporter-eyecatch-DE.jpg)
+[![osu!supporter Werbebild](img/supporter-eyecatch-DE.jpg)](https://osu.ppy.sh/home/support)
 
 **osu!supporter** (oder das ***osu!supporter-Tag***) ist ein zeitlich begrenzter Titel, der Spielern verliehen wird, die osu! durch eine freiwillige Geldspende unterstützen, um das Spiel zu fördern. Unterstützer erhalten eine handvoll kosmetischer und technischer Vorteile, von denen die meisten nur aktiv sind, wenn der Titel vorhanden ist. Die zusätzlichen Funktionen von osu!supporter geben keinen Vorsprung im Gameplay, in der Leistung oder dem Erreichen von Scores und werden es auch nie.
 
@@ -18,11 +21,11 @@ Das osu!supporter-Tag kann über die [osu!supporter-Seite des Stores](https://os
 ### Herzabzeichen
 
 ::: Infobox
-![](img/userpage.png?1 "Profil mit osu!supporter")
+![](img/userpage.png?20241103 "Profil mit osu!supporter")
 :::
 
 ::: Infobox
-![](img/usercard-DE.png "Benutzerkarte mit osu!supporter")
+![](img/usercard-DE.png?20241022 "Benutzerkarte mit osu!supporter")
 :::
 
 Unterstützer bekommen ein Abzeichen mit Herzen darauf, das auf der Webseite normalerweise neben ihrem Benutzernamen angezeigt wird. Die Anzahl der Herzen hängt ab von der Dauer von osu!supporter, die der Nutzer insgesamt erworben oder erhalten hat:
@@ -47,7 +50,7 @@ Die `ich!`-Seite könnte ein guter Platz sein für:
 
 - Banner, Kollaborationen und Infographiken, um das Profil aufzuhübschen
 - Einige Absätze oder Einträge, die Einblicke in das Leben des Spielers gewähren
-- Ein Schaufenster der beliebtesten Beatmaps, Mapper oder alles andere, das als wichtig erachtet wird
+- Eine Vorstellung der beliebtesten Beatmaps, Mapper oder alles andere, das als wichtig erachtet wird
 
 ### Profilbanner
 
@@ -58,18 +61,30 @@ Unterstützer können des Weiteren ihr Profil durch ein Titelbild anpassen:
 
 Sobald osu!supporter ausläuft, wird das Titelbild bestehen bleiben, kann aber nicht mehr geändert werden.
 
+### Profilfarben
+
+Ähnlich zu Profilbannern können osu!supporter die Farbe ihres Profils ändern:
+
+- Drücke auf das Stiftsymbol in der rechten, unteren Ecke des Profilbanners.
+- Die Profilfarbe einzustellen verändert die Farbe von fast allem. Dazu gehört der Banner, Buttons, Links und Text.
+
+Sobald osu!supporter ausläuft, bleibt die Farbwahl erhalten, kann aber nur zum Standard zurückgesetzt werden.
+
 ### Eine kostenlose Änderung des Benutzernamens
 
-*Anmerkung: Kleinere Namensänderungen können beim Account-Support-Team kostenlos beantragt werden — siehe [Hilfecenter/Account § Kann ich den Benutzernamen meines Accounts ändern?](/wiki/Help_centre/Account#name-changes).*
+::: alert-notice
+**Hinweis**
+Kleinere Namensänderungen können beim Account-Support-Team kostenlos beantragt werden — siehe [Hilfecenter/Account § Kann ich den Benutzernamen meines Accounts ändern?](/wiki/Help_centre/Account#name-changes).
+:::
 
-osu!supporter zu bekommen ist verbunden mit der Fähigkeit, den Benutzernamen beim ersten Mal kostenlos zu ändern, unter den [üblichen Bedingungen](/wiki/Help_centre/Account#name-changes).
+Mit osu!supporter darf der Benutzername gemäß den [geltenden Bedingungen](/wiki/Help_centre/Account#name-changes) beim ersten Mal kostenlos geändert werden.
 
 ### osu!direct
 
 osu!direct ist das Such- und Downloadmodul für Beatmaps im Spiel, welches nur für Unterstützer verfügbar ist. Es kann über das Hauptmenü erreicht werden, indem man auf das vertikale Label `osu!direct` auf der rechten Seite des Bildschirms klickt. Zusätzlich zu einer eingebauten Beatmap-Auflistung bietet osu!direct andere Wege, an neue Beatmaps zu gelangen, ohne das Spiel zu verlassen:
 
 - Beatmap-Links im Chat, die auf Beatmaps auf der osu!-Webseite zeigen, lösen jetzt im Spiel eine Aufforderung zum Herunterladen aus
-- Automatisches Herunterladen von Beatmaps während des Spielens in einer [Mehrspieler](/wiki/Client/Interface/Multiplayer)-Lobby oder beim [Zuschauen](/wiki/Gameplay/Spectating) eines anderen Spielers, als eine [Opt-out-Einstellung](/wiki/Client/Options#integration)
+- Automatisches Herunterladen von Beatmaps während des Spielens in einer [Mehrspieler](/wiki/Gameplay/Multiplayer)-Lobby oder beim [Zuschauen](/wiki/Gameplay/Spectating) eines anderen Spielers, als eine [Opt-out-Einstellung](/wiki/Client/Options#integration)
 - Automatische Verlinkung von aktuell gespielten Beatmaps für Zuschauer im Chat-Tab `#spectator`, als eine [Opt-out-Einstellung](/wiki/Client/Options#mitteilungen-und-privatsphäre)
 
 ### Erweiterte Ranglisten
@@ -87,6 +102,7 @@ osu! bietet eine Lockerung der Grenzwerte für verschiedene Online-Features für
 | Wert | Normales Limit | osu!supporter-Limit |
 | :-- | :-: | :-: |
 | [Ausstehende Beatmaps](/wiki/Beatmap/Category#wip-and-pending) | `4 + min(gerankte Beatmaps, 4)`, bis zu **8**[^pending-beatmaps-ref] | `8 + min(gerankte Beatmaps, 12)`, bis zu **20**[^pending-beatmaps-ref] |
+| Teamgröße | 8 | `8 + 4 * Teammitglieder mit osu!supporter`, bis maximal **256** |
 | Online-Beatmap-Favoriten | 100 | 1000 |
 | Anzahl der Freunde | 500 | 1000 |
 
@@ -111,7 +127,7 @@ Für mehr Details, siehe [Skinning/Benutzeroberfläche § Hauptmenü](/wiki/Skin
 ![](img/beatmap-search-DE.png "Beatmap-Suchseite auf der Webseite, mit zwei neuen Filtern am unteren Ende")
 :::
 
-Unterstützer haben Zugang zu einem erweiterten Satz von [Beatmap-Suchfiltern](https://osu.ppy.sh/beatmapsets):
+Unterstützer haben Zugang zu weiteren [Beatmap-Suchfiltern](https://osu.ppy.sh/beatmapsets):
 
 - Beatmaps, die gespielt (oder nicht gespielt) wurden
 - Beatmaps, auf denen ein Score mit einer bestimmten [Note](/wiki/Gameplay/Grade) erreicht wurde
@@ -146,7 +162,7 @@ Der Empfänger wird nicht darüber informiert, wer ihm das Tag gab, aber beim Ve
 
 ### Bestätigung
 
-Nachdem die Transaktion abgeschlossen wurde, taucht ein neues Event in der Sektion `Neulich` im Profil sowohl des Schenkenden als auch des Beschenkten:
+Nachdem die Transaktion abgeschlossen wurde, taucht ein neues Event in der Sektion `Neulich` im Profil sowohl des Schenkenden als auch des Beschenkten auf:
 
 - `{Benutzername} hat osu! unterstützt - vielen Dank für deine Großzügigkeit!`, wenn es das erste Mal ist, dass der Nutzer osu!supporter erhält oder es einer anderen Person schenkt.
 - `{Benutzername} hat sich erneut dazu entschieden, osu! zu unterstützen - vielen Dank für deine Großzügigkeit!`, wenn der Nutzer bereits vorher osu!supporter war oder osu!supporter verschenkt hat.

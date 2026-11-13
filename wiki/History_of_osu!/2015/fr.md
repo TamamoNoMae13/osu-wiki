@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: ae26efc7239e1753b594f4c6cd24223b76531b6a
 tags:
   - history
   - 2015
@@ -32,7 +34,10 @@ Le mod 9K a été rendu classable après avoir reçu un support d'utilisation ap
 
 ## Mai
 
-*Remarque : Le [post de forum](https://osu.ppy.sh/community/forums/topics/334994) qui annonçait le nouveau système de classement a été publié le 4 juin 2015, bien que l'ancien système ait en fait été entièrement déprécié le 1er mai 2015, et que la mise en œuvre complète du nouveau système devait encore être disponible pour le public à la fin de l'année 2015.*
+::: alert-notice
+**Note**
+Le [post de forum](https://osu.ppy.sh/community/forums/topics/334994) qui annonçait le nouveau système de classement a été publié le 4 juin 2015, bien que l'ancien système ait en fait été entièrement déprécié le 1er mai 2015, et que la mise en œuvre complète du nouveau système devait encore être disponible pour le public à la fin de l'année 2015.
+:::
 
 L'ancien classement des Beatmap Nominator (BN) a été entièrement déprécié le 1er mai 2015, et remplacé par un nouveau classement en temps réel. Ce nouveau classement a conservé l'objectif initial du précédent, bien qu'il soit axé sur le défi et la collaboration plutôt que sur la performance individuelle sur une période donnée. L'accueil du public à l'égard de ce nouveau changement a été globalement positif, même si de nombreux utilisateurs ont fait remarquer que le nouveau système était déroutant.[^realtime-bn-ranking][^osu-weekly-14]
 
@@ -54,7 +59,10 @@ La possibilité de voir à quoi ressemblerait un replay sans [mods](/wiki/Gamepl
 
 Le 15 juillet 2015, il a été annoncé qu'une nouvelle équipe publique [Slack](https://slack.com/) a été créée dans le but de mieux communiquer avec les contributeurs publics. [peppy](https://osu.ppy.sh/users/2) avait initialement fait l'annonce sur son blog et avait expliqué que toute personne désireuse d'aider à tester des fonctionnalités futures, de contribuer à des ressources graphiques/sonores ou d'obtenir de l'aide pour travailler avec les services d'osu! pouvait venir rejoindre l'équipe et parler directement aux personnes des différentes [équipes d'osu!](/wiki/People/osu!_team).[^ppy-blog-july-15]
 
-*Note : Il y avait toujours une équipe Slack privée que l'équipe d'osu! utilisait pour les communications internes, qui n'était pas accessible ou visualisable par les utilisateurs extérieurs ; ces deux équipes étaient indépendantes l'une de l'autre.*
+::: alert-notice
+**Note**
+Il y avait toujours une équipe Slack privée que l'équipe d'osu! utilisait pour les communications internes, qui n'était pas accessible ou visualisable par les utilisateurs extérieurs ; ces deux équipes étaient indépendantes l'une de l'autre.
+:::
 
 Malgré cela, la nouvelle équipe était entièrement publique et pouvait être rejointe par n'importe qui, ce qui a provoqué l'afflux de nombreux utilisateurs indésirables sur les canaux. Cela a obligé peppy à "verrouiller" la nouvelle équipe dès le lendemain. Malgré cela, peppy a continué à utiliser l'équipe pendant le reste de l'année et a souvent invité les utilisateurs à la rejoindre lorsqu'ils testaient de nouvelles fonctionnalités ou implémentations..[^ppy-blog-july-16][^ppy-blog-july-20]
 
@@ -140,7 +148,7 @@ Quelques jours plus tard (19 novembre 2015), peppy a mis à jour les utilisateur
 [^osu-weekly-8]: [Article de news par Tasha (01/05/2015) "osu!weekly #8"](https://osu.ppy.sh/home/news/2015-05-01-osuweekly-8)
 [^realtime-bn-ranking]: [Fil de discussion par p3n (04/06/2015) "Realtime Beatmap Nominator Ranking"](https://osu.ppy.sh/community/forums/topics/334994)
 [^osu-weekly-14]: [Article de news par Tasha (13/06/2015) "osu!weekly #14"](https://osu.ppy.sh/home/news/2015-06-13-osuweekly-14)
-[^osu-weekly-9]: [Article de news par Tahsa (08/05/2015) "osu!weekly #9"](https://osu.ppy.sh/home/news/2015-05-08-osuweekly-9)
+[^osu-weekly-9]: [Article de news par Tasha (08/05/2015) "osu!weekly #9"](https://osu.ppy.sh/home/news/2015-05-08-osuweekly-9)
 [^osu-news-welcome]: [Vidéo YouTube par osu!news (08/05/2015) "Welcome to the osu!news"](https://www.youtube.com/watch?v=iAhKcQK5Iw8)
 [^osu-weekly-12]: [Article de news par Tasha (30/05/2015) "osu!weekly 12"](https://osu.ppy.sh/home/news/2015-05-30-osuweekly-12)
 [^ppy-tweet-osu-keyboards]: [Tweet par @ppy (28/05/2015)](https://twitter.com/ppy/status/603797988742336512)

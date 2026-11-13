@@ -1,12 +1,20 @@
+---
+no_native_review: true
+---
+
 # Verwaltung des osu!-Wikis
 
-*Siehe auch: [Beitragsleitfaden des osu!-Wikis](/wiki/osu!_wiki/Contribution_guide)*
+::: alert-note
+**Siehe auch:** [Beitragsleitfaden des osu!-Wikis](/wiki/osu!_wiki/Contribution_guide)
+:::
 
-Dieser Artikel beschreibt technische oder administrative Aspekte des osu!-Wikis. Hier werden auch Instandhaltungsmaßnahmen behandelt, die erforderlich sind, damit ständig frischer Wind vorherrscht — vielleicht möchtest du [bei einer davon helfen](#abläufe). Benutze für alle Diskussionen, die sich auf das Wiki beziehen, den Kanal `#osu-wiki` des [osu! Discord-Servers](/wiki/Community/osu!_Discord_server).
+Dieser Artikel beschreibt technische oder administrative Aspekte des osu!-Wikis. Hier werden auch Instandhaltungsmaßnahmen behandelt, die erforderlich sind, damit ständig frischer Wind vorherrscht — vielleicht möchtest du [bei einer davon helfen](#abläufe). Benutze für alle Diskussionen, die sich auf das Wiki beziehen, den Kanal `#osu-wiki` des [osu! Discord-Servers](/wiki/Community/Discord_servers#offiziell).
 
 ## Administratoren
 
-*Hauptseite: [Liste der Verantwortlichen des osu!-Wikis](/wiki/People/osu!_wiki_maintainers)*
+::: alert-note
+**Hauptseite:** [Liste der Verantwortlichen des osu!-Wikis](/wiki/People/osu!_wiki_maintainers)
+:::
 
 Die Administratoren sind Personen mit [erhöhten Rechten](https://docs.github.com/de/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account) im [Repository `ppy/osu-wiki`](https://github.com/ppy/osu-wiki/), in dem alle Artikel und News-Beiträge gespeichert werden. Sie können Issues einstufen sowie kennzeichnen, offene Änderungsanfragen (Pull-Requests) verwalten und Entscheidungen über die Gegenwart und Zukunft des osu!-Wikis treffen.
 
@@ -26,7 +34,7 @@ Der [Issue-Tracker](https://github.com/ppy/osu-wiki/issues) des osu!-Wikis enth�
 
 Auf GitHub können Änderungsanfragen und Issues mit [Labels](https://github.com/ppy/osu-wiki/labels) gekennzeichnet und klassifiziert werden, die verschiedene Aspekte einer Änderungsanfrage oder Issues darstellen. Labels sind informativ, werden von den Verantwortlichen des osu!-Wikis hinzugefügt und sind typischerweise selbsterklärend. Sie erfordern zwar keine Maßnahmen für den Nutzer, aber rote Labels dienen als Erinnerung oder Aufforderung zum Handeln für andere Betreuer:
 
-- `rule change`: Die Änderung beeinflusst eine bereits existierende Reihe an Regeln, wie die [Ranking-Kriterien](/wiki/Ranking_criteria) und muss von dem Eigentümer des Bereichs überprüft werden.
+- `rule change`: Die Änderung beeinflusst ein bereits existierendes Regelwerk (wie beispielweise die [Ranking-Kriterien](/wiki/Ranking_criteria)) und muss von dem Eigentümer des Bereichs überprüft werden.
 - `blocked`: Die Änderung hat Probleme, die vor dem Fortfahren beseitigt werden müssen, oder hängt von einem anderen Issue ab, das als erstes gelöst werden muss.
 - `needs rebase`: Die Änderungsanfragen hat zu viele, kleine, unstrukturierte Commits, die neu geschrieben und besser formuliert werden müssen. Das wird meistens von den Verantwortlichen kurz vor der Zusammenführung gemacht.
 
@@ -67,7 +75,7 @@ Nachstehend findest du eine Tabelle mit allen CI-Kontrollen in der richtigen Rei
 | 2 | Markdown | [remark](https://github.com/remarkjs/remark) mit [`meta/remark.sh`](https://github.com/ppy/osu-wiki/blob/master/meta/remark.sh) | Ob die Markdown-Syntax in Wikiartikeln und Newsbeiträgen korrekt und einheitlich ist. | Füge `SKIP_REMARK` irgendwo zur Beschreibung des Änderungsvorschlags hinzu. Füge `<!-- lint ignore Regel -->` über der beanstandeten Zeile ein, um einen spezifischen Fehler dauerhaft zu unterdrücken. `Regel` ist dabei die Regel, die ignoriert werden soll. |
 | 3 | YAML | Befehl `check-yaml` aus [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Ob die YAML-Syntax in der Datei [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) und in der [Titelsektion](/wiki/Article_styling_criteria/Formatting#titelsektion) korrekt und einheitlich ist. | Keine. |
 | 4 | Kaputte Wiki-Links | Befehl `check-links` aus [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Ob interne [Wiki-Links](/wiki/Article_styling_criteria/Formatting#wiki-links) auf einen tatsächlichen Artikel, Newsbeitrag (für Newsbeitrag-Links) oder einen Abschnitt davon zeigen. | Füge `SKIP_WIKILINK_CHECK` irgendwo zur Beschreibung des Änderungsvorschlags hinzu. |
-| 5 | Nicht mehr aktuelle Übersetzungen | Befehl `check-outdated-articles` aus [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Ob Übersetzungen korrekt als [nicht mehr aktuell gekennzeichnet](/wiki/Article_styling_criteria/Formatting#nicht-mehr-aktuelle-übersetzungen) werden, wenn ein englischer Artikel aktualisiert wird. | Füge `SKIP_OUTDATED_CHECK` irgendwo zur Beschreibung des Änderungsvorschlags hinzu. |
+| 5 | Nicht mehr aktuelle Übersetzungen | GitHub-Action ["Post-merge outdate processing"](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/post-merge-outdate.yml) | Kennzeichne nach der Migration von Änderungen unbearbeitete Übersetzungen von englischen Artikeln automatisch [als veraltet](/wiki/Article_styling_criteria/Formatting#nicht-mehr-aktuelle-übersetzungen). | Siehe [Nicht mehr aktuelle Übersetzungen](#nicht-mehr-aktuelle-übersetzungen). |
 
 ##### Lint-Regel [`no-heading-punctuation`](https://github.com/remarkjs/remark-lint/tree/main/packages/remark-lint-no-heading-punctuation) von remark für Markdown
 
@@ -97,7 +105,9 @@ Ersteller von osu!.
 
 ##### Überprüfung von Wiki-Links
 
-*Siehe auch: [Artikelgestaltungskriterien/Formatierung § Wiki-Links](/wiki/Article_styling_criteria/Formatting#wiki-links)*
+::: alert-note
+**Siehe auch:** [Artikelgestaltungskriterien/Formatierung § Wiki-Links](/wiki/Article_styling_criteria/Formatting#wiki-links)
+:::
 
 Die Mitwirkenden werden bei der Aktualisierung von Artikeln dazu aufgefordert, fehlerhafte Links zu reparieren. In einigen Situationen kann das jedoch mehr Arbeit erfordern, als für den Änderungsvorschlag relevant ist:
 
@@ -105,11 +115,25 @@ Die Mitwirkenden werden bei der Aktualisierung von Artikeln dazu aufgefordert, f
 - Abschnitt verweist auf eine Übersetzung, für die der Abschnitt nicht existiert
 - Dateien verschieben (für Links, die bereits kaputt sind, nicht als Ergebnis daraus)
 
-##### Überwachung der nicht mehr aktuellen Übersetzungen
+##### Nicht mehr aktuelle Übersetzungen
 
-*Siehe auch: [Artikelgestaltungskriterien/Formatierung § Nicht mehr aktuelle Übersetzungen](/wiki/Article_styling_criteria/Formatting#nicht-mehr-aktuelle-übersetzungen) und [Artikelgestaltungskriterien/Schrift § Inhaltsparität](/wiki/Article_styling_criteria/Writing#inhaltsparität)*
+::: alert-note
+**Siehe auch:** [Artikelgestaltungskriterien/Formatierung § Nicht mehr aktuelle Übersetzungen](/wiki/Article_styling_criteria/Formatting#nicht-mehr-aktuelle-übersetzungen) und [Artikelgestaltungskriterien/Schrift § Inhaltsparität](/wiki/Article_styling_criteria/Writing#inhaltsparität)
+:::
 
-Das Überspringen der Prüfung auf veraltete Übersetzungen (und das Nichtmarkieren von Übersetzungen als veraltet) kann bei geringfügigen Umformulierungen, grammatikalischen Anpassungen und Ähnlichem erfolgen, die die Bedeutung des Artikels nicht beeinträchtigen.
+Bei geringfügigen Umformulierungen, grammatikalischen Anpassungen und Ähnlichem, die die Bedeutung des Artikels nicht beeinträchtigen, müssen Übersetzungen nicht als veraltet gekennzeichnet werden. In diesem Fall kann die automatische Kennzeichnung der Übersetzungen übersprungen werden.
+
+Mit einer oder mehreren Anweisungen unter der Beschreibung eines Pull Requests, jede in einer separaten Zeile, gibt man an, welche Dateien oder Artikel **nicht** als veraltet markiert werden sollen. Die folgenden Formate werden unterstützt:
+
+| Anweisung | Bedeutung |
+| :-- | :-- |
+| `DO_NOT_OUTDATE: wiki/Pfad/zum/Artikel/es.md` | Überspringe eine Übersetzung. |
+| `DO_NOT_OUTDATE: wiki/Artikel` | Überspringe alle Übersetzungen des Artikels `Artikel`. |
+| `DO_NOT_OUTDATE: wiki/*/es.md` | Überspringe alle spanischen Übersetzungen. |
+| `DO_NOT_OUTDATE: wiki/{Artikel,Anderer_Artikel}/{es,jp}.md` | Überspringe spanische und japanische Übersetzungen der Artikel `Artikel` und `Anderer Artikel`. |
+| `DO_NOT_OUTDATE: wiki/Artikel + wiki/Anderer_Artikel/es.md` | Kombiniere mehrere Regeln in einer Zeile. |
+
+Das Präfix `wiki/` kann zur besseren Übersichtlichkeit weggelassen werden.
 
 ### Entwicklung
 
@@ -126,15 +150,20 @@ Einige Features sind nicht direkt mit der osu!-Webseite verwandt, können aber n
 
 ## Abläufe
 
-*Anmerkung: Die Webseite [osu-wiki status](https://osu.wiki/status/de) zeigt eine Liste aller Artikel an, die überarbeitet werden müssen, sortiert nach Kategorie.*
+::: alert-notice
+**Hinweis**
+Die Webseite [osu-wiki status](https://osu.wiki/status/de) zeigt eine Liste aller Artikel an, die überarbeitet werden müssen, sortiert nach Kategorie.
+:::
 
-Das Wiki ist auf Anregungen aus der osu!-Community angewiesen. Du kannst den Betreuern und anderen Mitwirkenden helfen, indem du dich einbringst. Für Informationen darüber, wie man das macht, lies den [Beitragsleitfaden](/wiki/osu!_wiki/Contribution_guide). Solltest du an einem Punkt nicht weiterkommen, frage im Kanal `#osu-wiki` des [osu! Discord-Servers](/wiki/Community/osu!_Discord_server) nach Hilfe.
+Das Wiki ist auf Anregungen aus der osu!-Community angewiesen. Du kannst den Betreuern und anderen Mitwirkenden helfen, indem du dich einbringst. Für Informationen darüber, wie man das macht, lies den [Beitragsleitfaden](/wiki/osu!_wiki/Contribution_guide). Solltest du an einem Punkt nicht weiterkommen, frage im Kanal `#osu-wiki` des [osu! Discord-Servers](/wiki/Community/Discord_servers#offiziell) nach Hilfe.
 
 ### Übersetzungen
 
 <!-- note: the GitHub links are intentional here, because they expose many articles of a category at once -->
 
-*Für eine Liste an Übersetzungen und ihre Vollständigkeit, siehe: [osu-wiki status](https://osu.wiki/status/de)*
+::: alert-note
+**Anmerkung:** Für eine Liste an Übersetzungen und ihre Vollständigkeit, siehe [osu-wiki status](https://osu.wiki/status/de)
+:::
 
 Das osu!-Wiki wird von Menschen aus der ganzen Welt gelesen. Um deiner lokalen Community zu helfen und neue, großartige Spieler, Mapper, Modder und Entwickler in das Spiel zu locken, kannst du englische Artikel übersetzen oder existierende Übersetzungen aktualisieren, die in Rückstand geraten sind. Siehe dir die [Liste an Sprachen](/wiki/Article_styling_criteria/Formatting#locales) an, die vom osu!-Wiki unterstützt werden und stelle sicher, dass deine Übersetzung dem Prinzip der [Inhaltsparität](/wiki/Article_styling_criteria/Writing#inhaltsparität) folgt. Wenn du eine Sprache fließend sprechen kannst und ein erfahrener Schriftsteller bist, greife Schlüsselthemen auf wie Artikel über die [Regeln](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules) oder die [Ranking-Kriterien](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_criteria). Falls du noch am Anfang mit deiner Schriftstellerkarriere stehst, dann wähle einen kleinen Artikel aus, um Hilfe und Betreuung von aktiven Rezensenten zu erhalten.
 
@@ -142,7 +171,9 @@ Eine Übersetzung darf nach mehr als einer Woche nach der Erstellung ohne Überp
 
 ### Erweiterung von unvollständigen Artikeln
 
-*Für einen möglichen Arbeitsumfang, siehe: [Liste von unvollständigen Artikeln (Englisch)](https://github.com/search?q=stub%3A+true+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
+::: alert-note
+**Anmerkung:** Für einen möglichen Arbeitsumfang, siehe [Liste von unvollständigen Artikeln (Englisch)](https://github.com/search?q=stub%3A+true+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)
+:::
 
 Einige Artikel des osu!-Wikis sind unvollständig und es fehlen Informationen. Diese Artikel werden als *Stubs* gekennzeichnet, was heißt, dass sie wichtig genug sind, um als eigenständige Seite zu existieren, aber später vervollständigt werden. Trage dazu bei und teile dein Wissen, wenn du mit dem Artikelthema vertraut bist.
 
@@ -156,6 +187,8 @@ osu! ist eine sich ständig verändernde Umgebung: Die Community kreiert neue Be
 
 ### Aktualisierungen
 
-*Für einen möglichen Arbeitsumfang, siehe: [Liste von nicht verwalteten To-dos (Englisch)](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
+::: alert-note
+**Anmerkung:** Für einen möglichen Arbeitsumfang, siehe [Liste von nicht verwalteten To-dos (Englisch)](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)
+:::
 
 Bereits existierende Artikel müssen auch überarbeitet werden. Wenn du einen sachlichen Fehler gefunden hast, Details fehlen oder wenn du einfach den Artikel entsprechend der Realität neu schreiben/erweitern möchtest, dann trete vor und mache das osu!-Wiki zu einem besseren Ort. Stelle sicher, dass du, falls deine geplante Änderung umfangreich oder signifikant genug ist, sie im Kanal `#osu-wiki` zur Diskussion stellst oder [ein Issue anlegst](https://github.com/ppy/osu-wiki/issues/new).

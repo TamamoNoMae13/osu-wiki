@@ -14,10 +14,11 @@ tags:
   - замедление времени
 ---
 
-# Half Time (мод)
+# Half Time
 
 ![Значок мода HT](/wiki/shared/mods/HT.png "Значок мода Half Time (HT)")
 
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Half Time (lazer)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*
 
 ## Краткая информация
@@ -33,7 +34,10 @@ tags:
 
 ## Описание
 
-*Примечание: метод, с помощью которого Half Time изменяет скорость аудио, может добавлять шумное или роботизированное звучание.*
+::: alert-notice
+**Внимание**
+метод, с помощью которого Half Time изменяет скорость аудио, может добавлять шумное или роботизированное звучание.
+:::
 
 **Half Time** (рус. *половинное время*, жарг. *халфтайм, ХТ*) — [игровой модификатор](/wiki/Gameplay/Game_modifier) замедляющий скорость [карты](/wiki/Beatmap) (BPM) до 75% от первоначальной. В результате песня становится на 33% дольше, а у карты слегка снижаются [скорость появления нот (AR)](/wiki/Beatmap/Approach_rate), [общая сложность (OD)](/wiki/Beatmap/Overall_difficulty) и [потеря здоровья (HP)](/wiki/Gameplay/Health).
 

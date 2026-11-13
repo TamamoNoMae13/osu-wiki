@@ -1,6 +1,8 @@
 # Interface skinning
 
-*See also: [Interface](/wiki/Client/Interface)*
+::: alert-note
+**See also:** [Interface](/wiki/Client/Interface)
+:::
 
 Interface skinning elements are used in multiple game modes or parts of the client's user interface.
 
@@ -188,7 +190,9 @@ Notes:
 
 ## Mod icons
 
-*Main page: [Game Modifiers](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Main page:** [Game Modifiers](/wiki/Gameplay/Game_modifier)
+:::
 
 ---
 
@@ -610,7 +614,9 @@ Notes:
 
 ## Offset wizard
 
-*Main page: [Offset Wizard](/wiki/Guides/How_to_use_the_Offset_Wizard)*
+::: alert-note
+**Main page:** [Offset Wizard](/wiki/Guides/How_to_use_the_Offset_Wizard)
+:::
 
 ---
 
@@ -838,7 +844,9 @@ Notes:
 
 ### Hit bursts
 
-*Main page: [Skinning/FAQ § Ranking screen hierarchy](/wiki/Skinning/FAQ#ranking-screen-hit-score-hierarchy)*
+::: alert-note
+**Main page:** [Skinning/FAQ § Ranking screen hierarchy](/wiki/Skinning/FAQ#ranking-screen-hit-score-hierarchy)
+:::
 
 ---
 
@@ -1118,7 +1126,7 @@ Notes:
 Notes:
 
 - This element has no size restrictions.
-- When used in [osu!mania](/wiki/Game_mode/osu!mania), this element is rotated 90 degrees anti-clockwise and is placed at the bottom right of stage.
+- When used in [osu!mania](/wiki/Game_mode/osu!mania), this element is rotated 90 degrees anti-clockwise, scaled to 0.7x size, and placed at the bottom right of stage.
 
 ---
 
@@ -1140,8 +1148,7 @@ Notes:
 - Positioning varies:
   - If a marker is used, positioned at (12,12).
   - Otherwise, positioned at (5,16).
-- This element has no size restrictions.
-- When used in [osu!mania](/wiki/Game_mode/osu!mania), this element is rotated 90 degrees anti-clockwise and is placed at the bottom right of stage.
+- When used in [osu!mania](/wiki/Game_mode/osu!mania), this element is rotated 90 degrees anti-clockwise, scaled to 0.7x size, and placed at the bottom right of stage.
 
 ---
 
@@ -1466,6 +1473,21 @@ Notes:
 - Blend mode varies:
   - If used for combo counter:
     - Additive for the expanding after images.
+
+---
+
+`score-pp.png`
+
+![](img/score-pp.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| All | ![No][false] | ![Yes][true] | Normal | (Varies) | - |
+
+Notes:
+
+- [Lazer](/wiki/Client/Release_stream/Lazer) only.
+- This element is for the [performance points](/wiki/Performance_points).
 
 ## Ranking grades
 

@@ -25,7 +25,10 @@ The **osu! Philippines Quickfire Showdown 2023** (***oPQS2023***), also known as
 
 ## Prizes
 
-*Note: The prizes were granted for each day of the tournament.*
+::: alert-notice
+**Notice**
+The prizes were granted for each day of the tournament.
+:::
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -269,7 +272,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Ruleset
 
-The full tournament ruleset can be found on the [Quickfire Showdown tournament handbook](https://cdn.discordapp.com/attachments/1032750089845866536/1107889405340958810/OPQS_2023_Handbook.pdf).
+The full tournament ruleset can be found on the [Quickfire Showdown tournament handbook](https://up.topec.nz/OPQS_2023_Handbook.pdf).
 
 ### Tournament format
 

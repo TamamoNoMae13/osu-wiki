@@ -20,7 +20,13 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 
 #### August
 
-*Für den Forumsbeitrag, siehe: [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)*
+::: alert-note
+**Anmerkung:** Für den Newsbeitrag, siehe [osu! community contributors](https://osu.ppy.sh/home/news/2013-08-08-osu-community-contributors)
+:::
+
+::: alert-note
+**Anmerkung:** Für den Forumsbeitrag, siehe [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)
+:::
 
 | Benutzer | Beiträge |
 | :-- | :-- |
@@ -30,7 +36,7 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 | ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | Gestaltung der [Achievements](/wiki/Medals). |
 | ::{ flag=US }:: [akrolsmir](https://osu.ppy.sh/users/576800) | Entwickler und Aufrechthaltung des [AIBat](https://osu.ppy.sh/community/forums/topics/55305), dem bekanntesten Drittanbietertool für Beatmap-Modding, das heute von den meisten Benutzern in der Community verwendet wird. |
 | ::{ flag=NL }:: [statementreply](https://osu.ppy.sh/users/126198) | Ausgezeichnete Arbeit im Testen von Features und bei der Fehlerbehebung sowie Entwicklung verschiedener Funktionen für Mapper und Modder. |
-| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Organisieren vieler offizieller Turniere (unter anderem dem [OWC](/wiki/Tournaments/OWC))). |
+| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Organisierung vieler offizieller Turniere (unter anderem des [OWC](/wiki/Tournaments/OWC)). |
 | ::{ flag=US }:: [Blazevoir](https://osu.ppy.sh/users/120265) | Wahnsinnige Moderationserfolge (entspricht etwa 6 Mitarbeitern) und fast alleinige Moderation von `#osu` während der Spitzenzeiten (9k+ Nutzer). |
 | ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) | Entwicklung und Pflege von [osu!stats](https://osustats.ppy.sh/) und einer Reihe nützlicher Werkzeuge für Beatmapping, Modding und allgemeines Spielen. |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Herausragende Leistungen beim Testen von Bugfixes/Features und bei der Bearbeitung von Support-Anfragen der Benutzer. |
@@ -54,7 +60,9 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 
 #### Januar
 
-*Für den Newsbeitrag, siehe: [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)*
+::: alert-note
+**Anmerkung:** Für den Newsbeitrag, siehe [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)
+:::
 
 | Benutzer | Beiträge |
 | :-- | :-- |
@@ -69,7 +77,9 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 
 #### März
 
-*Für den Newsbeitrag, siehe: [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)*
+::: alert-note
+**Anmerkung:** Für den Newsbeitrag, siehe [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)
+:::
 
 | Benutzer | Beiträge |
 | :-- | :-- |
@@ -77,7 +87,9 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 
 #### November
 
-*Für den Newsbeitrag, siehe: [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)*
+::: alert-note
+**Anmerkung:** Für den Newsbeitrag, siehe [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)
+:::
 
 | Benutzer | Beiträge |
 | :-- | :-- |
@@ -95,7 +107,9 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 
 #### Dezember
 
-*Für den Newsbeitrag, siehe: [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)*
+::: alert-note
+**Anmerkung:** Für den Newsbeitrag, siehe [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)
+:::
 
 | Benutzer | Beiträge |
 | :-- | :-- |
@@ -124,7 +138,9 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 
 #### Februar
 
-*Für den Newsbeitrag, siehe: [Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)*
+::: alert-note
+**Anmerkung:** Für den Newsbeitrag, siehe [Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)
+:::
 
 | Benutzer | Beiträge |
 | :-- | :-- |
@@ -156,7 +172,9 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 
 #### Februar
 
-*Für den Newsbeitrag, siehe: [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
+::: alert-note
+**Anmerkung:** Für den Newsbeitrag, siehe [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)
+:::
 
 | Benutzer | Beiträge |
 | :-- | :-- |
@@ -186,7 +204,9 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 
 #### März
 
-*Für den Newsbeitrag, siehe: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
+::: alert-note
+**Anmerkung:** Für den Newsbeitrag, siehe [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)
+:::
 
 | Benutzer | Beiträge |
 | :-- | :-- |
@@ -202,7 +222,9 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 
 #### Juni
 
-*Für den Newsbeitrag, siehe: [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)*
+::: alert-note
+**Anmerkung:** Für den Newsbeitrag, siehe [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)
+:::
 
 | Benutzer | Beiträge |
 | :-- | :-- |
@@ -226,7 +248,9 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 
 #### November
 
-*Für den Newsbeitrag, siehe: [Community Contributors: 2022 & 2023](https://osu.ppy.sh/home/news/2023-11-19-community-contributors-2022-2023)*
+::: alert-note
+**Anmerkung:** Für den Newsbeitrag, siehe [Community Contributors: 2022 & 2023](https://osu.ppy.sh/home/news/2023-11-19-community-contributors-2022-2023)
+:::
 
 | Benutzer | Beiträge |
 | :-- | :-- |
@@ -250,6 +274,58 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 | ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | Herausragende Beiträge zur [Mappers' Guild](/wiki/Community/Mappers_Guild) und zu Präsentationsvideos von Featured Artists |
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Herausragende Beiträge zur [Mappers' Guild](/wiki/Community/Mappers_Guild) und zu Präsentationsvideos von Featured Artists |
 | ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Herausragende Beiträge zur [Mappers' Guild](/wiki/Community/Mappers_Guild) und zu Präsentationsvideos von Featured Artists |
+
+### 2025
+
+#### März
+
+::: alert-note
+**Anmerkung:** Für den Newsbeitrag, siehe [Community Contributors: 2024](https://osu.ppy.sh/home/news/2025-03-25-community-contributors-2024)
+:::
+
+| Benutzer | Beiträge |
+| :-- | :-- |
+| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Herausragende Beiträge zu Moderationsangelegenheiten, zur Teamführung und Berichterstattung |
+| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | Ausgezeichnete Koordinierung der Erstellung von Musik und Kunst für osu! |
+| ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | Herausragende Beiträge zur Community und Mappingszene von osu!catch |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Herausragende Beiträge zur osu!catch-Community und zur Entwicklung zentraler Tools |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Herausragende Beiträge zur Modding- und Mappingszene von osu!mania |
+| ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | Herausragende Beiträge zur Turnier- und Mappingszene von osu!mania |
+| ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) | Herausragende Beiträge zur Entwicklung der Performance-Punkte durch zentrale Tools ([huismetbenen](https://pp.huismetbenen.nl/)) |
+| ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | Herausragende Beiträge zur Entwicklung der Performance-Punkte und zur Wartung von osu!(stable) |
+| ::{ flag=CA }:: [emanfman](https://osu.ppy.sh/users/4136150) | Herausragende Beiträge durch das Vereinen der Community auf Reddit während den [r/place](https://www.reddit.com/r/place/)-Events |
+| ::{ flag=RU }:: [cyperdark](https://osu.ppy.sh/users/9893708) | Herausragende Beiträge zur Community durch die Entwicklung und Dokumentation von Replay-Tools |
+| ::{ flag=CA }:: [FunOrange](https://osu.ppy.sh/users/2051389) | Herausragende Beiträge zur Community durch die Entwicklung von Tools ([osu-trainer](https://github.com/FunOrange/osu-trainer)) |
+| ::{ flag=SG }:: [oneplusone](https://osu.ppy.sh/users/1843447) | Herausragende Beiträge zur Community durch die Entwicklung von Tools ([osuplus](https://github.com/limjeck/osuplus)) |
+| ::{ flag=US }:: [Stevy](https://osu.ppy.sh/users/5053158) | Herausragende Beiträge zur Community durch die Entwicklung von Tools ([owo! bot](https://owo-bot.xyz/)) |
+| ::{ flag=BE }:: [Badewanne3](https://osu.ppy.sh/users/2211396) | Herausragende Beiträge zur Community durch die Entwicklung von Tools ([Bathbot](https://github.com/MaxOhn/Bathbot)) |
+
+### 2026
+
+#### August
+
+::: alert-note
+**Note:** Für den Newsbeitrag, siehe [Community Contributors: 2025](https://osu.ppy.sh/home/news/2026-08-02-community-contributors-2025)
+:::
+
+| Benutzer | Beiträge |
+| :-- | :-- |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Herausragende Beiträge zur Exzellenz der osu!-Community |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Herausragende Beiträge zur Turnier- und Mappingszene |
+| ::{ flag=US }:: [Stage](https://osu.ppy.sh/users/8191845) | Herausragende technische Beiträge zur Turnierszene von osu! |
+| ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692) | Herausragende technische Beiträge zur Offline-Turnierszene von osu! |
+| ::{ flag=KR }:: [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449) | Herausragende Beiträge zu den [Beatmap-Paketen](https://osu.ppy.sh/beatmaps/packs) |
+| ::{ flag=PL }:: [Wiek](https://osu.ppy.sh/users/2584698) | Herausragende Beiträge zu Tools der Community ([Danser](https://github.com/Wieku/danser-go)) |
+| ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Herausragende Beiträge zu Tools der Community ([circleguard](https://github.com/circleguard/circleguard), [ossapi](https://github.com/Liam-DeVoe/ossapi)) |
+| ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) | Langjährige Beiträge zu Community- und Moderationsangelegenheiten |
+| ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Herausragende Unterstützung von Spielern über viele Jahre hinweg |
+| ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Herausragende Beiträge zur Moderation verschiedener Plattformen |
+| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Langjährige Beiträge zur Mapping- und Moddingcommunity |
+| ::{ flag=AT }:: [Maarvin](https://osu.ppy.sh/users/6411631) | Herausragende Beiträge zu Entwicklungsangelegenheiten |
+| ::{ flag=DE }:: [The_Last_Cookie](https://osu.ppy.sh/users/11587828) | Langjährige Beiträge zu deutschen Übersetzungen des osu! wikis |
+| ::{ flag=PE }:: [Tiburon](https://osu.ppy.sh/users/18115022) | Langjährige Beiträge zu spanischen Übersetzungen des osu! wikis |
+| ::{ flag=ES }:: [Agatem](https://osu.ppy.sh/users/18202514) | Langjährige Beiträge zu spanischen Übersetzungen des osu! wikis |
+| ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) | Langjährige Beiträge zu chinesischen Übersetzungen des osu! wikis |
 
 ## Geschichte
 

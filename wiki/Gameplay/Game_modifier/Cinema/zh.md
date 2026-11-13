@@ -13,6 +13,7 @@ tags:
 
 ![CM 模组图标](/wiki/shared/mods/CM.png "Cinema (CM) 模组图标")
 
+*对于本文章的 [lazer](/wiki/Client/Release_stream/Lazer) 版本，参见：[Cinema（lazer 模组）](/wiki/Gameplay/Game_modifier/Cinema_(lazer))*\
 *对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*\
 *请勿与[电影摄影术 (Cinematography)](https://en.wikipedia.org/wiki/Cinematography) 混淆。*
 
@@ -20,13 +21,13 @@ tags:
 
 - 缩写：CM
 - 类别：特殊
-- 得分系数：1.00x
+- 得分倍率：1.00x
 - 默认快捷键：`V` `V` 或 `Shift` + `V`（或者在选择[谱面](/wiki/Beatmap)时按住 `Ctrl` + `Shift`）
 - 兼容的游戏模式：![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## 说明
 
-*注意：启用此模组会导致成绩不计入排名。*
+*注意：启用此模组会导致成绩不计表现分。*
 
 **Cinema** [游戏模组](/wiki/Gameplay/Game_modifier)会隐藏所有[打击物件](/wiki/Gameplay/Hit_object)，意在让玩家放松下来，观看谱面的视频或故事板。也就是使用 [Auto](/wiki/Gameplay/Game_modifier/Auto) 模组进行游玩，但 **只显示背景与故事板**。
 

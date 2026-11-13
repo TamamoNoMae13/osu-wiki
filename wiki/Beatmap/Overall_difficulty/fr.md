@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - accuracy
   - hit window
@@ -11,7 +10,9 @@ tags:
 
 # Overall difficulty
 
-*Pour les valeurs recommandées de l'OD, voir : [Critères de classement](/wiki/Ranking_criteria)*
+::: alert-note
+**Remarque** : Pour les valeurs recommandées de l'OD, voir [Critères de classement](/wiki/Ranking_criteria)
+:::
 
 **L'Overall difficulty** (***OD***) définit à quel point il est difficile d'atteindre une [précision](/wiki/Gameplay/Accuracy) élevée sur une [beatmap](/wiki/Beatmap). La valeur est comprise entre 0 et 10, une valeur plus élevée exigeant plus d'exactitude et de précision. Comme la précision est importante pour gagner de la [santé](/wiki/Gameplay/Health), l'overall difficulty influence également la difficulté à réussir une beatmap.
 
@@ -53,7 +54,7 @@ Les fenêtres de résultats pour les jugements peuvent être visualisées en sur
 | 100 | `127 - 3 × OD` |
 | 50 | `151 - 3 × OD` |
 
-Si le joueur frappe en dehors de la hit window du 50, cela comptera comme un échec. Si les hit windows de deux objets se chevauchent, le second objet sera inaccessible jusqu'à ce que le premier objet disparaisse en raison d'un [notelock](/wiki/Gameplay/Judgement/Notelock).
+Si le joueur frappe en dehors de la hit window du 50, cela comptera comme un miss. Si les hit windows de deux objets se chevauchent, le second objet sera inaccessible jusqu'à ce que le premier objet disparaisse en raison d'un [notelock](/wiki/Gameplay/Judgement/Notelock).
 
 ## Sliders et spinners
 

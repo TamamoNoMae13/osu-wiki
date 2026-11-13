@@ -28,7 +28,9 @@ tags:
 
 # Client
 
-*Hauptseite: [Hilfecenter](/wiki/Help_centre)*
+::: alert-note
+**Hauptseite:** [Hilfecenter](/wiki/Help_centre)
+:::
 
 Hast du Probleme mit dem Spiel-Client? Finde heraus, ob dein Problem unter den häufigsten Problemen unserer Nutzer aufgelistet ist.
 
@@ -149,7 +151,10 @@ Um die Beatmap-Datenbank gefahrlos zu einer Neuerstellung zu zwingen, versuche d
 7. Nenne sie um wie du möchtest. Es spielt keine Rolle, solange sie nicht "osu!" heißt. Anschließend drücke `Enter`.
 8. Starte osu! erneut.
 
-*Anmerkung: eine Fehlerbehebung dafür wurde in [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) am 19. Mai 2021 hinzugefügt. Wenn du diesem Problem immer noch begegnest, dann [lasse uns das bitte wissen](https://github.com/ppy/osu-stable-issues/issues).*
+::: alert-notice
+**Hinweis**
+Eine Fehlerbehebung dafür wurde in [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) am 19. Mai 2021 hinzugefügt. Wenn du diesem Problem immer noch begegnest, dann [lasse uns das bitte wissen](https://github.com/ppy/osu-stable-issues/issues).
+:::
 
 ### Meine Songliste scrollt weiter! {id=songs-list-scrolling}
 
@@ -300,6 +305,12 @@ Das Aktivieren von VSync sowie das Spielen im Fenster- oder randlosen Modus wird
 
 Spätere NVidia-Grafikkarten haben eine globale Option im NVidia Control Panel, um die globale Bildwiederholrate auf die Einstellung "Fast" zu setzen, welche dieses Problem ebenfalls lösen wird.
 
+### Ich bin zu den nativen Tablet-Treibern von osu!(lazer) gewechselt und jetzt hat sich mein Tablet-Bereich verändert! {id=tablet-area}
+
+In osu!(lazer) ist der [OpenTabletDriver](https://opentabletdriver.net/) integriert. Falls du diesen zuvor nicht verwendet hast, passiert das, da dein Tablet für die nativen Treiber nicht richtig konfiguriert ist.
+
+Siehe den [Leitfaden zur Umwandlung des Tablet-Bereichs](/wiki/Guides/Tablet_conversion) für weitere Informationen wie du den Tablet-Bereich deines alten Treibers korrekt auf die Einstellungen des OpenTabletDrivers umwandelst.
+
 ## Online-Funktionen {id=online-features}
 
 ### Ich kann mich gar nicht einloggen oder mit dem Spiel verbinden! {id=cannot-sign-in}
@@ -332,7 +343,7 @@ Bitte lies den [offiziellen Hilfeartikel](https://support.kaspersky.com/15163#bl
 
 #### Zulassen eines Programms durch McAfee {id=firewall-whitelist-mcafee}
 
-Bitte informiere dich über den [offiziellen Wissensbasiseintrag zu diesem Thema](https://service.mcafee.com/?articleId=TS100813&page=shell&shell=article-view) von McAfee.
+Bitte informiere dich über den [offiziellen Wissensbasiseintrag zu diesem Thema](https://download.mcafee.com/products/webhelp/5/1033/index.html#GUID-68D866FC-3978-4665-940E-9CA5CC0836E2.html) von McAfee.
 
 ### Ich habe osu! zu meiner Firewall hinzugefügt, aber ich kann mich immer noch nicht mit dem Spiel verbinden! {id=sign-in-unknown-cause}
 

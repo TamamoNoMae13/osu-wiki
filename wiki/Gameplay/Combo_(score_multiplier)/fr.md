@@ -8,7 +8,9 @@ tags:
 
 # Combo (multiplicateur de score)
 
-*Pour d'autres utilisations, voir [Combo (désambiguïsation)](/wiki/Disambiguation/Combo).*
+::: alert-note
+**Remarque** : Pour d'autres utilisations, voir [Combo (désambiguïsation)](/wiki/Disambiguation/Combo).
+:::
 
 Un **combo** désigne le nombre d'[objets](/wiki/Gameplay/Hit_object) qu'un joueur a touché consécutivement sans miss ou [sliderbreak](/wiki/Gameplay/Judgement/Slider_break). Ce nombre est affiché à différents endroits en jouant une beatmap :
 
@@ -90,6 +92,6 @@ Le *combo maximum* est le combo le plus élevé réalisé par le joueur au cours
 - La note n'est pas complétée.
 - La hold note a été lâchée alors qu'elle n'est pas terminée.
 
-**Le cas suivant ne va pas affecter le multiplicateur de score :**
+**Le cas suivant n'affecte pas le multiplicateur de score :**
 
 - Lâcher la hold note à la fin de la note.

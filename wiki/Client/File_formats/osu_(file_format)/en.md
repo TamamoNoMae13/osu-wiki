@@ -4,7 +4,7 @@
 
 ## Structure
 
-The first line of the file specifies the file format version. For example, `osu file format v14` is the latest version.
+The first line of the file specifies the file format version. For example, `osu file format v14` is the latest version. (v128 for [osu!(lazer)](/wiki/Client/Release_stream/Lazer).)
 
 The following content is separated into sections, indicated by section titles in square brackets.
 
@@ -116,7 +116,9 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 
 ### Storyboards
 
-*For information about storyboard syntax, see [Storyboard Scripting](/wiki/Storyboard/Scripting).*
+::: alert-note
+**Note:** For information about storyboard syntax, see [Storyboard Scripting](/wiki/Storyboard/Scripting).
+:::
 
 Storyboards can be defined in a separate optional storyboard file with the `.osb` extension. External storyboards are shared between all difficulties in a beatmap.
 
@@ -128,7 +130,7 @@ Each timing point influences a specified portion of the map, commonly called a "
 
 *Timing point syntax:* `time,beatLength,meter,sampleSet,sampleIndex,volume,uninherited,effects`
 
-- **`time` (Integer):** Start time of the timing section, in milliseconds from the beginning of the beatmap's audio. The end of the timing section is the next timing point's time (or never, if this is the last timing point).
+- **`time` (Decimal):** Start time of the timing section, in milliseconds from the beginning of the beatmap's audio. The end of the timing section is the next timing point's time (or never, if this is the last timing point).
 - **`beatLength` (Decimal):** This property has two meanings:
   - For uninherited timing points, the duration of a beat, in milliseconds.
   - For inherited timing points, a negative inverse slider velocity multiplier, as a percentage. For example, `-50` would make all sliders in this timing section twice as fast as `SliderMultiplier`.
@@ -276,12 +278,12 @@ There are four types of slider curves in osu!:
 - **Linear (L):** These curves form a straight path between all of their points.
 - **Perfect circle (P):** Perfect circle curves are limited to three points (including the hit object's position) that define the boundary of a circle. Using more than three points will result in the curve type being switched to bézier.
 
-If the slider's `length` is longer than the defined curve, the slider will extend until it reaches the target length:
+If the slider's `length` is longer than the defined curve, the slider will extend in a straight line from the end of the curve until it reaches the target length.
 
-- For bézier, catmull, and linear curves, it continues in a straight line from the end of the curve.
-- For perfect circle curves, it continues the circular arc.
-
-*Notice: The slider's `length` can be used to determine the time it takes to complete the slider. `length / (SliderMultiplier * 100 * SV) * beatLength` tells how many milliseconds it takes to complete one slide of the slider (where `SV` is the slider velocity multiplier given by the effective inherited timing point, or `1` if there is none).*
+::: alert-notice
+**Notice**
+The slider's `length` can be used to determine the time it takes to complete the slider. `length / (SliderMultiplier * 100 * SV) * beatLength` tells how many milliseconds it takes to complete one slide of the slider (where `SV` is the slider velocity multiplier given by the effective inherited timing point, or `1` if there is none).
+:::
 
 #### Slider hitsounds
 

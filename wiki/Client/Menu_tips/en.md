@@ -6,7 +6,7 @@ tags:
   - hints
 ---
 
-<!-- For translators: to translate this page, select the corresponding language in stable and open `Localisation/XX.txt` in your osu! installation folder. Translation keys starting with MenuTip_ and EditorTip_ contain the respective translated tips. The lazer tips aren't localised yet, but it's ok to translate them here while noting that they don't have translations in-game. -->
+<!-- For translators: to translate this page, select the corresponding language in stable and open `Localisation/XX.txt` in your osu! installation folder. Translation keys starting with MenuTip_ and EditorTip_ contain the respective translated tips. The lazer tips are translated on Crowdin: https://crowdin.com/editor/osu-web/656 -->
 
 # Menu tips
 
@@ -39,7 +39,7 @@ These tips appear at the bottom of the [main menu](/wiki/Client/Interface#main-m
 - Hit `F8` at any time to activate the in-game chat window. You can check out the [commands available](/wiki/Client/Interface/Chat_console#commands-list) in chat by typing `!help` or `/help`
 - Make sure to take breaks every so often. Your hands have to serve you in life for more than just osu! [spinners](/wiki/Gameplay/Hit_object/Spinner).
 - Don't ignore [unranked](/wiki/Beatmap/Category) maps. If you find some you like and leave [constructive comments](/wiki/Modding), there is a much higher chance of them being [ranked](/wiki/Beatmap_ranking_procedure)!
-- You can play songs together with other players in [multiplayer mode](/wiki/Client/Interface/Multiplayer)!
+- You can play songs together with other players in [multiplayer mode](/wiki/Gameplay/Multiplayer)!
 - Ever wondered where someone was from? Hit `F9` and hover their user panel!
 - Hit `F5` at the song select screen to refresh and load any new songs from disk.
 - Hit `Shift` + `F12` anywhere in-game to take a screenshot and automatically upload it to the internet.
@@ -88,7 +88,7 @@ These tips appear in the [beatmap editor](/wiki/Client/Beatmap_editor) below the
 
 ## osu!(lazer)
 
-<!-- Source: https://github.com/ppy/osu/blob/master/osu.Game/Screens/Menu/MenuTip.cs -->
+<!-- Source: https://github.com/ppy/osu/blob/master/osu.Game/Localisation/MenuTipStrings.cs -->
 
 These tips appear at the bottom of the main menu in [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
@@ -115,11 +115,14 @@ These tips appear at the bottom of the main menu in [osu!(lazer)](/wiki/Client/R
 - Drag and drop any image into the skin editor to load it in quickly!
 - You can create mod presets to make toggling your favorite mod combinations easier!
 - Many mods have customisation settings that drastically change how they function. Click the `Mod Customisation` button in mod select to view settings!
-- Press `Ctrl` + `Shift` + `R` to switch to a random skin!
+- Press `Ctrl` + `Shift` + `R` to switch to a random skin! You can also use `Ctrl` + `Shift` + `E` and `Ctrl` + `Shift` + `T` to cycle through skins.
 - Press `Ctrl` + `Shift` + `F` to toggle the FPS Counter. But make sure not to pay too much attention to it!
 - While watching a replay, press `Ctrl` + `H` to toggle replay settings!
 - You can easily copy the mods from scores on a leaderboard by right-clicking on them!
 - `Ctrl` + `Enter` at song select will start a beatmap in autoplay mode!
+- "Lazer" is not an English word. The correct spelling for the bright light is "laser".
+- Try holding your right mouse button near the beatmap carousel to quickly scroll to an absolute position!
+- Shift-click on a beatmap panel in the beatmap listing overlay to quickly download or view the beatmap in song select!
 
 ## See also
 

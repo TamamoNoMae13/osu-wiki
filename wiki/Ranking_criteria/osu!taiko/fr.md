@@ -1,18 +1,22 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: f5d103c16e092c5d5cd47298df02ea849ddcc6e4
 ---
 
 # Critères de classement d'osu!taiko
 
 ***Note : Cet article est une extension des [critères de classement généraux](/wiki/Ranking_criteria).***
 
-Cet ensemble de **critères de classement d'osu!taiko** définit les [règles et directives](/wiki/Ranking_criteria#termes-courants) que les [beatmaps](/wiki/Beatmap) spécifiques à [osu!taiko](/wiki/Game_mode/osu!taiko) doivent suivre afin de progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
+Cet ensemble de **critères de classement d'osu!taiko** définit les [règles et directives](/wiki/Ranking_criteria) que les [beatmaps](/wiki/Beatmap) spécifiques à [osu!taiko](/wiki/Game_mode/osu!taiko) doivent suivre afin de progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
 
 ## Glossaire
 
 ### Noms des difficultés
 
-*Article principal : [Noms des difficultés](/wiki/Ranking_criteria/Difficulty_naming)*
+::: alert-note
+**Page principale** : [Noms des difficultés](/wiki/Ranking_criteria/Difficulty_naming)
+:::
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu

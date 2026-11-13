@@ -9,13 +9,13 @@ tags:
   - модификатор
   - кино
   - кинозал
-  - кинематограф
 ---
 
-# Cinema (мод)
+# Cinema
 
 ![Значок мода CM](/wiki/shared/mods/CM.png "Значок мода Cinema (CM)")
 
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Cinema (lazer)](/wiki/Gameplay/Game_modifier/Cinema_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*\
 *Не следует путать с [кинематографом](https://ru.wikipedia.org/wiki/Кинематограф).*
 
@@ -29,7 +29,10 @@ tags:
 
 ## Описание
 
-*Примечание: при активации Cinema ваш рекорд не засчитается.*
+::: alert-notice
+**Внимание**
+при активации Cinema ваш рекорд не засчитается.
+:::
 
 **Cinema** (кинематограф) — [игровой модификатор](/wiki/Gameplay/Game_modifier), позволяющий посмотреть на видео или сториборд, содержащиеся в карте, без появления [игровых объектов](/wiki/Gameplay/Hit_object). Технически он работает так же, как и [Auto](/wiki/Gameplay/Game_modifier/Auto), но игроку видны **только фон карты и сториборд**.
 

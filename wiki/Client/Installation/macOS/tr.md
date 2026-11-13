@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 5fe4d3c2895e176f6f46995790db6b1435a3c599
+---
+
 # macOS için kurulum
 
 Bu sayfa size macOS cihazınızda osu!'yu nasıl kuracağınız hakkında size rehberlik edecektir.
@@ -33,7 +38,7 @@ Eğer osu!'yu açarken sorunlarla karşılaşıyorsanız, aşağıdaki adımlar�
 
 ## osu!(lazer)
 
-[osu!(lazer)](/wiki/Client/Release_stream/Lazer), henüz geliştirme aşamasında olan gelecekte kullanılacak osu! istemcisidir. Eğer [performans puanı](/wiki/Performance_points) kazanmayı umursamıyorsanız, bu istemciyi denemeniz önerilir. Kurulum için aşağıdaki adımları izleyin:
+[osu!(lazer)](/wiki/Client/Release_stream/Lazer), henüz geliştirme aşamasında olan gelecekte kullanılacak osu! istemcisidir. Kurulum için aşağıdaki adımları izleyin:
 
 1. [osu!(lazer) indirme sayfasına](https://github.com/ppy/osu/releases/latest) gidin, `osu!.app.zip` dosyasını indirin ve dizine çıkarın.
 2. osu!'ya çift tıklayın ve açmak için `Aç` sekmesine tıklayın.

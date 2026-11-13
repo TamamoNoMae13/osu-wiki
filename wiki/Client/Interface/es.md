@@ -60,7 +60,9 @@ Después de seleccionar `Play` en el menú principal, puedes elegir entre tres o
 
 ## Sala multijugador
 
-*Página principal: [Multijugador](/wiki/Client/Interface/Multiplayer)*
+::: alert-note
+**Página principal:** [Multijugador](/wiki/Client/Interface/Multiplayer)
+:::
 
 ![](img/multi-lobby-ES.jpg "Sala multijugador")
 
@@ -144,7 +146,9 @@ Ordena los beatmaps en un orden determinado.
 
 ### Buscar
 
-*Artículo principal: [Búsqueda de beatmaps](/wiki/Beatmap_search)*
+::: alert-note
+**Página principal:** [Búsqueda de beatmaps](/wiki/Beatmap_search)
+:::
 
 ![](img/search-bar-ES.jpg)
 
@@ -219,7 +223,10 @@ Coloca tu ratón sobre el icono de un mod para ver una breve descripción de su 
 
 Haz clic en el botón `Random` o presiona `F2` para que el juego **se desplace aleatoriamente por todos tus beatmaps y elija uno.**
 
-*Nota: Puedes presionar `Shift` + el botón `Random` o `F2` para volver al beatmap que habías seleccionado antes de aleatorizar tu selección.*
+::: alert-notice
+**Aviso**
+Puedes presionar `Shift` + el botón `Random` o `F2` para volver al beatmap que habías seleccionado antes de aleatorizar tu selección.
+:::
 
 ![](img/beatmap-options-ES.jpg "Comandos posibles para un beatmap")
 
@@ -277,12 +284,14 @@ Las categorías en el panel de clasificación son las siguientes:
 | [`Precisión`](/wiki/Gameplay/Accuracy) | Con qué precisión jugaste el beatmap. Esto solo se cuenta cuando superas tu puntuación anterior. | Un promedio ponderado de la precisión de tus mejores puntuaciones. |
 | `Max Combo` | El combo más largo en el mapa que jugaste. | El combo más largo de todos los beatmaps que hayas jugado. |
 | [`Puntuación rankeada`](/wiki/Gameplay/Score/Ranked_score) | Tu [mejor resultado](/wiki/Gameplay/Score/Ranked_score) en el beatmap. | La cantidad de puntos obtenidos de todos los beatmaps clasificados que hayas jugado alguna vez, contando cada mapa exactamente una vez. |
-| [`Puntuación total`](/wiki/Gameplay/Score/Total_score) | No se tiene en cuenta, ya que no afecta tu posición en las clasificaciones en línea. | Igual que la puntuación rankeada, pero tiene en cuenta todos los beatmaps disponibles en el sitio web de osu!, incluidos los beatmaps infrautilizados o fallidos. Esto cuenta para tu [nivel](/wiki/Gameplay/Score/Total_score#level). |
-| [`Performance`](/wiki/Performance_points) | La cantidad de [pp no ponderados](/wiki/Performance_points#why-didn't-i-gain-the-full-amount-of-pp-from-a-map-i-played?) que recibirás por la jugada. | Tu cantidad total de puntos de rendimiento, y cuánto pp valió la jugada enviada. |
+| [`Puntuación total`](/wiki/Gameplay/Score/Total_score) | No se tiene en cuenta, ya que no afecta tu posición en las clasificaciones en línea. | Igual que la puntuación rankeada, pero tiene en cuenta todos los beatmaps disponibles en el sitio web de osu!, incluidos los beatmaps infrautilizados o fallidos. Esto cuenta para tu [nivel](/wiki/Gameplay/Score/Total_score#nivel). |
+| [`Performance`](/wiki/Performance_points) | La cantidad de [pp no ponderados](/wiki/Performance_points#¿por-qué-no-he-ganado-toda-la-cantidad-de-pp-de-un-mapa-que-he-jugado?) que recibirás por la jugada. | Tu cantidad total de puntos de rendimiento, y cuánto pp valió la jugada enviada. |
 
 ### Medallas
 
-*Página principal: [Medallas](/wiki/Medals)*
+::: alert-note
+**Página principal:** [Medallas](/wiki/Medals)
+:::
 
 ![](img/medal-unlock-ES.jpg "Desbloqueo de una medalla")
 

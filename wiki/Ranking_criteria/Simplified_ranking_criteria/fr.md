@@ -1,12 +1,14 @@
 ---
 no_native_review: true
 outdated_translation: true
-outdated_since: 60bb40f512eeb097fe340a905acef102f034e77d
+outdated_since: f5d103c16e092c5d5cd47298df02ea849ddcc6e4
 ---
 
 # Critères de classement simplifiés
 
-*Pour les critères de classement complets, voir : [Critères de classement](/wiki/Ranking_criteria)*
+::: alert-note
+**Remarque** : Pour les critères de classement complets, voir [Critères de classement](/wiki/Ranking_criteria)
+:::
 
 La liste complète des [critères de classement](/wiki/Ranking_criteria) est complexe. Elle explique toutes les règles et directives nécessaires pour créer une [beatmap](/wiki/Beatmap) digne d'être [classée](/wiki/Beatmap_ranking_procedure#classée), y compris *beaucoup* de situations de niche que la majorité des mappeurs ne rencontrent jamais.
 
@@ -21,6 +23,7 @@ Les **critères de classement simplifiés** visent à donner aux mappeurs une pe
 ![](img/percent.png "Pourcentage de progression de la musique")
 :::
 
+- **Assurez-vous que tout ce qui se trouve dans la map est autorisé en termes de [permissions d'utilisation du contenu](/wiki/Rules/Content_usage_permissions#autorisations-de-l'artiste).**
 - **Les maps doivent durer au moins 30 secondes.**
 - **Les maps doivent se terminer autour de [80%](img/percent.png).** Si vous voulez terminer la map plus tôt, essayez de couper la musique.
 
@@ -110,7 +113,7 @@ Les **critères de classement simplifiés** visent à donner aux mappeurs une pe
 ![](img/delay.png "Fichier hitsound avec délai")
 :::
 
-- **Les fichiers hitsound doivent avoir une longueur de 25 ms et utiliser les formats de fichier `.wav` ou `.ogg`.**
+- **Les fichiers hitsound doivent avoir une longueur d'au moins 25 ms et utiliser les formats de fichier `.wav` ou `.ogg`.**
   - N'utilisez pas le format `.mp3`.
   - **Exception :** Utilisez [ce fichier](https://up.ppy.sh/files/blank.wav) pour les hitsounds silencieux.
 - **Les hitsounds ne doivent pas être [retardés](img/delay.png).**
@@ -134,7 +137,9 @@ Les **critères de classement simplifiés** visent à donner aux mappeurs une pe
 
 ## Spécifique à un mode
 
-*Pour les critères de classement spécifiques au [mode de jeu](/wiki/Game_mode), voir : [osu!](../osu!), [osu!taiko](../osu!taiko), [osu!catch](../osu!catch), et [osu!mania](../osu!mania)*
+::: alert-note
+**Remarque** : Pour les critères de classement spécifiques au [mode de jeu](/wiki/Game_mode), voir [osu!](../osu!), [osu!taiko](../osu!taiko), [osu!catch](../osu!catch), et [osu!mania](../osu!mania)
+:::
 
 ### osu!
 
@@ -178,7 +183,10 @@ Les **critères de classement simplifiés** visent à donner aux mappeurs une pe
 
 ## Interprétation de la musique
 
-*Remarque : cette section est basée sur des vues subjectives du mapping, et non sur les critères de classement.*
+::: alert-notice
+**Note**
+cette section est basée sur des vues subjectives du mapping, et non sur les critères de classement.
+:::
 
 **Chaque élément d'un mapping doit représenter la musique.**
 

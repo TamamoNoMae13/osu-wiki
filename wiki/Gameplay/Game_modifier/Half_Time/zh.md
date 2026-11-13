@@ -13,13 +13,14 @@ tags:
 
 ![HT 模组图标](/wiki/shared/mods/HT.png "Half Time (HT) 模组图标")
 
+*对于本文章的 [lazer](/wiki/Client/Release_stream/Lazer) 版本，参见：[Half Time（lazer 模组）](/wiki/Gameplay/Game_modifier/Half_Time_(lazer))*\
 *对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*
 
 ## 关于
 
 - 缩写：HT
 - 类别：降低难度
-- 得分系数：
+- 得分倍率：
   - ![][osu!] ![][osu!taiko] ![][osu!catch]: 0.30x
   - ![][osu!mania]: 0.50x
 - 默认快捷键：`E`
@@ -34,7 +35,7 @@ tags:
 
 ### osu!taiko
 
-在 [osu!taiko](/wiki/Game_mode/osu!taiko) 中，由于 AR 值降低，歌曲变慢与 BPM 的下降会使音符密度急剧增大。但由于转盘得分的计算方式中，打击得分不受[得分系数](/wiki/Gameplay/Game_modifier/Mod_multiplier)影响，现在完成转盘所需打击数增多，也会导致得到**与无模组相比更高的总得分**。
+在 [osu!taiko](/wiki/Game_mode/osu!taiko) 中，由于 AR 值降低，歌曲变慢与 BPM 的下降会使音符密度急剧增大。但由于转盘得分的计算方式中，打击得分不受[得分倍率](/wiki/Gameplay/Game_modifier/Mod_multiplier)影响，现在完成转盘所需打击数增多，也会导致得到**与无模组相比更高的总得分**。
 
 因此，使用此模组会导致含有极少连击、很多长时长转盘的谱面可获得最高分大于无模组时得分。当同时启用 [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) 模组时，效果会更加明显。
 

@@ -2,14 +2,16 @@
 
 L'**osu! wiki** est une base de données de connaissances open-source écrite et maintenue par des [contributeurs volontaires](https://github.com/ppy/osu-wiki/graphs/contributors). Il contient un large éventail d'informations sur des sujets liés à osu!, à sa communauté et à des activités et concepts connexes. Le wiki sert de source officielle d'information et est considéré comme une documentation de l'histoire d'osu!.
 
-Toutes les discussions qui concernent le wiki en général, son développement et les changements d'articles, ont lieu dans le salon de discussion `#osu-wiki` du serveur [osu!](/wiki/Community/osu!_Discord_server). Pour savoir comment vous pouvez aider l'osu! wiki, consultez les articles suivants :
+Toutes les discussions qui concernent le wiki en général, son développement et les changements d'articles, ont lieu dans le salon de discussion `#osu-wiki` du serveur [osu!](/wiki/Community/Discord_servers#officielle). Pour savoir comment vous pouvez aider l'osu! wiki, consultez les articles suivants :
 
 - [Guide de contribution](/wiki/osu!_wiki/Contribution_guide)
 - [Maintenance](/wiki/osu!_wiki/Maintenance)
 
 ## Histoire
 
-*Page principale : [Histoire de l'osu! wiki](/wiki/History_of_osu!/osu!_wiki)*
+::: alert-note
+**Page principale** : [Histoire de l'osu! wiki](/wiki/History_of_osu!/osu!_wiki)
+:::
 
 Les [premières tentatives](https://osu.ppy.sh/community/forums/posts/1175876) de création d'une base de connaissances structurée remontent à 2011, lorsque [peppy](/wiki/People/peppy) a mis en place une instance de [MediaWiki](https://fr.wikipedia.org/wiki/MediaWiki) pour toute personne désirant participer. Au fil des ans, la maintenance et l'exploitation de MediaWiki se sont avérées difficiles et pénibles, et le [26 août 2016](https://discord.com/channels/188630481301012481/218677502141399041/218678017659109376) peppy et une équipe de bénévoles ont commencé le processus de migration de l'osu! wiki vers GitHub, où il réside à ce jour. Le wiki a depuis été intégré au nouveau site web d'osu! et a reçu des mises à jour techniques et visuelles essentielles à une bonne expérience utilisateur.
 

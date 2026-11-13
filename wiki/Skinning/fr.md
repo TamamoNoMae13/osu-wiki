@@ -1,10 +1,17 @@
+---
+outdated_translation: true
+outdated_since: cd53f694f7e0e700e57857590002cd09e6a07e07
+---
+
 # Skinning
 
 Le skinning est l'une des principales caractéristiques d'osu!. Il permet aux joueurs de s'inspirer des éléments de skin originaux pour créer leur propre skin !. Les skins peuvent être amusants, à thème, PRO, ou il peut être pratiquement impossible de jouer avec.
 
 ## Sets de skinning
 
-*Page principale : [Liste de skins](/wiki/Ranking_criteria/Skin_set_list)*
+::: alert-note
+**Page principale** : [Liste de skins](/wiki/Ranking_criteria/Skin_set_list)
+:::
 
 **Pour les beatmaps uniquement**, si votre skin contient un seul élément des ensembles énumérés dans les critères de classement, il doit contenir tous les autres éléments de cet ensemble de skinning. Ceci ne s'applique qu'aux skins des beatmaps, mais d'autres skinneurs peuvent vouloir prendre en compte ces listes également.
 

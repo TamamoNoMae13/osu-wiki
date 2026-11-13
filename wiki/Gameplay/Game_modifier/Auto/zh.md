@@ -18,6 +18,7 @@ tags:
 
 ![AT 模组图标](/wiki/shared/mods/AT.png "Auto (AT) 模组图标")
 
+*对于本文章的 [lazer](/wiki/Client/Release_stream/Lazer) 版本，参见：[Autoplay（lazer 模组）](/wiki/Gameplay/Game_modifier/Autoplay_(lazer))*\
 *对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*\
 *请勿与 [Autopilot（模组）](/wiki/Gameplay/Game_modifier/Autopilot)混淆。*
 
@@ -25,14 +26,14 @@ tags:
 
 - 缩写：AT 或 AO
 - 类别：特殊
-- 得分系数：1.00x
+- 得分倍率：1.00x
 - 默认快捷键：`V`
 - 描述：`来看看精彩绝伦的自动表演。（按下切换到 Cinema ）`
 - 兼容的游戏模式：![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## 说明
 
-*注意：启用此模组会导致成绩不计入排名，也不会保存到本地排行榜。*
+*注意：启用此模组会导致成绩不计表现分，也不会保存到本地排行榜。*
 
 **Auto** [游戏模组](/wiki/Gameplay/Game_modifier)可以让玩家看看所选谱面完美的自动表演。
 

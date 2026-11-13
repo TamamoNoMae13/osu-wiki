@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 5fe4d3c2895e176f6f46995790db6b1435a3c599
+---
+
 # Installation sur macOS
 
 Cette page vous guidera pour installer osu! sur votre appareil macOS.
@@ -33,7 +38,7 @@ Si vous avez des difficultés à ouvrir osu!, les étapes suivantes peuvent vous
 
 ## osu!(lazer)
 
-[osu!(lazer)](/wiki/Client/Release_stream/Lazer) est le futur client de jeu d'osu! actuellement en développement. Si vous ne vous souciez pas de gagner des [points de performance](/wiki/Performance_points), il est recommandé de l'essayer. Pour l'installer, suivez les étapes suivantes :
+[osu!(lazer)](/wiki/Client/Release_stream/Lazer) est le futur client de jeu d'osu! actuellement en développement. Pour l'installer, suivez les étapes suivantes :
 
 1. Allez sur la [page de téléchargement d'osu!(lazer)](https://github.com/ppy/osu/releases/latest), téléchargez `osu!app.zip` et décompressez-le.
 2. Double-cliquez sur osu! et appuyez sur `Open` pour l'ouvrir.

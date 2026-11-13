@@ -15,21 +15,29 @@ tags:
   - mods libres
 ---
 
-# Modificador del juego
+# Modificadores del juego
 
-*Para otros usos, véase [Mod (desambiguación)](/wiki/Disambiguation/Mod).*
+::: alert-note
+**Nota:** Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
-![Pantalla de selección de mods](img/mod-selection-screen.jpg "comparación entre las pantallas de selección de mods de los modos de juego osu! (arriba a la izquierda), osu!taiko (arriba a la derecha), osu!catch (abajo a la izquierda) y osu!mania (abajo a la derecha)")
+::: alert-note
+**Nota:** Para otros usos de «mod», véase [Mod (desambiguación)](/wiki/Disambiguation/Mod)
+:::
 
-Los **modificadores del juego** (o «mods» para abreviar) son modificaciones opcionales de los elementos y ajustes de un [beatmap](/wiki/Beatmap) que los jugadores pueden habilitar desde la `Pantalla de selección de mods` (arriba). Los mods pueden hacer los beatmaps más fáciles, más difíciles o simplemente divertidos.
+![Pantalla del selector de mods](img/mod-selection-screen-ES.jpg "Comparación entre los selectores de mods de los modos de juego osu! (arriba a la izquierda), osu!taiko (arriba a la derecha), osu!catch (abajo a la izquierda) y osu!mania (abajo a la derecha)")
 
-Los jugadores pueden acceder a la `Pantalla de selección de mods` en la pantalla de selección de canciones haciendo clic en el botón `Mods` cerca de la esquina inferior izquierda de la pantalla o presionando `F1` en su teclado. Una vez en la `Pantalla de selección de mods`, también hay atajos de teclado que pueden ser usados para seleccionar mods específicos. Estos atajos pueden ser cambiados en Opciones.
+Los **modificadores del juego** (o «mods» para abreviar) son modificaciones opcionales de los elementos y ajustes de un [beatmap](/wiki/Beatmap) que los jugadores pueden habilitar desde el `Selector de mods` (arriba). Los mods pueden hacer los beatmaps más fáciles, más difíciles o simplemente divertidos.
 
-En la pantalla de selección, los mods se separan en tres categorías: `Reducción de dificultad`, `Aumento de dificultad`, y `Especiales`, y pueden reducir, aumentar o eliminar el [`multiplicador de puntuación`](/wiki/Gameplay/Game_modifier/Mod_multiplier). Cuando se usan dos mods simultáneamente, el multiplicador respectivo de los mods se multiplicará conjuntamente (por ejemplo, `1.06x * 1.12x = 1.1872x`).
+Los jugadores pueden acceder al `Selector de mods` desde el selector de canciones haciendo clic en el botón `Mods` cerca de la esquina inferior izquierda de la pantalla o presionando `F1` en su teclado. Una vez en el `Selector de mods`, también hay atajos de teclado que pueden ser usados para seleccionar mods específicos. Estos atajos pueden ser cambiados en las opciones.
+
+En la pantalla de selección, los mods se separan en tres categorías: `Menos dificultad`, `Más dificultad`, y `Especiales`, y pueden reducir, aumentar o eliminar el [`multiplicador de puntuación`](/wiki/Gameplay/Game_modifier/Mod_multiplier). Cuando se usan dos mods simultáneamente, el multiplicador respectivo de los mods se multiplicará conjuntamente (por ejemplo, `1,06x * 1,12x = 1,1872x`).
 
 ## Lista de mods
 
-*Véase también: [Resumen (Modificador del juego)](/wiki/Gameplay/Game_modifier/Summary)*
+::: alert-note
+**Véase también:** [Resumen de los modificadores del juego](/wiki/Gameplay/Game_modifier/Summary)
+:::
 
 Cada uno de los mods enumerados a continuación tendrá el icono de sus modos de juego compatibles (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) al lado.
 
@@ -62,11 +70,14 @@ Cada uno de los mods enumerados a continuación tendrá el icono de sus modos de
 - [Auto (AT)](/wiki/Gameplay/Game_modifier/Auto) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
   - [Cinema (CM)](/wiki/Gameplay/Game_modifier/Cinema) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [ScoreV2 (SV2)](/wiki/Gameplay/Game_modifier/ScoreV2) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice) ![][osu!] **Solo en Cutting Edge (Experimental)**
+- [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice) ![][osu!] **Solo disponible en Cutting Edge (Experimental)**
 
-### Otro
+### Otros
 
-*Nota: Estos mods se usaron y estaban disponibles hace algún tiempo, pero ahora no están disponibles.*
+::: alert-notice
+**Aviso**
+Estos mods se usaron y estaban disponibles hace algún tiempo, pero ahora no están disponibles.
+:::
 
 - [10K](/wiki/Gameplay/Game_modifier/10K) ![][osu!mania]
 - [Fade Out](/wiki/Gameplay/Game_modifier/Fade_Out) ![][osu!mania]

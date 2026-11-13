@@ -16,27 +16,31 @@ Numerous players have held rank #1 in each game mode under different ranking sys
 
 ## ![][osu!] osu!
 
-*Main page: [osu!](osu!)*
+::: alert-note
+**Main page:** [osu! rankings history](osu!)
+:::
 
-As of July 19, 2021, on the [osu! performance rankings](https://osu.ppy.sh/rankings/osu/performance) the rank #1 player is ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
+As of 11 July 2026, on the [osu! performance rankings](https://osu.ppy.sh/rankings/osu/performance) the rank #1 player is ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
 
 ## ![][osu!taiko] osu!taiko
 
 <!-- TODO: Add ranking history page similar to osu! -->
 
-As of October 9, 2023, on the [osu!taiko performance rankings](https://osu.ppy.sh/rankings/taiko/performance) the rank #1 player is ::{ flag=JP }:: [Majimanjiwwwww](https://osu.ppy.sh/users/12337864/taiko).
+As of 23 July 2026, on the [osu!taiko performance rankings](https://osu.ppy.sh/rankings/taiko/performance) the rank #1 player is ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko).
 
 ## ![][osu!catch] osu!catch
 
-<!-- TODO: Add ranking history page similar to osu! -->
+::: alert-note
+**Main page:** [osu!catch rankings history](osu!catch)
+:::
 
-As of June 7, 2021, on the [osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance) the rank #1 player is ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549/fruits).
+As of 15 September 2026, on the [osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance) the rank #1 player is ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283).
 
 ## ![][osu!mania] osu!mania
 
 <!-- TODO: Add ranking history page similar to osu! -->
 
-As of April 13, 2023, on the [osu!mania performance rankings](https://osu.ppy.sh/rankings/mania/performance) the rank #1 player is ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406/mania).
+As of 4 April 2026, on the [osu!mania performance rankings](https://osu.ppy.sh/rankings/mania/performance) the rank #1 player is ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

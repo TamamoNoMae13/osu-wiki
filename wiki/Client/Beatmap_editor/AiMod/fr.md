@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 0a9f09e47d80dd57fd7d0637886dc23e0343de9a
 ---
 
 # AiMod
@@ -23,7 +25,10 @@ Le développement d'AiMod est généralement en retard par rapport aux standards
 
 ## Messages
 
-*Remarque : Les chiffres entre crochets (par exemple `{0}`) sont des espaces réservés pour un nombre ou un mot.*
+::: alert-notice
+**Note**
+Les chiffres entre crochets (par exemple `{0}`) sont des espaces réservés pour un nombre ou un mot.
+:::
 
 ### Informatif
 
@@ -133,8 +138,8 @@ Le développement d'AiMod est généralement en retard par rapport aux standards
 | Message | Explication | Solution | Remarques |
 | :-- | :-- | :-- | :-- |
 | Le [stack leniency](/wiki/Beatmap/Stack_leniency) doit être compris entre 0,3 et 0,9. | Le curseur `Stack Leniency` dans la section Advanced de l'onglet [song setup](/wiki/Client/Beatmap_editor/Song_setup) est réglé sur moins de 3 ou plus de 9. | Réglez le curseur `Stack Leniency` de manière à ce qu'il soit compris entre 3 et 9. | Cet avertissement peut être ignoré sans risque si l'utilisation du stack leniency est prévue. |
-| Le nom romanisé de l'artiste contient des caractères Unicode. | Le champ `Romanised Artist` de la section General de l'onglet [song setup](/wiki/Client/Beatmap_editor/Song_setup) contient des [caractères Unicode non standard](https://en.wikipedia.org/wiki/List_of_Unicode_characters). | Romaniser le nom de l'artiste dans le champ `Romanised Artist` en suivant les [règles de standardisation des métadonnées des critères de classement](/wiki/Ranking_criteria#métadonnées). |  |
-| Le titre romanisé de la musique contient des caractères Unicode. | Le champ `Romanised Title` de la section Général de l'onglet [song setup](/wiki/Client/Beatmap_editor/Song_setup) contient des [caractères Unicode non standard](https://en.wikipedia.org/wiki/List_of_Unicode_characters). | Romanisez le nom du titre de la musique dans le champ `Romanised Title` en suivant les [règles de standardisation des métadonnées des critères de classement](/wiki/Ranking_criteria#métadonnées). |  |
+| Le nom romanisé de l'artiste contient des caractères Unicode. | Le champ `Romanised Artist` de la section General de l'onglet [song setup](/wiki/Client/Beatmap_editor/Song_setup) contient des [caractères Unicode non standard](https://en.wikipedia.org/wiki/List_of_Unicode_characters). | Romaniser le nom de l'artiste dans le champ `Romanised Artist` en suivant les [règles de standardisation des métadonnées des critères de classement](/wiki/Ranking_criteria/Metadata). |  |
+| Le titre romanisé de la musique contient des caractères Unicode. | Le champ `Romanised Title` de la section Général de l'onglet [song setup](/wiki/Client/Beatmap_editor/Song_setup) contient des [caractères Unicode non standard](https://en.wikipedia.org/wiki/List_of_Unicode_characters). | Romanisez le nom du titre de la musique dans le champ `Romanised Title` en suivant les [règles de standardisation des métadonnées des critères de classement](/wiki/Ranking_criteria/Metadata). |  |
 | Il est interdit de placer un compte à rebours en osu!mania. | *Auto-explicatif* | Décochez l'option `Enable countdown` dans la section Design de l'onglet [song setup](/wiki/Client/Beatmap_editor/Song_setup). | ![](/wiki/shared/mode/mania.png) maps osu!mania uniquement |
 | Il est interdit d'utiliser le format letterbox pendant les pauses en osu!mania. | *Auto-explicatif* | Décochez l'option `Letterbox during breaks` dans la section Design de l'onglet [song setup](/wiki/Client/Beatmap_editor/Song_setup). | ![](/wiki/shared/mode/mania.png) maps osu!mania uniquement |
 | Il est interdit de placer un compte à rebours en Taiko. | *Auto-explicatif* | Décochez l'option `Enable countdown` dans la section Design de l'onglet [song setup](/wiki/Client/Beatmap_editor/Song_setup). | ![](/wiki/shared/mode/taiko.png) maps osu!taiko uniquement. Bien que cet avertissement existe dans le jeu, AiMod ne l'affiche jamais car osu!taiko ne supporte pas les comptes à rebours. |
@@ -162,10 +167,10 @@ Le développement d'AiMod est généralement en retard par rapport aux standards
 | La beatmap doit contenir au moins une difficulté Easy ou Normal. | *Auto-explicatif* | Créez une difficulté Easy/Normal pour ce mapset. | Cet avertissement est basé sur une règle archaïque des critères de classement qui est devenue obsolète. Il peut donc être ignoré en toute sécurité tant que la map respecte le [critère de classement actuel](/wiki/Ranking_criteria#beatmap). |
 | La beatmap ne peut avoir de difficulté Insane sans une difficulté Hard. | *Auto-explicatif* | Créez une difficulté Hard pour ce mapset. | Cet avertissement est basé sur une règle archaïque des critères de classement qui est devenue obsolète. Il peut donc être ignoré en toute sécurité tant que la map respecte le [critère de classement actuel](/wiki/Ranking_criteria#beatmap). |
 | La beatmap requiert la difficulté suivante : {0} | *Auto-explicatif* | Créer la difficulté en question pour combler le manque de difficultés. | Cet avertissement est basé sur une règle archaïque des critères de classement qui est devenue obsolète. Il peut donc être ignoré en toute sécurité tant que la map respecte le [critère de classement actuel](/wiki/Ranking_criteria#beatmap). |
-| La beatmap doit contenir au minimum 2 difficultés en mode standard. | *Auto-explicatif* | Créer une deuxième difficulté pour ce mapset. | ![](/wiki/shared/mode/osu.png) maps osu! uniquement. Cet avertissement est basé sur une règle archaïque des critères de classement qui est devenue obsolète. Il peut donc être ignoré en toute sécurité tant que la map respecte le [critère de classement actuel](/wiki/Ranking_criteria#beatmap). |
-| La beatmap doit contenir au minimum 2 difficultés Taiko. | *Auto-explicatif* | Créer une deuxième difficulté pour ce mapset. | ![](/wiki/shared/mode/taiko.png) maps osu!taiko uniquement. Cet avertissement est basé sur une règle archaïque des critères de classement qui est devenue obsolète. Il peut donc être ignoré en toute sécurité tant que la map respecte le [critère de classement actuel](/wiki/Ranking_criteria#beatmap). |
-| La beatmap doit contenir au minimum 2 difficultés Catch the Beat. | *Auto-explicatif* | Créer une deuxième difficulté pour ce mapset. | ![](/wiki/shared/mode/catch.png) maps osu!catch uniquement. Cet avertissement est basé sur une règle archaïque des critères de classement qui est devenue obsolète. Il peut donc être ignoré en toute sécurité tant que la carte respecte les [critères de classement actuels] (/wiki/Ranking_criteria/osu!mania#règles). |
-| La beatmap doit contenir au minimum 2 difficultés osu!mania. | *Auto-explicatif* | Créer une deuxième difficulté pour ce mapset. | ![](/wiki/shared/mode/mania.png) maps osu!mania uniquement. Cet avertissement est basé sur une règle archaïque des critères de classement qui est devenue obsolète. Il peut donc être ignoré en toute sécurité tant que la map respecte le [critère de classement actuel](/wiki/Ranking_criteria#beatmap). |
+| La beatmap doit contenir au minimum 2 difficultés en mode standard. | *Auto-explicatif* | Créer une deuxième difficulté pour ce mapset. | ![](/wiki/shared/mode/osu.png) maps osu! uniquement. Cet avertissement est basé sur une règle archaïque des critères de classement qui est devenue obsolète. Il peut donc être ignoré en toute sécurité tant que la map respecte le [critère de classement actuel](/wiki/Ranking_criteria/osu!#règles). |
+| La beatmap doit contenir au minimum 2 difficultés Taiko. | *Auto-explicatif* | Créer une deuxième difficulté pour ce mapset. | ![](/wiki/shared/mode/taiko.png) maps osu!taiko uniquement. Cet avertissement est basé sur une règle archaïque des critères de classement qui est devenue obsolète. Il peut donc être ignoré en toute sécurité tant que la map respecte le [critère de classement actuel](/wiki/Ranking_criteria/osu!taiko#règles). |
+| La beatmap doit contenir au minimum 2 difficultés Catch the Beat. | *Auto-explicatif* | Créer une deuxième difficulté pour ce mapset. | ![](/wiki/shared/mode/catch.png) maps osu!catch uniquement. Cet avertissement est basé sur une règle archaïque des critères de classement qui est devenue obsolète. Il peut donc être ignoré en toute sécurité tant que la carte respecte les [critères de classement actuels](/wiki/Ranking_criteria/osu!catch#règles). |
+| La beatmap doit contenir au minimum 2 difficultés osu!mania. | *Auto-explicatif* | Créer une deuxième difficulté pour ce mapset. | ![](/wiki/shared/mode/mania.png) maps osu!mania uniquement. Cet avertissement est basé sur une règle archaïque des critères de classement qui est devenue obsolète. Il peut donc être ignoré en toute sécurité tant que la map respecte le [critère de classement actuel](/wiki/Ranking_criteria/osu!mania#règles). |
 
 ## Points faibles
 

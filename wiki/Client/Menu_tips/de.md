@@ -8,7 +8,7 @@ tags:
   - Hinweise
 ---
 
-<!-- For translators: to translate this page, select the corresponding language in stable and open `Localisation/XX.txt` in your osu! installation folder. Translation keys starting with MenuTip_ and EditorTip_ contain the respective translated tips. The lazer tips aren't localised yet, but it's ok to translate them here while noting that they don't have translations in-game. -->
+<!-- For translators: to translate this page, select the corresponding language in stable and open `Localisation/XX.txt` in your osu! installation folder. Translation keys starting with MenuTip_ and EditorTip_ contain the respective translated tips. The lazer tips are translated on Crowdin: https://crowdin.com/editor/osu-web/656/en-de -->
 
 # Menütipps
 
@@ -41,7 +41,7 @@ Diese Tipps erscheinen am unteren Rand des [Hauptmenüs](/wiki/Client/Interface#
 - Du kannst überall `F8` drücken, um den In-Game-Chat zu öffnen. Tippe `!help` oder `/help` ein, um eine Übersicht über die [verfügbaren Befehle](/wiki/Client/Interface/Chat_console#liste-an-chatbefehlen) zu erhalten.
 - Lege hin und wieder mal eine Pause ein und gönne deinen Augen und Händen eine Pause. Du könntest sie noch brauchen.
 - Ignoriere [nicht gerankte](/wiki/Beatmap/Category) Maps nicht einfach. Wenn du welche findest, die du magst, und [Verbesserungsvorschläge hinterlässt](/wiki/Modding), erhöhst du die Wahrscheinlichkeit, dass sie [gerankt](/wiki/Beatmap_ranking_procedure) wird!
-- Im [Multiplayer-Modus](/wiki/Client/Interface/Multiplayer) kannst du zusammen mit anderen spielen!
+- Im [Multiplayer-Modus](/wiki/Gameplay/Multiplayer) kannst du zusammen mit anderen spielen!
 - Hast du dich schon mal gefragt, woher die ganzen Spieler kommen? Drücke `F9` und bewege die Maus über ihr User-Panel!
 - Drücke `F5` in der Songauswahl, um neue Lieder in deinem Songs-Ordner zu importieren.
 - Wenn du `Shift` gedrückt hältst, während du mit `F12` einen Screenshot aufnimmst, wird er automatisch ins Internet hochgeladen.
@@ -90,7 +90,7 @@ Diese Tipps erscheinen im [Beatmap-Editor](/wiki/Client/Beatmap_editor) unter de
 
 ## osu!(lazer)
 
-Diese Tipps erscheinen unten im Hauptmenü von [osu!(lazer)](/wiki/Client/Release_stream/Lazer). Für diesen Artikel wurden die Tipps übersetzt, da sie im Spiel nur auf Englisch verfügbar sind.
+Diese Tipps erscheinen unten im Hauptmenü von [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 - Du kannst überall `Strg` + `T` drücken, um die Symbolleiste zu aktivieren oder zu deaktivieren!
 - Du kannst überall `Strg` + `O` drücken, um auf die Optionen zuzugreifen!
@@ -103,7 +103,7 @@ Diese Tipps erscheinen unten im Hauptmenü von [osu!(lazer)](/wiki/Client/Releas
 - Unterstützung für Multithreading bedeutet, dass selbst bei geringen "FPS" deine Eingaben und Beurteilungen präzise sein werden!
 - Probiere, in der Modauswahl nach rechts zu scrollen, um einen Haufen neuer spaßiger Mods zu entdecken!
 - Die meisten Webinhalte (Profile, Ranglisten etc.) sind über die Symbole in der Symbolleiste direkt im Spiel verfügbar!
-- Erhalte mehr Details, verstecke oder lösche eine Beatmap, indem du mit der rechten Maustaste auf ihr Dialogfeld in der Songauswahl klickst!
+- Klicke in der Songauswahl mit der rechten Maustaste auf das Dialogfeld einer Beatmap, um sie auszublenden, zu löschen oder um weitere Details zu erhalten!
 - Alle Löschoperationen sind bis zum Verlassen des Spiels nur vorübergehend. Stelle versehentlich gelöschte Inhalte in den Wartungseinstellungen wieder her!
 - Probiere das "Playlists"-System aus, das Nutzer ihre eigenen, bleibenden Bestenlisten kreieren lässt!
 - Mit `Strg` + `F11` kannst du Statistiken über Frames und Threads erhalten!
@@ -114,12 +114,15 @@ Diese Tipps erscheinen unten im Hauptmenü von [osu!(lazer)](/wiki/Client/Releas
 - Das Gameplay-HUD kann mit dem Skin-Editor angepasst werden. Öffne ihn jederzeit mit `Strg` + `Shift` + `S`!
 - Ziehe Bilder in den Skin-Editor, um sie schnell zu laden!
 - Durch Mod-Voreinstellungen gelangst du einfacher zu deinen bevorzugten Mod-Kombinationen!
-- Viele Mods haben Konfigurationseinstellungen, die ihre Funktionsweise drastisch ändern. Klicke in der Modauswahl auf den Button `Mod Customisation`, um die Einstellungen zu sehen!
-- Drücke `Strg` + `Shift` + `R`, um einen zufälligen Skin auszuwählen!
+- Viele Mods haben Konfigurationseinstellungen, die ihre Funktionsweise drastisch ändern. Klicke in der Modauswahl auf den Button `Personalisierung`, um die Einstellungen zu sehen!
+- Drücke `Strg` + `Shift` + `R`, um einen zufälligen Skin auszuwählen! Nutze `Strg` + `Shift` + `E` und `Strg` + `Shift` + `T`, um zwischen Skins zu wechseln.
 - Drücke `Strg` + `Shift` + `F` für die FPS-Anzeige. Aber lass dich nicht davon ablenken!
 - Drücke beim Ansehen eines Replays `Strg` + `H` für die Replay-Einstellungen!
 - Klicke mit der rechten Maustaste auf einen Score in der Rangliste, um dieselben Mods zu aktivieren!
 - `Strg` + `Eingabe` in der Songauswahl startet eine Beatmap im automatischen Modus!
+- "Lazer" ist kein englisches Wort. Das grelle Licht schreibt sich "laser".
+- Klicke mit der rechten Maustaste nahe dem Beatmap-Karussell, um schnell an eine absolute Position zu scrollen!
+- Klicke mit der Shift-Taste auf ein Beatmap-Panel in der Beatmap-Auflistung, um die Beatmap schnell herunterzuladen oder in der Songauswahl anzuzeigen!
 
 ## Siehe auch
 

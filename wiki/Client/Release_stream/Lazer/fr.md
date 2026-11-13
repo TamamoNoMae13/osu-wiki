@@ -13,12 +13,13 @@ tags:
 
 # Channel de mise à jour Lazer
 
-*Pour une liste des fonctionnalités de lazer et des questions courantes concernant le nouveau client, voir : [Centre d'aide/Mise à niveau vers lazer](/wiki/Help_centre/Upgrading_to_lazer)*\
-*Pour une liste des changements apportés aux mécanismes de jeu, voir : [Différences de gameplay dans osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer))*
+::: alert-note
+**Remarque** : Pour une liste des fonctionnalités de lazer et des questions courantes concernant le nouveau client, voir [Centre d'aide/Mise à niveau vers lazer](/wiki/Help_centre/Upgrading_to_lazer)
+:::
 
 ::: Infobox
 
-![](img/lazer.png?2024-01-30 "Le logo du client osu!(lazer).")
+![](img/lazer.png?2024-10-04 "Le logo du client osu!(lazer).")
 
 [Télécharger](https://osu.ppy.sh/home/download) • [Suivi des problèmes](https://github.com/ppy/osu/issues) • [Discussions](https://github.com/ppy/osu/discussions)
 

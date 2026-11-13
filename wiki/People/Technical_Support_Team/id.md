@@ -25,7 +25,10 @@ Daftar anggota tim dukungan teknis selengkapnya juga dapat dilihat pada [halaman
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
-| ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  |
-| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
+| ::{ flag=IT }:: [- Marco -](https://osu.ppy.sh/users/1273955) | Italia |
+| ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  |
+| ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  |
+| ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Korea, Jepang |
+| ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Jerman |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Tagalog |
-| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Spanyol |
+| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Polandia |

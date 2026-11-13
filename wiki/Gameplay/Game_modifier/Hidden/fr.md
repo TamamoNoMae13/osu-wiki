@@ -6,13 +6,18 @@ tags:
   - mod
   - game modifier
   - modificateur de jeu
+outdated_translation: true
+outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # Le mod Hidden
 
 ![Icône du mod HD](/wiki/shared/mods/HD.png "Icône du mod Hidden (HD)")
 
-*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Gameplay/Game_modifier)*\
+::: alert-note
+**Remarque** : Pour la liste complète de tous les mods, voir [modificateurs de jeu](/wiki/Gameplay/Game_modifier)
+:::
+
 *À ne pas confondre avec les mods [Fade In](/wiki/Gameplay/Game_modifier/Fade_In) et [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)*
 
 ## À propos

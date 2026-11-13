@@ -5,6 +5,8 @@ tags:
   - Easy
   - mod
   - game modifier
+outdated_translation: true
+outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # Easy (mod)
@@ -68,7 +70,7 @@ Di  [osu!mania](/wiki/Game_mode/osu!mania), efeknya sama seperti di osu!taiko, k
 ## Trivia
 
 - Saat menonton sebuah tayangan ulang di mana nyawa tambahan tersebut digunakan, tidak akan ada animasi pengisian ulang health dan tayangan ulang akan tetap berlanjut seolah-olah pemain sedang bermain menggunakan mod [No Fail](/wiki/Gameplay/Game_modifier/No_Fail).
-- Di mode [Multi](/wiki/Client/Interface/Multiplayer), efek "nyawa" tidak akan bekerja di mode tim [Tag Co-op atau Tag Team Vs.](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs).
+- Di mode [Multi](/wiki/Gameplay/Multiplayer), efek "nyawa" tidak akan bekerja di mode tim [Tag Co-op atau Tag Team Vs.](/wiki/Gameplay/Multiplayer#tag-co-op-/-tag-team-vs).
 - Mod Easy akan membatalkan mod [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) secara otomatis, dan sebaliknya.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

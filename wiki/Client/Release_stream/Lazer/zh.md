@@ -13,12 +13,11 @@ tags:
 
 # Lazer 发布版本
 
-*对于 lazer 版本的功能列表，以及关于新客户端的常见问题，参见：[帮助中心/升级到 lazer](/wiki/Help_centre/Upgrading_to_lazer)*\
-*对于游戏机制的改变列表，参见：[osu!(lazer) 功能变化](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer))*
+*对于 lazer 版本的功能列表，以及关于新客户端的常见问题，参见：[帮助中心/升级到 lazer](/wiki/Help_centre/Upgrading_to_lazer)*
 
 ::: Infobox
 
-![](img/lazer.png?2024-01-30 "osu!(lazer) 客户端的标志。")
+![](img/lazer.png?2024-10-04 "osu!(lazer) 客户端的标志。")
 
 [下载](https://osu.ppy.sh/home/download) • [问题跟踪](https://github.com/ppy/osu/issues) • [讨论](https://github.com/ppy/osu/discussions)
 

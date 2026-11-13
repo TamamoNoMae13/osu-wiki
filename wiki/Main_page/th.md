@@ -31,7 +31,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 [โหมดเกมต่าง ๆ](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[บีทแมพ](/wiki/Beatmap) • [โน้ต](/wiki/Gameplay/Hit_object) • [ม็อด](/wiki/Gameplay/Game_modifier) • [คะแนน](/wiki/Gameplay/Score) • [รีเพลย์](/wiki/Gameplay/Replay) • [การเล่นหลายคน](/wiki/Client/Interface/Multiplayer)
+[บีทแมพ](/wiki/Beatmap) • [โน้ต](/wiki/Gameplay/Hit_object) • [ม็อด](/wiki/Gameplay/Game_modifier) • [คะแนน](/wiki/Gameplay/Score) • [รีเพลย์](/wiki/Gameplay/Replay) • [การเล่นหลายคน](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -58,7 +58,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 # ชุมชน
 
-[ทัวร์นาเมนต์](/wiki/Tournaments) • [การทำสกิน](/wiki/Skinning) • [โปรเจคต่าง ๆ](/wiki/Community/Projects) • [ไกด์](/wiki/Guides) • [เซิร์ฟเวอร์ดิสคอร์ด osu!](/wiki/Community/osu!_Discord_server) • [คุณช่วยเราได้อย่างไร](/wiki/Community/How_you_can_help!) • [คำศัพท์](/wiki/Sitemap)
+[ทัวร์นาเมนต์](/wiki/Tournaments) • [การทำสกิน](/wiki/Skinning) • [โปรเจคต่าง ๆ](/wiki/Community/Projects) • [ไกด์](/wiki/Guides) • [เซิร์ฟเวอร์ดิสคอร์ด osu!](/wiki/Community/Discord_servers#official) • [คุณช่วยเราได้อย่างไร](/wiki/Community/How_you_can_help!) • [คำศัพท์](/wiki/Sitemap)
 
 องค์กร: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 

@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 2e4084ceec5bdfd409b082031957e3e4c5e778e7
 ---
 
 # Elite Nominators
@@ -20,13 +22,15 @@ Les Elite Nominators sont sélectionnés par la Nomination Assessment Team sur l
 
 - Le [titre d'utilisateur](/wiki/Community/User_title) Elite Nominator, qui dure 1 an jusqu'à la prochaine vague de Elite Nominator ou lorsque l'utilisateur quitte les Beatmap Nominators. Si un utilisateur obtient à nouveau le titre pour des années consécutives, le titre augmente de 1 ("Elite Nominator II", etc.).
 - Un [badge de profil](/wiki/Community/Profile_badge) Elite Nominator, qui est permanent.
-  ![](https://assets.ppy.sh/profile-badges/elite-nominator.png?2024 "Badge Elite Nominator") ![](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "Badge Elite Nominator II")
+  ![Badge Elite Nominator](https://assets.ppy.sh/profile-badges/elite-nominator.png?2024 "Badge Elite Nominator") ![Badge Elite Nominator II](https://assets.ppy.sh/profile-badges/elite-nominator-2.png "Badge Elite Nominator II") ![Badge Elite Nominator III](https://assets.ppy.sh/profile-badges/elite-nominator-3.png "Badge Elite Nominator III")
 
 ## Liste des Elite Nominators
 
 ### 2019
 
-*Pour le post de news, voir : [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
+::: alert-note
+**Remarque** : Pour le post de news, voir [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)
+:::
 
 | Nom | Mode de jeu |
 | :-- | :-- |
@@ -44,7 +48,9 @@ Les Elite Nominators sont sélectionnés par la Nomination Assessment Team sur l
 
 ### 2020
 
-*Pour le post de news, voir : [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
+::: alert-note
+**Remarque** : Pour le post de news, voir [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)
+:::
 
 | Nom | Mode de jeu |
 | :-- | :-- |
@@ -62,7 +68,9 @@ Les Elite Nominators sont sélectionnés par la Nomination Assessment Team sur l
 
 ### 2021
 
-*Pour le post de news, voir : [Community Contributors 2021: Elite Nominators](https://osu.ppy.sh/home/news/2022-03-22-community-contributors-elite-nominators)*
+::: alert-note
+**Remarque** : Pour le post de news, voir [Community Contributors 2021: Elite Nominators](https://osu.ppy.sh/home/news/2022-03-22-community-contributors-elite-nominators)
+:::
 
 | Nom | Mode de jeu |
 | :-- | :-- |
@@ -77,7 +85,7 @@ Les Elite Nominators sont sélectionnés par la Nomination Assessment Team sur l
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | osu!taiko |
 | ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649) | osu!taiko |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | osu!catch |
-| ::{ flag=US }:: [Nokashi](https://osu.ppy.sh/users/5431196) | osu!catch |
+| ::{ flag=GR }:: [Nokashi](https://osu.ppy.sh/users/5431196) | osu!catch |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | osu!mania |
 | ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065) | osu!mania |
 | ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229) | osu!mania |
@@ -85,7 +93,9 @@ Les Elite Nominators sont sélectionnés par la Nomination Assessment Team sur l
 
 ### 2022
 
-*Pour le post de news, voir : [Community Contributors 2022: Elite Nominators](https://osu.ppy.sh/home/news/2023-02-17-community-contributors-elite-nominators-2022)*
+::: alert-note
+**Remarque** : Pour le post de news, voir [Community Contributors 2022: Elite Nominators](https://osu.ppy.sh/home/news/2023-02-17-community-contributors-elite-nominators-2022)
+:::
 
 | Nom | Mode de jeu |
 | :-- | :-- |
@@ -106,7 +116,9 @@ Les Elite Nominators sont sélectionnés par la Nomination Assessment Team sur l
 
 ### 2023
 
-*Pour le post de news, voir : [Community Contributors 2023: Elite Nominators](https://osu.ppy.sh/home/news/2024-02-28-community-contributors-elite-nominators-2023)*
+::: alert-note
+**Remarque** : Pour le post de news, voir [Community Contributors 2023: Elite Nominators](https://osu.ppy.sh/home/news/2024-02-28-community-contributors-elite-nominators-2023)
+:::
 
 | Nom | Mode de jeu |
 | :-- | :-- |
@@ -126,3 +138,29 @@ Les Elite Nominators sont sélectionnés par la Nomination Assessment Team sur l
 | ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | osu!mania |
 | ::{ flag=KR }:: [Furryswan](https://osu.ppy.sh/users/9555243) | osu!mania |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) | osu!mania |
+
+### 2024
+
+::: alert-note
+**Remarque** : Pour le post de news, voir [Community Contributors 2024: Elite Nominators](https://osu.ppy.sh/home/news/2025-03-24-community-contributors-elite-nominators-2024)
+:::
+
+| Nom | Mode de jeu |
+| :-- | :-- |
+| ::{ flag=US }:: [Aeril](https://osu.ppy.sh/users/4334976) | osu! |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | osu! |
+| ::{ flag=US }:: [Ascended](https://osu.ppy.sh/users/4564285) | osu! |
+| ::{ flag=US }:: [Gorou](https://osu.ppy.sh/users/12157130) | osu! |
+| ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | osu! |
+| ::{ flag=ZA }:: [Mattay](https://osu.ppy.sh/users/9748303) | osu! |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | osu! |
+| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | osu! |
+| ::{ flag=SG }:: [_gt](https://osu.ppy.sh/users/8301957) | osu!taiko |
+| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | osu!taiko |
+| ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579) | osu!taiko |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | osu!catch |
+| ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | osu!mania |
+| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | osu!mania |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | osu!mania |
+| ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604) | osu!mania |
+| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | osu!mania |

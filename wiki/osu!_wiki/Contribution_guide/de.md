@@ -4,7 +4,7 @@ Danke für dein Interesse, das osu!-Wiki besser zu machen! Dieser Artikel besch�
 
 Von neuen Mitwirkenden wird nicht erwartet, dass sie sich mit GitHub oder [git](https://git-scm.com/) auskennen, da diese Werkzeuge hauptsächlich für Entwickler gedacht sind. Mache dir keine Sorgen, wenn du es beim ersten Mal nicht hinbekommst — ein [Wiki-Betreuer](/wiki/People/osu!_wiki_maintainers) wird dich entweder in die richtige Richtung weisen oder es für dich beheben.
 
-Falls du irgendwann Tipps oder Hilfe benötigst, zögere nicht, im Kanal `#osu-wiki` des [osu! Discord-Servers](/wiki/Community/osu!_Discord_server) zu fragen.
+Falls du irgendwann Tipps oder Hilfe benötigst, zögere nicht, im Kanal `#osu-wiki` des [osu! Discord-Servers](/wiki/Community/Discord_servers#offiziell) zu fragen.
 
 ## Wichtige Bereiche
 
@@ -12,7 +12,9 @@ Wenn du helfen möchtest, aber nicht weißt, wo du anfangen kannst, siehe [Verwa
 
 ## Das Wiki editieren
 
-*Für einen allgemeinen Beteiligungsprozess, siehe [GitHub flow - GitHub Docs](https://docs.github.com/en/get-started/quickstart/github-flow)*
+::: alert-note
+**Anmerkung:** Für einen allgemeinen Beteiligungsprozess, siehe [GitHub flow - GitHub Docs](https://docs.github.com/en/get-started/quickstart/github-flow)
+:::
 
 Die Artikel des osu!-Wikis werden auf [GitHub][osu_wiki] gespeichert. Um etwas beizutragen, mache das Folgende:
 
@@ -50,7 +52,7 @@ Alle Änderungen des osu!-Wikis werden moderiert. Während dieser Phase weisen a
 Wenn sich nach einigen Tagen niemand gemeldet hat, versuche folgendes:
 
 - Stelle sicher, dass du auf alle Vorschläge eingegangen bist — es könnten Personen auf deine Antwort warten.
-- Frage andere Beteiligte im [osu! Discord-Server](/wiki/Community/osu!_Discord_server) (Kanal `#osu-wiki`) oder in den GitHub-Kommentaren.
+- Frage andere Beteiligte im [osu! Discord-Server](/wiki/Community/Discord_servers#offiziell) (Kanal `#osu-wiki`) oder in den GitHub-Kommentaren.
 - Schaue dir einige genehmigte Änderungsanfragen für deine Sprache an und kontaktiere ihre Gutachter und/oder Autoren, um Hilfe für die Übersetzung zu bekommen ([beispielhafte GitHub-Abfrage](https://github.com/ppy/osu-wiki/pulls?q=is:pr+is:merged+[ID])).
 - Frage deine Freunde nach einem kurzen Blick!
 
@@ -58,6 +60,6 @@ Zusätzlich zu einem manuellen Bewertungsprozess hat das Repository des osu!-Wik
 
 ## Zusammenführung
 
-Deine Änderungen werden irgendwann von einem der [Wiki-Verantwortlichen](/wiki/People/osu!_wiki_maintainers) überprüft, normalerweise nach Bewertungen von anderen Mitwirkenden. Sollte nach einer angemessenen Zeitspanne nichts passiert sein, frage in den Kommentaren der Änderungsanfrage oder im Kanal `#osu-wiki` des [osu! Discord-Servers](/wiki/Community/osu!_Discord_server) nach. Deine Änderungen werden im osu!-Wiki kurz nach der Zusammenführung (Merge) erscheinen (in seltenen Fällen kann dies bis zu fünf Stunden dauern).
+Deine Änderungen werden irgendwann von einem der [Wiki-Verantwortlichen](/wiki/People/osu!_wiki_maintainers) überprüft, normalerweise nach Bewertungen von anderen Mitwirkenden. Sollte nach einer angemessenen Zeitspanne nichts passiert sein, frage in den Kommentaren der Änderungsanfrage oder im Kanal `#osu-wiki` des [osu! Discord-Servers](/wiki/Community/Discord_servers#offiziell) nach. Deine Änderungen werden im osu!-Wiki kurz nach der Zusammenführung (Merge) erscheinen (in seltenen Fällen kann dies bis zu fünf Stunden dauern).
 
 [osu_wiki]: https://github.com/ppy/osu-wiki

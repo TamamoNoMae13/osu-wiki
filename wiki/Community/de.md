@@ -7,12 +7,15 @@ Diese Seite listet Möglichkeiten für Menschen aus der gesamten osu!-Community 
 - [Community-Discord-Server](/wiki/Community/Discord_servers)
 - [Forum](/wiki/Community/Forum)
 - [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat) (IRC)
-- [osu! Discord-Server](/wiki/Community/osu!_Discord_server)
 - [Offline-Organisationen](/wiki/Community/Organisations)
+- [osu! Discord-Server](/wiki/Community/Discord_servers#offiziell)
+- [Reddit](/wiki/Community/Reddit)
 
 ## Projekte
 
-*Siehe auch: [Liste aller Projekte](/wiki/Community/Projects)*
+::: alert-note
+**Siehe auch:** [Liste aller Projekte](/wiki/Community/Projects)
+:::
 
 - [Community-Mentorenprogramm](/wiki/Community/Community_Mentorship_Program)
 - [Mappers' Guild](/wiki/Community/Mappers_Guild)
@@ -22,9 +25,18 @@ Diese Seite listet Möglichkeiten für Menschen aus der gesamten osu!-Community 
 
 ## Initiativen
 
+- [Events für Beatmap-Nominatoren](/wiki/Community/Beatmap_Nominator_events)
+- [cavoes osu!-Event](/wiki/Community/cavoe's_osu!_event)
+- [Moskau osu!-Event](/wiki/Community/Moscow_osu!_Event)
 - [osu! Community Meetings](/wiki/Community/osu!_community_meetings)
 - [osu! Talk-Event](/wiki/Community/osu!_Talk_Event)
+
+## Medien
+
+- [Für osu! produzierte Musik](/wiki/Community/Bespoke_music)
+- [Manga](/wiki/Community/Manga)
 - [Videoserien](/wiki/Community/Video_series)
+  - [lazer updates](/wiki/Community/Video_series/lazer_updates)
   - [osu!academy](/wiki/Community/Video_series/osu!academy)
   - [osu!mapping](/wiki/Community/Video_series/osu!mapping)
   - [osu!talk](/wiki/Community/Video_series/osu!talk)

@@ -1,5 +1,7 @@
 ---
 no_native_review_since: 5539d9e8c943605a7be186dc3f5ab10569275b05 Doryan
+outdated_translation: true
+outdated_since: 48621bd576c5475dfa6813ae6e553f3ace8f6e1c
 ---
 
 # Project Loved
@@ -41,7 +43,7 @@ Bien que de nombreuses beatmaps unranked répondent à ces critères, peu d'entr
 
 Dans certains cas, les beatmaps peuvent être nominés même s'ils ne respectent pas certains critères, à condition que le mappeur puisse les mettre à jour pour qu'ils respectent les critères avant d'être Loved. Par exemple, une beatmap avec un arrière-plan inapproprié peut être nominée à condition que l'arrière-plan soit supprimé ou remplacé par la suite. Un contributeur actif du projet Loved postera généralement sur la [discussion](/wiki/Beatmap_discussion) de la beatmap si des changements sont nécessaires.
 
-En complément, les contributeurs au Project Loved font souvent des suggestions techniques, telles que des améliorations de la qualité audio, du [timing](/wiki/Beatmapping/Timing), ou de la [standardisation des métadonnées recommandée par les critères de classement](/wiki/Ranking_criteria#métadonnées). Le mappeur est fortement encouragé à appliquer ces suggestions, mais il n'est pas tenu de le faire.
+En complément, les contributeurs au Project Loved font souvent des suggestions techniques, telles que des améliorations de la qualité audio, du [timing](/wiki/Beatmapping/Timing), ou de la [standardisation des métadonnées recommandée par les critères de classement](/wiki/Ranking_criteria/Metadata). Le mappeur est fortement encouragé à appliquer ces suggestions, mais il n'est pas tenu de le faire.
 
 ### Critères spécifiques à osu!
 

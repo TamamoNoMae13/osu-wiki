@@ -41,7 +41,7 @@ osu!を始めるための重要なガイドです。何か問題が発生した�
 
 [ゲームモード](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[ビートマップ](/wiki/Beatmap) • [難易度](/wiki/Beatmap/Difficulty) • [ヒットオブジェクト](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [スコア](/wiki/Gameplay/Score) • [リプレイ](/wiki/Gameplay/Replay) • [メダル](/wiki/Medals) • [マルチプレイ](/wiki/Client/Interface/Multiplayer)
+[ビートマップ](/wiki/Beatmap) • [難易度](/wiki/Beatmap/Difficulty) • [ヒットオブジェクト](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [スコア](/wiki/Gameplay/Score) • [リプレイ](/wiki/Gameplay/Replay) • [メダル](/wiki/Medals) • [マルチプレイ](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -126,7 +126,7 @@ osu!は、開発、メンテナンス、コミュニティ管理に協力する�
 
 他のアプリケーションやサイトを通してosu!と交流しましょう。
 
-[API](/wiki/osu!api) • [ボットアカウント](/wiki/Bot_account) • [ブランド アイデンティティ ガイドライン](/wiki/Brand_identity_guidelines) • [osu!開発者向けディスコードサーバー](/wiki/Community/osu!_Discord_server)
+[API](/wiki/osu!api) • [ボットアカウント](/wiki/Bot_account) • [ブランド アイデンティティ ガイドライン](/wiki/Brand_identity_guidelines) • [osu!開発者向けディスコードサーバー](/wiki/Community/Discord_servers#official)
 
 </div>
 <div class="wiki-main-page-panel">

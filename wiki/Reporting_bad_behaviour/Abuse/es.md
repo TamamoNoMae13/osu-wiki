@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: e7163973aa4c854dcc0455e3f696b608bf0852f7
+---
+
 # Reportar abuso
 
 ## No sé si debería reportar esto o no
@@ -28,11 +33,11 @@ Si sientes que los comentarios/avances fueron altamente inapropiados o si eres u
 
 ### En una publicación dentro de los foros de osu!
 
-[Reporta la publicación](/wiki/Reporting_bad_behaviour#foro) a nuestro [equipo de moderación global](/wiki/People/Global_Moderation_Team) lo antes posible.
+[Reporta la publicación](/wiki/Reporting_bad_behaviour#foros) a nuestro [equipo de moderación global](/wiki/People/Global_Moderation_Team) lo antes posible.
 
 Para hacerlo, haz clic en el botón `Reportar publicación` en la esquina superior derecha de la publicación del foro.
 
-Alternativamente, haz clic en el nombre de usuario de cualquier miembro del equipo de moderadores en la lista de esa página. Esto te llevará a su perfil. Si no estás seguro de a quién hacer clic, simplemente usa [este enlace](https://osu.ppy.sh/users/102335).
+Alternativamente, haz clic en el nombre de usuario de cualquier miembro del equipo de moderadores en la lista de esa página. Esto te llevará a su perfil. Si no estás seguro de a quién hacer clic, simplemente usa [este enlace](https://osu.ppy.sh/users/5999631).
 
 Haz clic en el botón con una carta justo debajo de la bandera del país del usuario. Esto te llevará a la pantalla del chat.
 
@@ -48,7 +53,7 @@ Después, contacta a los administradores del servidor de inmediato buscando en l
 
 Si el abuso continúa y los administradores no hacen nada al respecto, [por favor notifica al equipo de Confianza y seguridad de Discord](https://dis.gd/request).
 
-Adicionalmente, si conoces el nombre de usuario de osu! de la persona que está molestándote, por favor envía un correo a [abuse@ppy.sh](mailto:abuse@ppy.sh) conteniendo la mayor cantidad posible de información y este será investigado prontamente.
+Si sabes el nombre de usuario de osu! de la persona que te está molestando, envía un correo a [abuse@ppy.sh](mailto:abuse@ppy.sh) con toda la información posible y se investigará en la medida de lo posible. Ten en cuenta que no podemos actuar sobre el contenido en los servicios de terceros, por lo que no hay garantía de que tomemos medidas, pero mantendremos toda la información en nuestros archivos.
 
 ### En un Twitter enlazado a un perfil de osu!
 
@@ -58,7 +63,7 @@ Después, puedes ya sea bloquear o silenciar al usuario en cuestión haciendo cl
 
 Por favor, ten en cuenta que la persona será capaz de ver que la has bloqueado si es que ellos revisan tu perfil de Twitter. Si estás preocupado de que esto hará que el problema sea peor en otra parte, silénciala en vez de bloquearla. Esto quitará sus tuits de tu línea de tiempo y evitará que veas más contenido de ellos, pero ellos aún serán capaces de ver y comentar en todos los tuits que hagas.
 
-Si el tuit proviene de una cuenta que está enlazada al perfil de osu! a través de nuestra página (aparecerá debajo de su avatar y fecha de registro al lado de un icono con estilo de un pájaro), por favor envía un correo a [abuse@ppy.sh](mailto:abuse@ppy.sh) conteniendo una copia del tuit en forma de imagen donde sea posible y cualquier otra información en la que puedas pensar.
+Si sabes el nombre de usuario de osu! de la persona que te está molestando, envía un correo a [abuse@ppy.sh](mailto:abuse@ppy.sh) con toda la información posible y se investigará en la medida de lo posible. Ten en cuenta que no podemos actuar sobre el contenido en los servicios de terceros, por lo que no hay garantía de que tomemos medidas, pero mantendremos toda la información en nuestros archivos.
 
 ## ¡Un miembro de uno de los equipos voluntarios (NAT, GMT) está acercándose/hablándome/actuando de manera inapropiada hacia mí!
 

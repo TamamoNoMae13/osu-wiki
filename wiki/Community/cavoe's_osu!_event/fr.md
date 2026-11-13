@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 5493ae9da7526098c93902afc0eefe9e5e733242
+---
+
 # cavoe's osu! event
 
 ::: Infobox
@@ -21,6 +26,7 @@
 - COE 2019
 - COE 2022
 - [COE 2023](2023)
+- [COE 2024](2024)
 
 ## Liens
 

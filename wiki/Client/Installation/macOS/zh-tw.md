@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 5fe4d3c2895e176f6f46995790db6b1435a3c599
 ---
 
 # 在 macOS 上安裝
@@ -37,7 +39,7 @@ macOS 版本的 osu! 可能會有一些畫面上的 bug 及效能問題。遊戲
 
 ## osu!(lazer)
 
-[osu!(lazer)](/wiki/Client/Release_stream/Lazer) 是未來將使用的遊戲客戶端，但目前仍在開發階段。如果您不在乎賺取 [pp](/wiki/Performance_points) 的話，那我們建議您試試。以下是安裝步驟：
+[osu!(lazer)](/wiki/Client/Release_stream/Lazer) 是未來將使用的遊戲客戶端，但目前仍在開發階段。以下是安裝步驟：
 
 1. 前往[osu!(lazer) 下載頁面](https://github.com/ppy/osu/releases/latest)，下載`osu!.app.zip` 並解壓縮。
 2. 在 osu! 上點擊兩次左鍵並按下 `Open` 按鈕以開啟。

@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_since: 17a70f697c1315b87938b74b3cf43b9649a5a8fb
+outdated_translation: true
 ---
 
 # Onglet Compose
@@ -18,7 +20,9 @@ L'éditeur partage les mêmes outils entre osu!, osu!taiko, et osu!catch, tandis
 
 ## Caractéristiques
 
-*Pour un aperçu général du processus de mapping, voir : [Beatmapping](/wiki/Beatmapping)*
+::: alert-note
+**Remarque** : Pour un aperçu général du processus de mapping, voir [Beatmapping](/wiki/Beatmapping)
+:::
 
 ### Timeline de l'objet
 
@@ -117,13 +121,17 @@ En bas à droite, la vitesse de lecture peut être réglée sur 25 %, 50 %, 75 %
 
 ## Caractéristiques (osu!mania)
 
-*Pour les tutoriels de map osu!mania sur le forum, voir : [[Tutorial] osu!mania mapping, Basics](https://osu.ppy.sh/community/forums/topics/118868), [[Tutorial] osu!mania mapping, Keysounding](https://osu.ppy.sh/community/forums/topics/139139)*
+::: alert-note
+**Remarque** : Pour les tutoriels de map osu!mania sur le forum, voir [[Tutorial] osu!mania mapping, Basics](https://osu.ppy.sh/community/forums/topics/118868), [[Tutorial] osu!mania mapping, Keysounding](https://osu.ppy.sh/community/forums/topics/139139)
+:::
 
 L'éditeur spécifique à osu!mania présente quelques différences par rapport aux autres modes de jeu, qui sont abordées dans cette section.
 
 ### Diviseur de mesure
 
-*Article principal : [Diviseur de mesure](/wiki/Client/Beatmap_editor/Beat_snap_divisor)*
+::: alert-note
+**Page principale** : [Diviseur de mesure](/wiki/Client/Beatmap_editor/Beat_snap_divisor)
+:::
 
 ![](img/beat-snap-divisor-mania-FR.jpg?1 "Le diviseur de mesure dans osu!mania")
 
@@ -154,7 +162,9 @@ Dans osu!mania, la zone du diviseur de mesure montre également le nom et le niv
 
 #### Couleurs
 
-*Voir également : [Diviseur de mesure](/wiki/Client/Beatmap_editor/Beat_snap_divisor)*
+::: alert-note
+**Voir également** : [Diviseur de mesure](/wiki/Client/Beatmap_editor/Beat_snap_divisor)
+:::
 
 | Couleur de la ligne | Description |
 | :-- | :-- |
@@ -191,16 +201,18 @@ La partie gauche de la fenêtre sample import répertorie tous les échantillons
 | :-- | :-- |
 | `Play` | Joue l'échantillon sélectionné. |
 | `Import` | Ajoute d'autres échantillons au dossier de la beatmap à partir d'autres emplacements. |
-| `Sample` | Ajoute l'échantillon sélectionné en tant [qu'événement audio du storyboard](/wiki/Storyboard/Scripting/Audio) à l'heure actuelle. |
+| `Delete` | Supprime le fichier audio. |
 | `Apply` | Applique l'échantillon sélectionné à la note sélectionnée. |
-| `Sample` | Ajoute l'échantillon sélectionné en tant qu'événement du storyboard à l'heure actuelle. |
+| `Sample` | Ajoute l'échantillon sélectionné en tant [qu'événement audio du storyboard](/wiki/Storyboard/Scripting/Audio) à l'heure actuelle. |
 | `Sample list` | Affiche [les événements sonores dans le storyboard](#sample-events-list). |
 | `Reset` | Supprime l'échantillon personnalisé de la note sélectionnée. |
 | `Cancel` | Ferme la fenêtre. |
 
 #### Sample events list
 
-*Voir également : [Échantillons audio d'un storyboard](/wiki/Storyboard/Scripting/Audio)*
+::: alert-note
+**Voir également** : [Échantillons audio d'un storyboard](/wiki/Storyboard/Scripting/Audio)
+:::
 
 ![](img/sample-event-list.jpg "Fenêtre sample events list")
 

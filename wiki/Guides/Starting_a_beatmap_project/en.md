@@ -1,6 +1,9 @@
 # How to start a beatmap project
 
-*Notice: This article is about the [Beatmap Projects](https://osu.ppy.sh/community/forums/53) forum section and how to approach it. Make sure to read its [forum rules](https://osu.ppy.sh/community/forums/topics/453937) before posting.*
+::: alert-notice
+**Notice**
+This article is about the [Beatmap Projects](https://osu.ppy.sh/community/forums/53) forum section and how to approach it. Make sure to read its [forum rules](https://osu.ppy.sh/community/forums/topics/453937) before posting.
+:::
 
 ## Making an informative thread title
 
@@ -34,7 +37,7 @@ Examples:
 - [\[Album\] Anamanaguchi - Scott Pilgrim vs The World (the game)](https://osu.ppy.sh/community/forums/topics/37908)
 - [\[Album\] Daft Punk - Random Access Memories](https://osu.ppy.sh/community/forums/topics/132592)
 
-**Collab:** Creating a [group-mapping project](/wiki/Beatmap/Beatmap_collaborations) for a certain song. May range from [storyboard](/wiki/Storyboard) request to mapping parts of a [marathon map](/wiki/Beatmap/Marathon). These may range from [storyboard](/wiki/Storyboard) requests to mapping parts of a [marathon map](/wiki/Beatmap/Marathon).
+**Collab:** Creating a [group-mapping project](/wiki/Beatmap/Beatmap_collaborations) for a certain song. May range from [storyboard](/wiki/Storyboard) request to mapping parts of a [marathon map](/wiki/Beatmap/Marathon).
 
 Example:
 

@@ -2,6 +2,7 @@
 layout: post
 title: Featured Artist Beatmap Updates from the Mappers' Guild
 date: 2020-11-20 06:00:00 +0000
+series: mappers_guild
 ---
 
 New beatmap packs! New medals! And new quests! Learn how mapping and Featured Artists collide through the Mappers' Guild.
@@ -183,7 +184,7 @@ This quest was completed by **[Cynplytholowazy](https://osu.ppy.sh/users/3901754
 
 These beatmaps were featured in the [kiraku featured artist announcement](https://osu.ppy.sh/home/news/2020-09-26-new-featured-artist-kiraku)!
 
-![MBC banner](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![MBC banner](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 For each **MBC finalists** quest, the mappers had to create and rank at least 1 mapset of any submission that reached the voting or judging stage in its respective month.
 

@@ -2,6 +2,7 @@
 layout: post
 title: Bespoke Music in osu!
 date: 2024-03-20 06:00:00 +0000
+series: miscellaneous
 ---
 
 Delve into the origins and behind-the-scenes of how a music scene has not-so-quietly taken shape within osu!.
@@ -30,7 +31,7 @@ It means that osu! originals don't only refer to songs commissioned by the osu! 
 
 ![](/wiki/shared/news/2024-03-20-bespoke-music-in-osu/fa-listing-original-label.png)
 
-You can peruse all of the **478 osu! originals** over in the [osu! originals wiki article](/wiki/osu!_originals). If you're an artist or event organiser and don't see your songs in there, please [reach](/wiki/Community/osu!_Discord_server) [out](https://osu.ppy.sh/users/5773079)!
+You can peruse all of the **478 osu! originals** over in the [osu! originals wiki article](/wiki/osu!_originals). If you're an artist or event organiser and don't see your songs in there, please [reach](/wiki/Community/Discord_servers#official) [out](https://osu.ppy.sh/users/5773079)!
 
 ## osu! World Cups
 

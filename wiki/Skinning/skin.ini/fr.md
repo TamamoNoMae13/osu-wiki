@@ -1,10 +1,14 @@
 ---
 no_native_review: true
+outdated_since: dcec646e6b02b2ecbfddc15077ee9c6ed142fbd0
+outdated_translation: true
 ---
 
 # skin.ini
 
-*Voir également : [skin.ini/Vierge](/wiki/Skinning/skin.ini/Blank)*
+::: alert-note
+**Voir également** : [skin.ini/Vierge](/wiki/Skinning/skin.ini/Blank)
+:::
 
 Le `skin.ini` est un fichier d'initialisation qui se trouve dans presque tous les dossiers de skin.
 Ce fichier définit comment osu! va afficher certains éléments du skin.
@@ -93,7 +97,7 @@ Si votre `skin.ini` ne spécifie pas de `Version`, il prendra par défaut cette 
 **Permet de skinner des flèches par type**
 
 - Ajout de `arrow-generic.png`, `arrow-warning.png` et `arrow-pause.png`.
-- Suppression de `play-warningarrow.png`.
+- Supprime `play-warningarrow.png` en faveur de ce qui précède.
 
 ### 2.7
 
@@ -261,7 +265,10 @@ os ! organise les commandes avec une commande d'en-tête. Ce qui peut ressembler
 
 ## \[Colours\]
 
-*Note : cet en-tête **doit** être orthographié **`[Colours]`**, et non `[Colors]`!*
+::: alert-notice
+**Note**
+cet en-tête **doit** être orthographié **`[Colours]`**, et non `[Colors]`!
+:::
 
 - `Combo1:`
   - Question : Quelle est la couleur utilisée pour le dernier combo ?

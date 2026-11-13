@@ -13,6 +13,7 @@ tags:
 
 ![PF 模组图标](/wiki/shared/mods/PF.png "Perfect (PF) 模组图标")
 
+*对于本文章的 [lazer](/wiki/Client/Release_stream/Lazer) 版本，参见：[Perfect（lazer 模组）](/wiki/Gameplay/Game_modifier/Perfect_(lazer))*\
 *对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*\
 *另见：[Sudden Death（模组）](/wiki/Gameplay/Game_modifier/Sudden_Death)*
 
@@ -20,7 +21,7 @@ tags:
 
 - 缩写：PF
 - 类别：增加难度
-- 得分系数：1.00x
+- 得分倍率：1.00x
 - 默认快捷键：`S` `S` 或 `Shift` + `S`
 - 描述：`不SS，便重试。`
 - 兼容的游戏模式：![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]

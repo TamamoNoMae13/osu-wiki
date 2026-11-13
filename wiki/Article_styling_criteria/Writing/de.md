@@ -1,12 +1,12 @@
 ---
 no_native_review: true
-outdated_translation: true
-outdated_since: 8aa57cbb842da61dbfc63dad509f4eed34e1066c
 ---
 
 # Schrift
 
-*Für die Formatierungsstandards, siehe: [Artikelgestaltungskriterien/Formatierung](../Formatting)*
+::: alert-note
+**Anmerkung:** Für die Formatierungsstandards, siehe [Artikelgestaltungskriterien/Formatierung](../Formatting)
+:::
 
 Dieser Artikel betrifft die Schriftstandards für Deutsch. Verweise auf die englische Version dieser Seite für die Schriftstandards für englische Artikel.
 
@@ -102,12 +102,14 @@ Der Chat `#spanish` ist für alle, die Spanisch sprechen.
 Eigennamen müssen großgeschrieben werden. Im Folgenden ein Beispiel:
 
 ```markdown
-Dean Herbert (auch bekannt als peppy) erschuf osu! in 2007.
+Dean Herbert (auch bekannt als peppy) erschuf osu! im Jahr 2007.
 ```
 
 ### Markenzeichen
 
-*Für Regeln bezogen auf osu!, siehe: [osu!](#osu!)*
+::: alert-note
+**Anmerkung:** Für Regeln bezogen auf osu!, siehe [osu!](#osu!)
+:::
 
 Die folgenden Marken müssen wie folgt geschrieben werden (Schreibweise muss übereinstimmen):
 
@@ -219,8 +221,8 @@ Manche Wörter haben Varianten. Ihre bevorzugte Schreibweise ist wie folgt:
 
 Diese Worte müssen wie folgt verwendet werden (der Abstand muss übereinstimmen):
 
-- `NoMods`, `NoMod` oder `NM`
-- `FreeMods`, `FreeMod` oder `FM`
+- `No Mod` oder `NM`
+- `Free Mod` oder `FM`
 - `Tiebreaker`
 
 ### Übersetzungen für häufige Begriffe
@@ -320,7 +322,9 @@ Hochkommata für die Auslassung von Buchstaben (z. B. geht's anstatt geht es ode
 
 ### Zahlen
 
-*Für die Zahlenformatierung, siehe [Wikipedias Schreibweise von Zahlen](https://de.wikipedia.org/wiki/Wikipedia:Schreibweise_von_Zahlen)*
+::: alert-note
+**Anmerkung:** Für die Zahlenformatierung, siehe [Wikipedias Schreibweise von Zahlen](https://de.wikipedia.org/wiki/Wikipedia:Schreibweise_von_Zahlen)
+:::
 
 [Artikel mit informellen Registern](#sprachregister) dürfen diese Sektion ignorieren. Allerdings muss die Benutzung konsistent im gesamten Artikel erfolgen.
 

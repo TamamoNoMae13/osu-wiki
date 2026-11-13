@@ -1,6 +1,8 @@
 # Errores de modding comunes
 
-*Véase también: [Convertirse en Beatmap Nominator § Expectativas de modding](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)*
+::: alert-note
+**Véase también:** [Convertirse en Beatmap Nominator § Expectativas de modding](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)
+:::
 
 Esta guía enseñará varios ejemplos de errores que los [modders](/wiki/Modding/Modder) principiantes suelen cometer cuando [modean](/wiki/Modding) un [beatmap](/wiki/Beatmap).
 
@@ -165,7 +167,7 @@ aprende a mapear y entonces podré modearlo correctamente
 este mapa se vería increible en la basura
 ```
 
-**Evita ser grosero o sarcástico cuando modeas.** Esta conducta acabará dejándote [silenciado](/wiki/Silence), y no es algo que a otras personas les guste leer. Asegúrate de seguir el [código de conducta](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#making-a-mod-post) cuando modeas para mantener un ambiente de modding positivo para todos.
+**Evita ser grosero o sarcástico cuando modeas.** Esta conducta acabará dejándote [silenciado](/wiki/Silence), y no es algo que a otras personas les guste leer. Asegúrate de seguir el [código de conducta](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) cuando modeas para mantener un ambiente de modding positivo para todos.
 
 ---
 

@@ -86,7 +86,7 @@
 | 添加多边形圆圈 (`Ctrl` + `Shift` + `D`) | 以当前的节拍细分设置为准放置圆圈，从而形成含有多个打击圈的正多边形。 |
 | 把滑条转成连打... | 将选定滑条的[主体](/wiki/Gameplay/Hit_object/Slider/Sliderbody)换成[连打串](/wiki/Beatmap/Pattern/osu!/Stream)。**按物件数：**打击圈的总数一定。**按物件间距：**打击圈之间的[距离](/wiki/Client/Beatmap_editor/Distance_snap)一定。 |
 | 启动实时做图模式 (`Ctrl` + Tab) | 在播放歌曲时，用绑定的按键放置 osu!/osu!taiko 的[打击圈](/wiki/Gameplay/Hit_object/Hit_circle)、osu!catch 的[大果](/wiki/Gameplay/Hit_object/Fruit)及 osu!mania 的音符。[^live-mapping-note] |
-| 导入音效 | 打开 osu!mania 难度的[`导入自定义音效`](/wiki/Client/Beatmap_editor/Compose#汇入音效)窗口。 |
+| 导入音效 | 打开 osu!mania 难度的[`导入自定义音效`](/wiki/Client/Beatmap_editor/Compose#音效导入)窗口。 |
 
 ## 设计
 
@@ -126,7 +126,7 @@
 
 | 名称 | 描述 |
 | :-- | :-- |
-| 谱面信息页 | 打开 osu! 网站上此谱面的信息页。 |
+| 谱面信息页 | 打开 osu! 网站上此谱面的[谱面信息页](/wiki/Beatmap_information)。 |
 | 谱面讨论帖 | 打开此谱面的讨论帖。 |
 
 ## 帮助

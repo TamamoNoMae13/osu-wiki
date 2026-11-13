@@ -16,21 +16,27 @@ Numerosi giocatori hanno raggiunto il primo posto in ogni modalità di gioco con
 
 ## ![][osu!] osu!
 
-*Pagina principale: [osu!](osu!)*
+::: alert-note
+**Pagina principale:** [Cronologia delle classifiche di osu!](osu!)
+:::
 
-Al 19 luglio 2021, nella [classifica delle performance di osu!](https://osu.ppy.sh/rankings/osu/performance) il giocatore numero 1 è ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
+Al 11 luglio 2026, nella [classifica delle performance di osu!](https://osu.ppy.sh/rankings/osu/performance) il giocatore numero 1 è ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
 
 ## ![][osu!taiko] osu!taiko
 
-Al 9 ottobre 2023, nella [classifica delle performance di osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) il giocatore numero uno è ::{ flag=JP }:: [Majimanjiwwwww](https://osu.ppy.sh/users/12337864/taiko).
+Al 23 luglio 2026, nella [classifica delle performance di osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) il giocatore numero uno è ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko).
 
 ## ![][osu!catch] osu!catch
 
-Al 7 giugno 2021, nella [classifica delle performance di osu!catch](https://osu.ppy.sh/rankings/fruits/performance) il giocatore numero 1 è ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549/fruits).
+::: alert-note
+**Pagina principale:** [Cronologia delle classifiche di osu!catch](osu!catch)
+:::
+
+Al 15 settembre 2026, nella [classifica delle performance di osu!catch](https://osu.ppy.sh/rankings/fruits/performance) il giocatore numero 1 è ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283).
 
 ## ![][osu!mania] osu!mania
 
-Al 13 aprile 2023, nella [classifica delle performance di osu!mania](https://osu.ppy.sh/rankings/mania/performance) il giocatore numero 1 è ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406/mania).
+Al 4 aprile 2026, nella [classifica delle performance di osu!mania](https://osu.ppy.sh/rankings/mania/performance) il giocatore numero 1 è ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

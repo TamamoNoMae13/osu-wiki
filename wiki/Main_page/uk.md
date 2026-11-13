@@ -41,7 +41,7 @@ outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 
 [Режими гри](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Бітмапи](/wiki/Beatmap) • [Складність](/wiki/Beatmap/Difficulty) • [Ігрові об\'єкти](/wiki/Gameplay/Hit_object) • [Модифікатори](/wiki/Gameplay/Game_modifier) • [Ігрові очки](/wiki/Gameplay/Score) • [Повтор](/wiki/Gameplay/Replay) • [Медалі](/wiki/Medals) • [Мультиплеєр](/wiki/Client/Interface/Multiplayer)
+[Бітмапи](/wiki/Beatmap) • [Складність](/wiki/Beatmap/Difficulty) • [Ігрові об\'єкти](/wiki/Gameplay/Hit_object) • [Модифікатори](/wiki/Gameplay/Game_modifier) • [Ігрові очки](/wiki/Gameplay/Score) • [Повтор](/wiki/Gameplay/Replay) • [Медалі](/wiki/Medals) • [Мультиплеєр](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -117,7 +117,7 @@ osu! не існувала би без допомоги великої кіль�
 
 [Команда osu!](/wiki/People/osu!_team): [Розробники](/wiki/People/Developers) • [Рекомендовані Виконавці](/wiki/People/Featured_Artists) • [Команда Глобальних Модераторів](/wiki/People/Global_Moderation_Team) • [Команда Підтримки](/wiki/People/Support_Team) • [Команда Оцінки Номінацій](/wiki/People/Nomination_Assessment_Team) • [Бітмап Номінатори](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Команда Проекту "Улюблені"](/wiki/People/Project_Loved_Team) • [Куратори Демонстрації Бітмап](/wiki/People/Beatmap_Spotlight_Curators)
 
-[Контрибутори Спільности](/wiki/People/Community_Contributors) • [Єлітні Номінатори](/wiki/People/Elite_Nominators) • [Група користувачів](/wiki/People/User_group) • [Користувачі з унікальними титулами](/wiki/People/Users_with_unique_titles) • [Центуріони](/wiki/People/Centurions) • [Завершальники](/wiki/People/Completionists) • [Турнірний Комітет](/wiki/People/Tournament_Committee) • [Комітет Очків Продуктивності](/wiki/People/Performance_Points_Committee) • [Ті хто підтримує osu! вікі](/wiki/People/osu!_wiki_maintainers)
+[Контрибутори Спільности](/wiki/People/Community_Contributors) • [Єлітні Номінатори](/wiki/People/Elite_Nominators) • [Групи користувачів](/wiki/People/User_groups) • [Користувачі з унікальними титулами](/wiki/People/Users_with_unique_titles) • [Центуріони](/wiki/People/Centurions) • [Завершальники](/wiki/People/Completionists) • [Турнірний Комітет](/wiki/People/Tournament_Committee) • [Комітет Очків Продуктивності](/wiki/People/Performance_Points_Committee) • [Ті хто підтримує osu! вікі](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -126,7 +126,7 @@ osu! не існувала би без допомоги великої кіль�
 
 Взаємодійте з osu! через інші застосунки та медіа, або допомжіть їй зростати далі.
 
-[API](/wiki/osu!api) • [Бот акаунт](/wiki/Bot_account) • [Рекомендації щодо ідентичності бренду](/wiki/Brand_identity_guidelines) • [osu! Discord сервер](/wiki/Community/osu!_Discord_server)
+[API](/wiki/osu!api) • [Бот акаунт](/wiki/Bot_account) • [Рекомендації щодо ідентичності бренду](/wiki/Brand_identity_guidelines) • [osu! Discord сервер](/wiki/Community/Discord_servers#official)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -8,13 +8,13 @@ tags:
   - ГД
   - гостевая дифка
   - гостевая диффка
-outdated_translation: true
-outdated_since: 027b9fddf66f3afb730270124a3771ae09ad8f77
 ---
 
 # Гостевая сложность
 
-*Подробнее о правилах, связанных с гостевыми сложностями: [Критерии ранкинга](/wiki/Ranking_criteria)*
+::: alert-note
+**Примечание:** Подробнее о правилах, связанных с гостевыми сложностями [Критерии ранкинга](/wiki/Ranking_criteria)
+:::
 
 **Гостевая сложность** (англ. *guest difficulty*, *GD*, жарг. *ГД*) — это [сложность](/wiki/Beatmap/Difficulty) [карты](/wiki/Beatmap), которая создана не [её владельцем](/wiki/Beatmap/Beatmap_host), а другим маппером. Гостевую сложность можно отличить по названию, куда обычно входит ник её автора.
 
@@ -30,4 +30,4 @@ outdated_since: 027b9fddf66f3afb730270124a3771ae09ad8f77
 
 Владелец карт может указать, кто именно сделал гостевую сложность, открыв [страницу обсуждения карты](/wiki/Beatmap_discussion) и нажав на кнопку `Difficulty Owner`. Авторство позволяет гостевому мапперу самостоятельно закрывать проблемы, найденные моддерами на его сложности.
 
-Если карта является [квалифицированной](/wiki/Beatmap/Category#qualified), [ранкнутой](/wiki/Beatmap/Category#ranked) или [любимой](/wiki/Beatmap/Category#loved), авторство её сложностей нельзя изменить.
+Если карта является [квалифицированной](/wiki/Beatmap/Category#qualified), [ранкнутой](/wiki/Beatmap/Category#ranked) или [любимой](/wiki/Beatmap/Category#loved), авторство её сложностей нельзя изменить самостоятельно: для этого нужно обратиться к членам команд [GMT](/wiki/People/Global_Moderation_Team) или [NAT](/wiki/People/Nomination_Assessment_Team).

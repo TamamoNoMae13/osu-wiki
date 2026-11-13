@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_since: 7c0233d7bed62ea34b54f50cc108b9ee9f4c839b
+outdated_translation: true
 ---
 
 # Compression des fichiers
@@ -97,7 +99,9 @@ En général, le OGG (Vorbis) offre une meilleure qualité que le MP3 pour un d�
 
 ### Utilisation de Audacity
 
-*Voir également : [Guide d'édition audio](/wiki/Guides/Audio_editing#audacity)*
+::: alert-note
+**Voir également** : [Guide d'édition audio](/wiki/Guides/Audio_editing#audacity)
+:::
 
 Pour commencer, téléchargez et installez [Audacity](https://www.audacityteam.org/), puis suivez les étapes suivantes :
 
@@ -118,7 +122,10 @@ Pour commencer, téléchargez et installez [Audacity](https://www.audacityteam.o
 
 5. Une fois les métadonnées saisies, qui peuvent être laissées vides si vous le souhaitez, cliquez sur `OK` pour commencer le réencodage.
 
-*Note : Cliquer sur `Annuler` dans la boîte de dialogue des métadonnées interrompt le processus de réencodage.*
+::: alert-notice
+**Note**
+Cliquer sur `Annuler` dans la boîte de dialogue des métadonnées interrompt le processus de réencodage.
+:::
 
 ### Utilisation de FFmpeg
 
